@@ -1,5 +1,1769 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iati-activities version="2.02">
+<iati-activities version="2.03">
+ <iati-activity default-currency="GBP" dstore:dataset="aauk-activities" dstore:index="42" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-274467-102161</iati-identifier>
+  <reporting-org ref="GB-CHC-274467" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Empowering communities to challenge FGM and prevent COVID-19 in Gabiley</narrative>
+  </title>
+  <description type="2">
+   <narrative xml:lang="EN">This project aims to replicate the successful approaches of FGM prevention projects previously supported by the Adelman Foundation, and combine COVID-19 prevention messaging to ensure the wide range of community representatives involved in challenging FGM are also able to share lifesaving information on COVID-19.
+
+The COVID-19 prevention activities will reach 16,000 households, directly benefitting approximately 96,000 people. By supporting Somaliland&#x2019;s efforts to reduce the spread and impact of COVID-19, we hope to strengthen our FGM programme. The FGM component of this project will directly benefit 1,208 people living in rural communities of Gabiley District, indirectly benefitting tens of thousands more through the sharing of information and influencing up to 20,000 people through media programmes.</narrative>
+  </description>
+  <participating-org role="1" type="90">
+   <narrative xml:lang="EN">AAUK Trusts and Foundations</narrative>
+  </participating-org>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">ActionAid Somaliand</narrative>
+  </participating-org>
+  <participating-org activity-id="GB-CHC-274467-102161" ref="GB-CHC-274467" role="2" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </participating-org>
+  <activity-status code="3"></activity-status>
+  <activity-date iso-date="2020-11-01" type="2"></activity-date>
+  <activity-date iso-date="2021-04-30" type="4"></activity-date>
+  <contact-info type="2">
+   <organisation>
+    <narrative xml:lang="EN">ActionAid UK - Philanthropy and Partnerships Team</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Fundraising Department</narrative>
+   </department>
+   <telephone>00442031220561</telephone>
+   <email>Transparency.UK@actionaid.org</email>
+   <website>https://www.actionaid.org.uk/</website>
+  </contact-info>
+  <recipient-country code="SO" percentage="100"></recipient-country>
+  <sector code="72010" percentage="10" vocabulary="1">
+   <narrative xml:lang="EN">COVID-19 prevention</narrative>
+  </sector>
+  <sector code="15180" percentage="90" vocabulary="1">
+   <narrative xml:lang="EN">FGM prevention</narrative>
+  </sector>
+  <policy-marker code="1" significance="1" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-11-15"></period-start>
+   <period-end iso-date="2021-05-14"></period-end>
+   <value currency="GBP" value-date="2020-09-30">36254</value>
+  </budget>
+  <transaction humanitarian="0" ref="Fund allocation from AAUK Trusts and Foundations to ActionAid UK">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2020-09-09"></transaction-date>
+   <value currency="GBP" value-date="2020-09-09">36254</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from AAUK Trusts and Foundations to AAUK</narrative>
+   </description>
+   <provider-org type="60">
+    <narrative xml:lang="EN">AAUK Trusts and Foundations</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Fund allocation from AAUK to AA Somaliland">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-10-30"></transaction-date>
+   <value currency="GBP" value-date="2020-10-30">31354</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from AAUK to AA Somaliland</narrative>
+   </description>
+  </transaction>
+  <transaction ref="Fund allocation from AAUK to AASomaliland">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-11-01"></transaction-date>
+   <value currency="GBP" value-date="2020-11-01">31354</value>
+   <provider-org provider-activity-id="ActionAid UK" ref="ActionAid UK" type="21"></provider-org>
+   <receiver-org ref="ActionAid Somaliland" type="22"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+  </transaction>
+  <transaction ref="AAUK support costs">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2020-11-01"></transaction-date>
+   <value currency="GBP" value-date="2020-11-02">4900</value>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="aauk-activities" dstore:index="43" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-274467-102163</iati-identifier>
+  <reporting-org ref="GB-CHC-274467" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Myanmar response to the Covid-19 pandemic</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">This 6 month project will support people in Myanmar by reducing food insecurity among conflict affected communities, providing personal protective equipment to 21 rural health centres, and addressing gender-based violence &#x2013; all issues which have been exacerbated by the lockdown and Covid-19 restrictions</narrative>
+  </description>
+  <participating-org activity-id="GB-CHC-274467-102163" role="1" type="60">
+   <narrative xml:lang="EN">AAUK Trusts and Foundations</narrative>
+  </participating-org>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">ActionAid Myanmar</narrative>
+  </participating-org>
+  <participating-org activity-id="GB-CHC-274467-102163" ref="GB-CHC-274467" role="2" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-10-01" type="1"></activity-date>
+  <activity-date iso-date="2021-03-31" type="3"></activity-date>
+  <contact-info type="2">
+   <organisation>
+    <narrative xml:lang="EN">ActionAid UK - Philanthropy &amp; Partnerships team</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Fundraising Directorate</narrative>
+   </department>
+   <telephone>00442031220561</telephone>
+   <email>Transparency.UK@actionaid.org</email>
+   <website>https://www.actionaid.org.uk/</website>
+  </contact-info>
+  <recipient-country code="MM" percentage="100"></recipient-country>
+  <sector code="15180" percentage="40" vocabulary="1"></sector>
+  <sector code="72011" percentage="25" vocabulary="1"></sector>
+  <sector code="72040" percentage="35" vocabulary="1"></sector>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="4" vocabulary="2"></default-aid-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-aid-type code="I" vocabulary="3"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-10-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="USD" value-date="2020-10-31">129381</value>
+  </budget>
+  <transaction humanitarian="1" ref="Funds transferred by AAUK to ActionAid Myanmar">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-11-03"></transaction-date>
+   <value currency="USD" value-date="2020-11-03">120458</value>
+   <provider-org provider-activity-id="GB-CHC-274467-102163" ref="GB-CHC-274467" type="21"></provider-org>
+   <receiver-org ref="ActionAid Myanmar" type="21"></receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Fund allocation from donor to AAUK">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-10-13"></transaction-date>
+   <value currency="USD" value-date="2020-10-13">129381</value>
+   <provider-org ref="AAUK Trusts and Foundations" type="21"></provider-org>
+   <receiver-org ref="GB-CHC-274467" type="21"></receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="AAUK costs">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2020-11-03"></transaction-date>
+   <value currency="USD" value-date="2020-10-01">8923</value>
+   <provider-org ref="AAUK Trusts and Foundations" type="21"></provider-org>
+   <receiver-org ref="GB-CHC-274467" type="21"></receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="aauk-activities" dstore:index="44" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-274467-102178</iati-identifier>
+  <reporting-org ref="GB-CHC-274467" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">DEC Coronavirus Appeal</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">DEC Coronavirus Appeal 2020 in Afghanistan, DRC, Somaliland &amp; Bangladesh
+
+Afghanistan: COVID-19 emergency assistance to the most vulnerable families of Kabul, Afghanistan.
+
+DRC: Increasing resilience of vulnerable population to reduce the impact of COVID 19 in the Fizi Territory of the South Kivu Province of DRC.
+
+Rohingya Response: Emergency response to minimise the risk of COVID-19 transmission in Rohingya camps of Bangladesh.
+
+Somaliland: Community Based COVID-19 Response: Mitigating the spread of COVID-19 in Somaliland through WASH, Health, Protection and Food assistance.</narrative>
+  </description>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">ActionAid Afghanistan</narrative>
+  </participating-org>
+  <participating-org ref="BD-NAB-0210" role="4" type="21">
+   <narrative xml:lang="EN">ActionAid Bangladesh</narrative>
+  </participating-org>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">ActionAid DRC</narrative>
+  </participating-org>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">ActionAid Somaliand</narrative>
+  </participating-org>
+  <participating-org activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" role="2" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </participating-org>
+  <participating-org activity-id="GB-CHC-1062638-CVA20" ref="GB-CHC-1062638" role="1" type="22">
+   <narrative xml:lang="EN">Disasters Emergency Committee</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-06-14" type="2"></activity-date>
+  <activity-date iso-date="2021-06-30" type="3"></activity-date>
+  <contact-info type="2">
+   <organisation>
+    <narrative xml:lang="EN">ActionAid UK - Programme Quality and Assurance Team</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Humanitarian Policy and Practice</narrative>
+   </department>
+   <telephone>02031220561</telephone>
+   <email>Transparency.UK@actionaid.org</email>
+   <website>https://www.actionaid.org.uk/</website>
+   <mailing-address>
+    <narrative xml:lang="EN">33-39 Bowling Green Lane London EC1R 0BJ</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="AF" percentage="25"></recipient-country>
+  <recipient-country code="BD" percentage="25"></recipient-country>
+  <recipient-country code="CD" percentage="25"></recipient-country>
+  <recipient-country code="SO" percentage="25"></recipient-country>
+  <sector code="72010" percentage="100" vocabulary="1"></sector>
+  <humanitarian-scope code="HCOVD20" type="2" vocabulary="2-1">
+   <narrative xml:lang="EN">Global Humanitarian Response Plan COVID-19</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="EP-2020-000012-AFG" type="2" vocabulary="1-2">
+   <narrative xml:lang="EN">The new strain of coronavirus (COVID-19), has originated in Wuhan, China. Coronaviruses are a large family of viruses with some causing less-severe disease, such as the common cold, and others more severe disease such as MERS and SARS, and has impacted also Afghanistan. Authorities have reported as of April 20 more than 1026 total cases, with over 33 deaths.</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="EP-2020-000012-BGD" type="2" vocabulary="1-2">
+   <narrative xml:lang="EN">The new strain of coronavirus (COVID-19), has originated in Wuhan, China. Coronaviruses are a large family of viruses with some causing less-severe disease, such as the common cold, and others more severe disease such as MERS and SARS, and has impacted also Bangladesh. Authorities have reported as of April 20 more than 2948 total cases, with over 101 deaths.</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="EP-2020-000012-SOM" type="2" vocabulary="1-2">
+   <narrative xml:lang="EN">The new strain of coronavirus (COVID-19), has originated in Wuhan, China. Coronaviruses are a large family of viruses with some causing less-severe disease, such as the common cold, and others more severe disease such as MERS and SARS. Authorities have reported as of April 20 more than 164 total cases, with over 7 deaths.</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="EP-2020-000012-COD" type="2" vocabulary="1-2">
+   <narrative xml:lang="EN">The new strain of coronavirus (COVID-19), has originated in Wuhan, China. Coronaviruses are a large family of viruses with some causing less-severe disease, such as the common cold, and others more severe disease such as MERS and SARS. Authorities have reported as of April 20 more than 327 total cases, with over 25 deaths.</narrative>
+  </humanitarian-scope>
+  <collaboration-type code="2"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="4" vocabulary="2"></default-aid-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-aid-type code="I" vocabulary="3"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-06-14"></period-start>
+   <period-end iso-date="2021-06-13"></period-end>
+   <value currency="GBP" value-date="2020-09-22">624922</value>
+  </budget>
+  <transaction humanitarian="1" ref="1st Fund transfer from AAUK to AADRC for Phase 1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-02"></transaction-date>
+   <value currency="GBP" value-date="2020-09-02">91970</value>
+   <description>
+    <narrative xml:lang="EN">1st Fund transfer from AAUK to AADRC for Phase 1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">ActionAid DRC</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="1st Fund transfer from AAUK to AADRC for Phase 2">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-03-16"></transaction-date>
+   <value currency="GBP" value-date="2021-03-16">88633</value>
+   <description>
+    <narrative xml:lang="EN">1st Fund transfer from AAUK to AADRC for Phase 2</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">ActionAid DRC</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="2nd Fund Allocation from DEC to ActionAid UK">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2020-11-30"></transaction-date>
+   <value currency="GBP" value-date="2020-11-30">288600</value>
+   <description>
+    <narrative xml:lang="EN">2nd Fund Allocation from DEC to ActionAid UK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-1062638-CVA20" ref="GB-CHC-1062638" type="22">
+    <narrative xml:lang="EN">DEC</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="2nd Fund transfer from AAUK to AADRC for Phase 1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-11-19"></transaction-date>
+   <value currency="GBP" value-date="2020-11-19">28030</value>
+   <description>
+    <narrative xml:lang="EN">2nd Fund transfer from AAUK to AADRC for Phase 1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">ActionAid DRC</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Fund allocation from AAUK to AAIS for Phase 1">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-09-30"></transaction-date>
+   <value currency="GBP" value-date="2020-09-30">120000</value>
+   <description>
+    <narrative xml:lang="EN">AAUK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">ActionAid Somaliland</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="1st Fund Allocation from DEC to ActionAid UK">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2020-09-23"></transaction-date>
+   <value currency="GBP" value-date="2020-09-23">624922</value>
+   <description>
+    <narrative xml:lang="EN">Fund Allocation from DEC to ActionAid UK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-1062638-CVA20" ref="GB-CHC-1062638" type="22">
+    <narrative xml:lang="EN">DEC</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Fund allocation from AAUK to AAA for Phase 1">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-09-30"></transaction-date>
+   <value currency="GBP" value-date="2020-09-30">120077</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from AAUK to AAA for Phase 1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">AA Afghanistan</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Fund allocation from AAUK to AADRC for Phase 1">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-08-19"></transaction-date>
+   <value currency="GBP" value-date="2020-08-19">120021</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from AAUK to AADRC for Phase 1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">ActionAid DRC</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Fund allocation from AAUK to AADRC for Phase 2">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2021-03-16"></transaction-date>
+   <value currency="GBP" value-date="2021-03-16">134470</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from AAUK to AADRC for Phase 2</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">ActionAid DRC</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Fund allocation from AAUK to IHART">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-09-30"></transaction-date>
+   <value currency="GBP" value-date="2020-09-30">20000</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from AAUK to IHART</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="NL-KVK-27264198" ref="ActionAid International" type="21">
+    <narrative xml:lang="EN">AAI</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Fund allocation from AAUK to AAB for Phase 1">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-10-14"></transaction-date>
+   <value currency="GBP" value-date="2020-10-14">120000</value>
+   <provider-org provider-activity-id="GB-CHC-274467-102178" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org ref="BD-NAB-0210">
+    <narrative xml:lang="EN">AAB</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="1st fund transfer from AAUK to AAA for Phase 1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-24"></transaction-date>
+   <value currency="GBP" value-date="2020-09-24">60000</value>
+   <provider-org ref="ActionAid UK" type="21"></provider-org>
+   <receiver-org ref="ActionAid Afghanistan" type="22"></receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="2nd fund transfer from AAUK to AAA for Phase 1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-14"></transaction-date>
+   <value currency="GBP" value-date="2020-12-14">60077</value>
+   <provider-org ref="ActionAid UK" type="21"></provider-org>
+   <receiver-org ref="ActionAid Afghanistan" type="22"></receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="1st fund transfer from AAUK to AAIS for Phase 1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-28"></transaction-date>
+   <value currency="GBP" value-date="2020-09-28">79724</value>
+   <provider-org ref="ActionAid UK" type="21"></provider-org>
+   <receiver-org ref="ActionAid Somaliland" type="22"></receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="aauk-activities" dstore:index="46" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-274467-205210-225</iati-identifier>
+  <reporting-org ref="GB-CHC-274467" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Not Any Girl: Reducing violence against girls in 3 counties in Kenya</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">The project will: empower vulnerable girls and community members in 3 counties in Kenya to speak out and report cases of violence; work with duty bearers to increase state accountability and effectiveness to respond to violence against girls (VAG); and build the capacity of women&#x2019;s rights networks (WRNs) members to strengthen community based protection mechanisms against VAG. In April 2020 some funds were repurposed to support COVID-19 response including hygiene promotion (WASH), strengthening community-based protection mechanisms,advocacy, messaging through SMS, provision of dignity kits.</narrative>
+  </description>
+  <participating-org role="1" type="90">
+   <narrative xml:lang="EN">AAUK Individual Giving</narrative>
+  </participating-org>
+  <participating-org role="1" type="90">
+   <narrative xml:lang="EN">AAUK Trusts and Foundations</narrative>
+  </participating-org>
+  <participating-org activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" role="4" type="21">
+   <narrative xml:lang="EN">ActionAid International Kenya</narrative>
+  </participating-org>
+  <participating-org activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" role="2" type="21">
+   <narrative xml:lang="EN">ActionAid UK</narrative>
+  </participating-org>
+  <participating-org activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" role="3" type="70">
+   <narrative xml:lang="EN">MannionDaniels</narrative>
+  </participating-org>
+  <participating-org ref="GB-GOV-1" role="1" type="10">
+   <narrative xml:lang="EN">UK - Department for International Development (DFID)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2018-10-15" type="1"></activity-date>
+  <activity-date iso-date="2018-10-15" type="2"></activity-date>
+  <activity-date iso-date="2021-10-14" type="3"></activity-date>
+  <contact-info type="2">
+   <organisation>
+    <narrative xml:lang="EN">ActionAid UK - Programme Quality and Assurance Team</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">International Development Policy and Practice</narrative>
+   </department>
+   <telephone>+44 (0)20 3122 -561</telephone>
+   <email>Transparency.UK@actionaid.org</email>
+   <website>https://www.actionaid.org.uk/</website>
+  </contact-info>
+  <recipient-country code="KE" percentage="100"></recipient-country>
+  <sector code="15180" percentage="98" vocabulary="1"></sector>
+  <sector code="72010" percentage="2" vocabulary="1"></sector>
+  <policy-marker code="1" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="2" type="2">
+   <period-start iso-date="2018-10-15"></period-start>
+   <period-end iso-date="2019-03-31"></period-end>
+   <value currency="GBP" value-date="2018-10-15">96966</value>
+  </budget>
+  <budget status="2" type="2">
+   <period-start iso-date="2019-04-01"></period-start>
+   <period-end iso-date="2020-03-31"></period-end>
+   <value currency="GBP" value-date="2018-10-15">450689</value>
+  </budget>
+  <budget status="2" type="2">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2018-10-15">463680</value>
+  </budget>
+  <budget status="2" type="2">
+   <period-start iso-date="2021-04-01"></period-start>
+   <period-end iso-date="2021-10-14"></period-end>
+   <value currency="GBP" value-date="2018-10-15">162751</value>
+  </budget>
+  <transaction humanitarian="0" ref="Fund allocation from AAUK to AAIK">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2018-10-15"></transaction-date>
+   <value currency="GBP" value-date="2018-10-15">994906</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid International Kenya</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction humanitarian="0" ref="Fund allocation from DFID to AAUK">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2018-10-15"></transaction-date>
+   <value currency="GBP" value-date="2018-10-15">1143295</value>
+   <description>
+    <narrative xml:lang="EN">Fund allocation from DFID to AAUK</narrative>
+   </description>
+   <provider-org ref="GB-GOV-1" type="10">
+    <narrative xml:lang="EN">DFID</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y1 Q1">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2019-03-19"></transaction-date>
+   <value currency="GBP" value-date="2019-03-19">22555.85</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y1 Q1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">MannionDaniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y2 Q2">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-06-09"></transaction-date>
+   <value currency="GBP" value-date="2020-06-09">79503</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y2 Q2</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">Mannion Daniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y2 Q3">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-09-15"></transaction-date>
+   <value currency="GBP" value-date="2020-09-15">68323.77</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y2 Q2</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">Mannion Daniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction ref="Incoming funds Y2 Q4">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-12-15"></transaction-date>
+   <value currency="GBP" value-date="2020-12-15">87406.79</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y2 Q4</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">Mannion Daniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAId UK</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y3 Q1">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2021-03-16"></transaction-date>
+   <value currency="GBP" value-date="2021-03-16">93336</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y3 Q1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">Mannion Daniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAId UK</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y2 Q1">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-03-25"></transaction-date>
+   <value currency="GBP" value-date="2020-03-25">141247</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">Mannion Daniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+  <transaction humanitarian="0" ref="1st Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2019-05-09"></transaction-date>
+   <value currency="GBP" value-date="2019-05-09">22556</value>
+   <description>
+    <narrative xml:lang="EN">1st Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid International Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="2nd Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2019-07-10"></transaction-date>
+   <value currency="GBP" value-date="2019-07-10">58970</value>
+   <description>
+    <narrative xml:lang="EN">2nd Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid International Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="3rd Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2019-12-13"></transaction-date>
+   <value currency="GBP" value-date="2019-12-13">121857.82</value>
+   <description>
+    <narrative xml:lang="EN">3rd Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="4th Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-01-16"></transaction-date>
+   <value currency="GBP" value-date="2020-01-16">92826</value>
+   <description>
+    <narrative xml:lang="EN">4th Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="5th Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-04-02"></transaction-date>
+   <value currency="GBP" value-date="2020-04-02">133152</value>
+   <description>
+    <narrative xml:lang="EN">5th Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="6th Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-07-15"></transaction-date>
+   <value currency="GBP" value-date="2020-07-15">71500.84</value>
+   <description>
+    <narrative xml:lang="EN">6th Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="7th Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-10-07"></transaction-date>
+   <value currency="GBP" value-date="2020-10-07">60440.89</value>
+   <description>
+    <narrative xml:lang="EN">7th Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid  UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21"></receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="8th Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-01-12"></transaction-date>
+   <value currency="GBP" value-date="2021-01-12">77839.75</value>
+   <description>
+    <narrative xml:lang="EN">8th Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="E-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="9th Fund transfer from AAUK to AAIK">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-04-22"></transaction-date>
+   <value currency="GBP" value-date="2021-04-22">83163</value>
+   <description>
+    <narrative xml:lang="EN">9th Fund transfer from AAUK to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="AAUK costs Yr1 Q2">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2019-03-31"></transaction-date>
+   <value currency="GBP" value-date="2019-03-31">15441</value>
+   <description>
+    <narrative xml:lang="EN">AAUK costs Yr1 Q2</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="Action Aid UK Costs Y1 Q3">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2019-06-30"></transaction-date>
+   <value currency="GBP" value-date="2019-06-30">8740.34</value>
+   <description>
+    <narrative xml:lang="EN">AAUK costs Yr1 Q3</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="AAUK costs on additional funding">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2020-11-20"></transaction-date>
+   <value currency="GBP" value-date="2020-11-20">864.81</value>
+   <description>
+    <narrative xml:lang="EN">AAUK costs on additional funding</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Action Aid UK Costs Y1 Q4">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2019-12-19"></transaction-date>
+   <value currency="GBP" value-date="2019-12-19">5639</value>
+   <description>
+    <narrative xml:lang="EN">Action Aid UK Costs Y1 Q4</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Action Aid UK Costs Y2 Q1">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2020-03-25"></transaction-date>
+   <value currency="GBP" value-date="2020-03-25">8095</value>
+   <description>
+    <narrative xml:lang="EN">Action Aid UK Costs Y2 Q1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Action Aid UK Costs Y2 Q2">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2020-06-09"></transaction-date>
+   <value currency="GBP" value-date="2020-06-09">8002.86</value>
+   <description>
+    <narrative xml:lang="EN">Action Aid UK Costs Y2 Q2</narrative>
+   </description>
+   <provider-org provider-activity-id="B-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Action Aid UK Costs Y2 Q3">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2020-09-15"></transaction-date>
+   <value currency="GBP" value-date="2020-09-15">7882.88</value>
+   <description>
+    <narrative xml:lang="EN">Action Aid UK Costs Y2 Q3</narrative>
+   </description>
+   <provider-org provider-activity-id="B-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Action Aid UK Costs Y2 Q4">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2020-12-15"></transaction-date>
+   <value currency="GBP" value-date="2020-12-15">9567.04</value>
+   <description>
+    <narrative xml:lang="EN">Action Aid UK Costs Y2 Q4</narrative>
+   </description>
+   <provider-org provider-activity-id="B-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Action Aid UK Costs Y3 Q1">
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2021-03-16"></transaction-date>
+   <value currency="GBP" value-date="2021-03-16">10173</value>
+   <description>
+    <narrative xml:lang="EN">Action Aid UK Costs Y3 Q1</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Additional funding allocated to AAIK">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-11-20"></transaction-date>
+   <value currency="GBP" value-date="2020-11-20">31656.35</value>
+   <description>
+    <narrative xml:lang="EN">Additional funding allocated to AAIK</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">ActionAid Kenya</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Additional funding from AAUK Individual Giving">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2020-11-20"></transaction-date>
+   <value currency="GBP" value-date="2020-11-20">6656</value>
+   <description>
+    <narrative xml:lang="EN">Additional funding from AAUK Individual Giving</narrative>
+   </description>
+   <provider-org type="90">
+    <narrative xml:lang="EN">AAUK Individual Giving</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Additional funding from AAUK Trusts and Foundations">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2020-11-20"></transaction-date>
+   <value currency="GBP" value-date="2020-11-20">25000</value>
+   <description>
+    <narrative xml:lang="EN">Additional funding from AAUK Trusts and Foundations</narrative>
+   </description>
+   <provider-org type="90">
+    <narrative xml:lang="EN">AAUK Trusts and Foundations</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Additional funding received by AAUK">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-11-20"></transaction-date>
+   <value currency="GBP" value-date="2020-11-20">31656.35</value>
+   <description>
+    <narrative xml:lang="EN">Additional funding received by AAUK</narrative>
+   </description>
+   <provider-org>
+    <narrative xml:lang="EN">AAUK Trusts and Foundation and Individual Giving</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Funds allocated to COVID-19 response">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-04-29"></transaction-date>
+   <value currency="GBP" value-date="2020-04-29">38737</value>
+   <description>
+    <narrative xml:lang="EN">Funds allocated to COVID-19 response</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">AAUK</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="KE-NCB-OP/218/051/924/84-NAG" ref="KE-NCB-OP/218/051/924/84" type="21">
+    <narrative xml:lang="EN">AAIK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y1 Q2">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2019-06-11"></transaction-date>
+   <value currency="GBP" value-date="2019-06-11">74410</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y1 Q2</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">MannionDaniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y1 Q3">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2019-09-12"></transaction-date>
+   <value currency="GBP" value-date="2019-09-12">130598.16</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y1 Q3</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">Mannion Daniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="0" ref="Incoming funds Y1 Q4">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2019-12-19"></transaction-date>
+   <value currency="GBP" value-date="2019-12-19">98465</value>
+   <description>
+    <narrative xml:lang="EN">Incoming funds Y1 Q4</narrative>
+   </description>
+   <provider-org provider-activity-id="GB-COH-04105827-AIDMATCHII" ref="GB-COH-04105827" type="70">
+    <narrative xml:lang="EN">Mannion Daniels</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="GB-CHC-274467-205210-225" ref="GB-CHC-274467" type="21">
+    <narrative xml:lang="EN">ActionAid UK</narrative>
+   </receiver-org>
+  </transaction>
+  <document-link format="APPLICATION/PDF" url="https://aidstream.org/files/documents/Copy-of-2-20190718020738.-Project-Logframe-ActionAid-FINAL.pdf">
+   <title>
+    <narrative xml:lang="EN">Not Any Girl - Project Logframe</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Not Any Girl - Project Logframe</narrative>
+   </description>
+   <category code="A08"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2019-07-18"></document-date>
+  </document-link>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="mrg-activities" dstore:index="1" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-282305-All4All</iati-identifier>
+  <reporting-org ref="GB-CHC-282305" secondary-reporter="1" type="21">
+   <narrative xml:lang="EN">Minority Rights Group</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">&quot;All4All&quot; October-December 2020</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Update on MRG&#x2019;s activities within the &#x2018;All4All&#x2019; project
+
+The PADs continued collecting cases of discrimination between October and December and the team also received the cases collected through the Observatory. During these three months, we (PAD and O3DT) collected a total of 156 cases, which they can be grouped as follows: 105 based on SOGIE, 32on the basis of nationality and skin colour (Sub-Saharan migrants), 6 on the basis of skin colour (Black Tunisians), 10 based on disabilities and 3 cases of intersectional discrimination (skin colour and SOGIE). Most of these cases were collected in Tunis (81) followed by the Sahel (22).
+Our lawyers provided legal support to 41 persons between October and December 2020, including legal consultancies and defence in hearings. For instance, we supported 2 cases where black women were victims of racial assault, 1 case of discrimination based on freedom of religion and belief, 2 cases defending 5 people with disabilities, 6 legal consultancy and 1 case of discrimination against 18 Sub-Saharans and 6 cases defending 15 persons based on SOGIE.
+As part of our continuous support to the lawyers of the clinic, and in light of the role that lawyers play to strengthen our advocacy efforts, MRG organised an online meeting with lawyers to debate the challenges related to the implementation of law 50-2018 and how to address them. Highlighting the importance of these activities, meetings on a variety of topics will be held regularly with the lawyers to support our legal and advocacy efforts. Furthermore, our team holds regular meetings and follow-ups with the CSOs in charge of implementing the advocacy projects that were selected in the previous reporting period to guide them in their projects.
+In November, a Communication Officer and a Programmes Assistant joined MRG to support our work in Tunisia. In November, we also recruited a team of 2 consultants to conduct a baseline study on the situation of minorities in Tunisia. A group of 3 consultants was commissioned in December to conduct a research on the impact of Covid-19 on minorities and other marginalized groups in Tunisia.
+In late December, we launched a call to recruit 2 tutors for the Arabic and French versions of the free online journalists&#x2019; training on &#x2018;Non-Discrimination and Diversity in the Media&#x2019;. We are also receiving applications from candidates to participate in both Arabic and French version of the training. 
+Since the beginning of &#x201C;All for All&#x201D; in July, our Facebook page &#x201C;Points Anti-Discrimination&#x201D; gained 500 new likes which led to more public engagement with our posts.</narrative>
+  </description>
+  <description type="4">
+   <narrative xml:lang="EN">Update on the O3DT&#x2019;s activities under the &#x201C;All4All&#x201D; project
+
+&#xF076;	4 Trainings in intersectionality for the benefit of the Observatory&#x2019;s partners (80 participants: 49 NGOs: 54 women/26 men) as follows:
+-	23rd-25th of October(2 groups) for partners located in the Center East and West, which took place in Hammamet. 30 participants benefited from the training: 17 NGOs, 20 women and 10 men 
+-	28th-29th of November for partners located in the North East and West, which took place in Bizerte. 23 participants benefited from the training: 16 NGOs, 18 women and 5 men 
+-	18th-29th of December for partners located in the North East, which took place in Tunis. 27 participants benefited from the training: 16 NGOs, 16 women and 11 men
+
+&#xF076;	82 cases of discrimination were reported between October and end of December and sent to MRG for analysis.
+&#xF076;	A participative mapping of needs was conducted and elaborated by a consultant for the benefit of the Observatory&#x2019;s partners.
+&#xF076;	A Participative diagnosis was conducted.
+&#xF076;	15 associations joined the Observatory between October and December.
+&#xF076;	2 Newsletters (of October and November) were published and sent to our partners.
+&#xF076;	https://o3dt.org/ in its new design as well as the Platform dedicated to Partners are revealed.
+&#xF076;	A call for projects was shared with the Observatory&#x2019;s partners and 22 projects were received. The Observatory will be supporting financially 14 selected projects.
+&#xF076;	A parliamentary day, an advocacy event, is being currently organized in partnership with MRG and is to take place soon.
+&#xF076;	The logo of the project All for All is being finalized.
+&#xF076;	Between July and December 2020, the Observatory&#x2019;s Facebook page saw an increase in the number of its followers by +516 new subscriptions.
+&#xF076;	Since the creation of the Instagram account in July 2020, 165 followers subscribed to the page.
+&#xF076;	A call for scripts was published in Jamaity.org and the Observatory&#x2019;s social media to produce two awareness-raising videos about the right to difference. The project&#x2019;s team is currently selecting contractors. 
+&#xF076;	59 out of 72 associations signed the charter of values of O3DT.</narrative>
+  </description>
+  <participating-org crs-channel-code="21000" role="4" type="22">
+   <narrative xml:lang="EN">Association for the Promotion of the Right to Difference</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-10-01" type="2"></activity-date>
+  <recipient-country code="TN" percentage="100"></recipient-country>
+  <sector code="15160" percentage="100" vocabulary="1"></sector>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="mrg-activities" dstore:index="5" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-282305-XM-DAC-7-PPR-4000004021</iati-identifier>
+  <reporting-org ref="GB-CHC-282305" secondary-reporter="1" type="21">
+   <narrative xml:lang="EN">Minority Rights Group</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">&quot;All for All&quot; For the right to be different and the elimination of all forms of discrimination in Tunisia</narrative>
+  </title>
+  <description type="3">
+   <narrative xml:lang="EN">1. Tunisian CSOs working in the field of human rights and in the fight against all forms of discrimination, and in particular the associations that are part of the Observatory for the Right to Difference (57 organizations in 14 governorates) and the network of Anti-Discrimination Points (10 organizations in 8 governorates including the ADD) 2. Tunisian lawyers (members of the legal clinic); 3. Tunisian journalists; 4. The Tunisian media ; 5. The Tunisian government and international actors such as the Committee on the Elimination of Racial Discrimination, HRC, and UPR; 6. Associations with a cultural mandate</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">In Tunisia, many sexual, ethnic, religious, and cultural minorities constantly face deep-rooted discrimination in Tunisian society even though the principle of equality among citizens is enshrined in the 2014 Constitution. This equality remains theoretical insofar as these forms of discrimination are particularly entrenched in Tunisian society, and are reflected in public and media discourse, thus ignoring the existence and rights of these minorities. The LGBTQI+ community rights and freedoms of LGBTQI+ people are seriously threatened by recurring and trivialized acts of torture, arbitrary arrests and degrading practices. Although a law against racial discrimination was finally adopted in October 2018 by the Tunisian Parliament,direct discrimination on the grounds of the colour of their skin (whether Tunisian or of immigrant origin), is still widespread. insofar very few cases are brought to court. The Amazights represent the largest ethnic minority in Tunisia, yet they are struggling to have their language and culture recognized as full citizens, victims of a policy and discourse of invisibility of their people for the benefit of national unity.</narrative>
+  </description>
+  <description type="2">
+   <narrative xml:lang="EN">The ultimate objective of this project is to promote and strengthen the right and position of discriminated groups in Tunisia for an egalitarian citizen participation, by fighting against all forms of discrimination, at the legislative and social level, while taking into account the current context of the COVID-19 crisis. The project is based on two main intertwined thrusts a) Supporting civil society in its fight against all forms of discrimination. b) Raising awareness among key actors on the issue of discrimination and to implement and strengthen policies and practices to reduce discriminatory incidents and to support the establishment of a legal framework guaranteeing the rights of discriminated groups. Through the use of effective tools to identify and record discrimination against minorities in Tunisia, this project will allow to furnish material to confront the reality and impact public policies addressing the structural racism, xenophobia, sexism and homophobia at the root of the forms of discrimination. The strategy of the project tends to improve the skills of CSOs, lawyers, media and rights holders, as well as to establish very close links between associations and state structures implicated in the themes related to this project.</narrative>
+  </description>
+  <participating-org activity-id="XM-DAC-7-PPR-4000004021" role="4" type="22">
+   <narrative xml:lang="EN">Association for the Promotion of the Right to Difference</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-07-01" type="2"></activity-date>
+  <activity-date iso-date="2022-06-30" type="3"></activity-date>
+  <recipient-country code="TN" percentage="100"></recipient-country>
+  <sector code="15160" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">&gt; Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people
+&gt; Translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education</narrative>
+  </sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-07-01"></period-start>
+   <period-end iso-date="2021-06-30"></period-end>
+   <value currency="EUR" value-date="2020-07-01">345200</value>
+  </budget>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-bangladesh" dstore:index="24" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BAN217</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Emergency Assistance to the households severely affected by floods 2020 in Chandpur district</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">In August 2020 at least 5.49 million people of 1,057 unions of 160 upazilas in 33 Districts of north, north-eastern and middle parts of Bangladesh were flooded due to heavy monsoon downpour and overflowing of rivers.  
+
+CB are proposing a 3 month project (August 15, 2020 to November 14, 2020) to provide Unconditional Multi-purpose Cash Grants (MPCG), distribution of hygiene kits and awareness raising sessions on COVID-19 and hygiene promotion targeting 3,288 people located in remote areas of Chandpur district. CB has targeted the most affected families in terms of loss of livelihood and shelter due to the riverbank erosion.
+
+ The impact of the 2020 Monsoon floods on affected communities is especially severe and complex - given the prolonged inundation and complications arising from the COVID-19 pandemic.  Social distancing and hand-washing are almost impossible to maintain as flood affected people are displaced and evacuating to congested shelters where WASH facilities are also compromised. Losses of income caused by COVID-19 make it even harder for families to recover.</narrative>
+  </description>
+  <participating-org activity-id="BAN217" role="4" type="22">
+   <narrative xml:lang="EN">Caritas Bangladesh National Office</narrative>
+  </participating-org>
+  <participating-org activity-id="BAN217" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <other-identifier ref="BAN217" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-15" type="2"></activity-date>
+  <activity-date iso-date="2020-11-14" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BD" percentage="100"></recipient-country>
+  <sector code="14030" percentage="40" vocabulary="1"></sector>
+  <sector code="72040" percentage="60" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-08-15">30000</value>
+  </budget>
+  <transaction ref="54306">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-08-17"></transaction-date>
+   <value currency="GBP" value-date="2020-08-17">30000</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68748">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-19"></transaction-date>
+   <value currency="GBP" value-date="2020-08-17">30000</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Caritas Bangladesh National Office</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-bangladesh" dstore:index="27" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BAN221</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Vocational training and entrepreneurship support to support marginalised families (Phase-2).</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This project aims to improve the income, livelihoods and living conditions of the most disadvantaged and marginalised people, including women, indigenous people and people living with disabilities. This project will work with 125 people, of which 75 men and 50 women, including people with disabilities and other vulnerable groups, to support them to diversify their income, livelihoods and learn new skills which can help them to earn an income in the future. 
+
+This will be achieved through:
+- Improved technical skills for young people, allowing them to develop sustainable livelihoods or long-term future employment. 
+- Decreased levels of discrimination towards people living with disability as PWDs are seen as equal members of the family and are able to generate an income.
+
+The proposed working area is 87 villages of four unions (Nilganj, Dalbuganj, Mithaganj, Tiakhali) under Kalapara Upazila of Patuakhali District in Bangladesh. The total population of the proposed working areas are 65,869 (32,445 men and 33,424 women). 
+
+The learning from the first phase of the Vastenactie/CB project will be incorporated into Phase 2, such as the COVID-19 health and safety measures practiced through trainings being split into 10 students per class as well as PPE being obligatory in each lesson. CB will also maintain their relationships with local government throughout the second phase of the project. 
+
+The Proyash project is a 3-year CAFOD funded project with Caritas Bangladesh and ADD Bangladesh, working to support the most marginalised, particularly women and people living with disability, to practice agroecology techniques and develop sustainable livelihoods. Vastenactie&#x2019;s support, helps to complement this project through working in the same geographical location to provide tailored vocational training to these vulnerable groups.</narrative>
+  </description>
+  <participating-org activity-id="BAN221" role="4" type="22">
+   <narrative xml:lang="EN">Caritas Bangladesh National Office</narrative>
+  </participating-org>
+  <participating-org activity-id="BAN221" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <other-identifier ref="BAN221" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2021-01-01" type="2"></activity-date>
+  <activity-date iso-date="2021-12-31" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BD" percentage="100"></recipient-country>
+  <sector code="11330" percentage="20" vocabulary="1"></sector>
+  <sector code="31130" percentage="50" vocabulary="1"></sector>
+  <sector code="74010" percentage="30" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2021-01-01">33644.8608</value>
+  </budget>
+  <transaction ref="54955">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2021-03-24"></transaction-date>
+   <value currency="GBP" value-date="2021-03-24">33644.8608</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="69561">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-04-21"></transaction-date>
+   <value currency="GBP" value-date="2021-03-24">33644.86</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Caritas Bangladesh National Office</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-bolivia" dstore:index="22" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BOL145</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Support to Bolivian prisoners and migrants with food and hygiene supplies</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">To date Bolivia has over 500 confirmed cases of COVID19 but is achieving very low levels of testing and the healthcare system is very weak, almost non-existent in rural areas. The government&apos;s strict quarantine response began on 21st March and remains in force to try to stem transmission. The rules allow people to go out to buy food one morning a week and driving is prohibited unless authorised.  These rules are causing extreme hardship for migrants, the prison population, elderly people in care homes, orphanages and communities of indigenous peoples in cities.
+Pastoral Social Caritas Bolivia (PSCB) will provide food and hygiene supplies to Bolivian prisoners and migrants (national and international) in La Paz, Oruro and Potosi with within a framework of respect and dignity of people&#x2019;s basic rights during the coronavirus health crisis. 
+The resources will support two vulnerable groups: a) people deprived of their liberty (1,696 people) and b) national and international migrants in the cities of La Paz, Oruro and Potosi (300 people) totalling approximately 1996 people. 
+Food rations and hygiene essentials will be purchased and delivered by the PSCB diocese teams based in each city. These teams are made up of staff and volunteers.
+The food rations will provide one meal per day for five days in the prisons in addition to hygiene products including toilet paper and hand sanitiser. As prisons are closed to visitors, the food will be delivered to the prison kitchens. Monitoring will be done by signoff and photos of all including prison staff, prisoners and the PSCB team.
+Migrant families, including Venezuelan refugees, are living in temporary shelters from houses to bus terminals. The food rations will provide one meal per day for 14 days for this vulnerable groups who will also receive hygiene products and essential medicine when possible.  
+PSCB is receiving support from other agencies to provide support to other prisons and to support other vulnerable groups</narrative>
+  </description>
+  <participating-org activity-id="BOL145" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BOL145" role="4" type="22">
+   <narrative xml:lang="EN">Pastoral Social Caritas Bolivia</narrative>
+  </participating-org>
+  <other-identifier ref="BOL145" type="A1"></other-identifier>
+  <activity-status code="3"></activity-status>
+  <activity-date iso-date="2020-05-01" type="2"></activity-date>
+  <activity-date iso-date="2020-05-31" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BO" percentage="100"></recipient-country>
+  <sector code="14030" percentage="10" vocabulary="1"></sector>
+  <sector code="72040" percentage="90" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-05-01">14998</value>
+  </budget>
+  <transaction ref="54022">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-04-22"></transaction-date>
+   <value currency="GBP" value-date="2020-04-22">14998</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68403">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-04-23"></transaction-date>
+   <value currency="GBP" value-date="2020-04-22">14998</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Pastoral Social Caritas Bolivia</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-bolivia" dstore:index="24" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BOL148</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID support to indigenous campesino families in the Curva, Mocomoco y Ancoraimes municipalities</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Bolivia is experiencing a catastrophic situation, with COVID arriving on the back of violent widespread social upheaval at the end of 2019. The country went into strict quarantine in March, which has not been respected by many due to partisan political interests peddling disinformation. Blockaders protesting the delays to the national elections are hampering the delivery of oxygen and essential medical products.  Many families have been plunged into a food security crisis. They continue to face a scarcity or absence of food and due to the quarantine restrictions, they have been unable to access the state bonds which would have provided desperately needed income. The families in rural areas supported by Fundacion Nuna have been able to survive on existing agricultural products, however they are currently suffering from shortages of seeds, dry food products and other non-food items which if not resolved quickly will exacerbate the food crisis in both rural communities and in the urban areas that rely on locally-produced food. The current social unrest which is likely to continue and worsen during September and October is also their access to markets and options for earning income to buy seeds.  
+Fundacion Nuna will provide seeds to indigenous campesino families located in 16 communities across three municipalities, Curva, Mocomoco and Ancoraimes in the La Paz department. Nuna will also carry out much needed awareness raising about COVID 19 and safety practices and provide PPE for families in the target communities. The team will coordinate with community authorities to prioritise support to the most vulnerable community members including elderly men and women who have been abandoned by their families, families led by women, families with large numbers of children.</narrative>
+  </description>
+  <participating-org activity-id="BOL148" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BOL148" role="4" type="23">
+   <narrative xml:lang="EN">Fundaci&#xF3;n Nuna Bolivia</narrative>
+  </participating-org>
+  <other-identifier ref="BOL148" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-24" type="2"></activity-date>
+  <activity-date iso-date="2020-11-23" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BO" percentage="100"></recipient-country>
+  <sector code="14030" percentage="10" vocabulary="1"></sector>
+  <sector code="72040" percentage="90" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-08-24">7022.9007</value>
+  </budget>
+  <transaction ref="54319">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-08-20"></transaction-date>
+   <value currency="GBP" value-date="2020-08-20">7022.9007</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68760">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-24"></transaction-date>
+   <value currency="GBP" value-date="2020-08-20">7022.9</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Fundaci&#xF3;n Nuna Bolivia</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-brazil" dstore:index="25" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BRA611</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Emergency Support for the Indigenous People of Roraima Against COVID-19</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Over 514,992 cases of COVID-19 have been confirmed in Brazil, making it the country with the 2nd highest number of infections in the world. Over 206,000 people have recovered from the disease and over 29,000 people have died. As only half a million tests have been carried out, scientists estimate these numbers to be under-estimated by a factor of 15, meaning that 5.6 million infections and 345,000 deaths likely. The Amazon region has been particularly badly hit, with health infrastructure being completely overwhelmed by the end of April 2020. There have been grave concerns for the survival of indigenous communities, and campaigners have declared that unless action is taken, we will witness a genocide.
+
+This project will have two lines of action. Firstly, ISA will support two ethnic groups to self-isolate in the forest for up to 3 months to protect themselves against the spread of COVID 19. These groups are the Wai Wai and the Yanomami.  The Yanomami will remain in the forest for two to three months living off forest food and fishing plus some processed food (which will be provided by ISA) to secure basic nutrition. The Wai Wai families will travel to areas in the forest where they usually harvest Brazil nuts (the harvest runs from the end of May until August). This will provide them with additional livelihoods options, post-pandemic. The third group to benefit from this project are Macuxi, Wapichana and Taurepang people with support going to acquisition of COVID tests and PPE to indigenous communities based in Eastern Roraima who have constructed sanitary barriers at the exit and entrance of communities.  The other line of action is to carry on providing accurate information about the Covid to the communities and ensuring information from the communities are reported to the authorities (FUNAI and SESAI) in case of COVID infection and threats such as illegal mining and logging in their territories.</narrative>
+  </description>
+  <participating-org activity-id="BRA611" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BRA611" role="4" type="22">
+   <narrative xml:lang="EN">Instituto SocioAmbiental</narrative>
+  </participating-org>
+  <other-identifier ref="BRA611" type="A1"></other-identifier>
+  <activity-status code="3"></activity-status>
+  <activity-date iso-date="2020-06-15" type="2"></activity-date>
+  <activity-date iso-date="2020-09-15" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BR" percentage="100"></recipient-country>
+  <sector code="12220" percentage="40" vocabulary="1"></sector>
+  <sector code="72010" percentage="20" vocabulary="1"></sector>
+  <sector code="72040" percentage="20" vocabulary="1"></sector>
+  <sector code="73010" percentage="20" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-06-15">50000</value>
+  </budget>
+  <transaction ref="54095">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-06-04"></transaction-date>
+   <value currency="GBP" value-date="2020-06-04">50000</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68506">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-06-05"></transaction-date>
+   <value currency="GBP" value-date="2020-06-04">50000</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Instituto SocioAmbiental</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-brazil" dstore:index="27" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BRA614</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID-19 Emergency Response: Life on the streets in S&#xE3;o Paulo - solidarity and resistance (Grito)</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">By the end of July 2020 Brazil had over 2.4 million confirmed Coronavirus cases and near 90,000 deaths, with 0.5 million in S&#xE3;o Paulo (SP) alone and 21,000 deaths. Cases continued to rise as the country reopens. Health services were reportedly near to collapse and 58% of recorded deaths  occurring at home. The number of street homeless is likely to be in excess of the official figure of 24,000 people due to the economic impacts of COVID-19. This group is at high risk of direct and indirect impacts of COVID-19 due to difficulties self-isolating, prevalence of pre-existing health conditions including respiratory illness, poor nutrition, drug and alcohol problems, and difficulties in accessing health and social protection services, including COVID emergency benefits. This project will provide emergency relief (non-food items), advocacy and accompaniment to access services to ensure that street homeless people survive the crisis and can maintain their dignity, are able to access longer-term support and can influence government actions and programmes that affect them. The project will provide life-saving support to 3000 street homeless people in central S&#xE3;o Paulo through provision of  hygiene kits, sleeping bags and tents, accompaniment to access health and social protection policies, and referrals to other services. Information about the needs of street homeless people will be shared with duty-bearers at local and subnational government via the PopRua government-civil society dialogue mechanism, thus benefiting street homeless people across the city.</narrative>
+  </description>
+  <participating-org activity-id="BRA614" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BRA614" role="4" type="23">
+   <narrative xml:lang="EN">Grito dos Excluidos Continental</narrative>
+  </participating-org>
+  <other-identifier ref="BRA614" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-01" type="2"></activity-date>
+  <activity-date iso-date="2021-08-31" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BR" percentage="100"></recipient-country>
+  <sector code="12220" percentage="20" vocabulary="1"></sector>
+  <sector code="14030" percentage="20" vocabulary="1"></sector>
+  <sector code="72010" percentage="20" vocabulary="1"></sector>
+  <sector code="72050" percentage="20" vocabulary="1"></sector>
+  <sector code="73010" percentage="20" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-08-01">45631.5267</value>
+  </budget>
+  <transaction ref="54261">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-08-06"></transaction-date>
+   <value currency="GBP" value-date="2020-08-06">45631.5267</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68686">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-10"></transaction-date>
+   <value currency="GBP" value-date="2020-08-06">45631.53</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Grito dos Excluidos Continental</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-brazil" dstore:index="28" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BRA615</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID-19 Emergency Response: health accompaniment to vulnerably housed people in S&#xE3;o Paulo</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">By the end of July 2020 Brazil had over 2.4 million confirmed Coronavirus cases and near 90,000 deaths, with 0.5 million in S&#xE3;o Paulo (SP) alone and 21,000 deaths. Cases continued to rise as the country reopens. Health services were reportedly near to collapse and 58% of recorded deaths occurring at home. The 2 million people living in favelas and poor peri-urban communities, have been disproportionately affected with research showing that residents of the poorest districts of S&#xE3;o Paulo are 10 times more likely to die of COVID than those in wealthier neighbourhoods. Lack of economic options, crowded conditions, poor ventilation and lack of basic sanitation have made it difficult to follow guidelines. Poorer access to and quality of health care, higher pre-existing risk factors, and lack of reliable information have contributed to poorer outcomes. Low paid workers have lost their jobs and many have no money to buy food. Government emergency benefits (about half a minimum salary) have been difficult to access for many of the poorest.
+This project will provide life-saving support with health, nutrition, information and protection needs to 24,978 people living in 26 informal occupations of land and buildings through the following interventions: provision of health accompaniment to 3,300 families to reduce their vulnerability to COVID-19 and ensure appropriate signposting to health services and treatment; provision of accurate information about the virus; accompaniment to access social protection policies; strengthening of 43 local solidarity committees involved in distribution of donations of food and hygiene to 6,600 families; prevention, referrals and emergency support for survivors of gender-based violence; advocacy to prevent evictions and ensure vulnerable people are not left without shelter; information sharing with duty-bearers about the needs of vulnerable groups during the crisis.</narrative>
+  </description>
+  <participating-org activity-id="BRA615" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BRA615" role="4" type="23">
+   <narrative xml:lang="EN">Grito dos Excluidos Continental</narrative>
+  </participating-org>
+  <other-identifier ref="BRA615" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-09-01" type="2"></activity-date>
+  <activity-date iso-date="2021-02-28" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BR" percentage="100"></recipient-country>
+  <sector code="12220" percentage="70" vocabulary="1"></sector>
+  <sector code="72050" percentage="30" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-08-01">51033.8657</value>
+  </budget>
+  <transaction ref="54262">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-08-26"></transaction-date>
+   <value currency="GBP" value-date="2020-08-26">51033.8657</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68687">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-27"></transaction-date>
+   <value currency="GBP" value-date="2020-08-26">52202.58</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Grito dos Excluidos Continental</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-brazil" dstore:index="29" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BRA616</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID-19 Emergency Response: food and hygiene provision to favela communities in S&#xE3;o Paulo</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">By the end of July 2020 Brazil had over 2.4 million confirmed Coronavirus cases and near 90,000 deaths, with 0.5 million in S&#xE3;o Paulo (SP) alone and 21,000 deaths. Cases continued to rise as the country reopens. Health services were reportedly near to collapse and 58% of recorded deaths occurring at home. The 2 million people living in favelas and poor peri-urban communities have been disproportionately affected with research showing that residents of the poorest districts of S&#xE3;o Paulo are 10 times more likely to die of COVID than those in wealthier neighbourhoods. Lack of economic options, crowded conditions, poor ventilation and lack of basic sanitation have made it difficult to follow guidelines. Poorer access to and quality of health care, higher pre-existing risk factors, and lack of reliable information have contributed to poorer outcomes in S&#xE3;o Paulo&apos;s favelas. Low paid workers have lost their jobs, government emergency benefits are half of the minimum wage and many have been unable to access, or had difficulties accessing them. 
+
+This project will benefit 10,528 people in 8 favela communities in eastern S&#xE3;o Paulo with improved access to information about the virus and how to prevent it, signposting to social protection, health, and gender-based violence support services. 2,820 of the most vulnerable people will receive food and hygiene kits for 3 months. 548 people will benefit from increased household income through participation in a recycling project which will also benefit the whole favela with reduced flood and vector borne disease risk. The 8 favela communities targeted by the project will also benefit from advocacy for street cleaning to reduce COVID and other disease risk.</narrative>
+  </description>
+  <participating-org activity-id="BRA616" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BRA616" role="4" type="23">
+   <narrative xml:lang="EN">Movimento de Defesa do Favelado - Regiao Episcopal Belem</narrative>
+  </participating-org>
+  <other-identifier ref="BRA616" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-01" type="2"></activity-date>
+  <activity-date iso-date="2021-03-31" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BR" percentage="100"></recipient-country>
+  <sector code="14030" percentage="20" vocabulary="1"></sector>
+  <sector code="72010" percentage="30" vocabulary="1"></sector>
+  <sector code="72040" percentage="40" vocabulary="1"></sector>
+  <sector code="72050" percentage="10" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-08-01">85758.9527</value>
+  </budget>
+  <transaction ref="54264">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-08-06"></transaction-date>
+   <value currency="GBP" value-date="2020-08-06">52165.8931</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="54457">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-12-09"></transaction-date>
+   <value currency="GBP" value-date="2020-12-09">29873.694</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="54590">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-12-09"></transaction-date>
+   <value currency="GBP" value-date="2020-12-09">3000</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="54592">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-12-09"></transaction-date>
+   <value currency="GBP" value-date="2020-12-09">719.3656</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68691">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-10"></transaction-date>
+   <value currency="GBP" value-date="2020-08-06">52165.89</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Movimento de Defesa do Favelado - Regiao Episcopal Belem</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction ref="68692">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-10"></transaction-date>
+   <value currency="GBP" value-date="2020-12-09">33593.06</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Movimento de Defesa do Favelado - Regiao Episcopal Belem</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-brazil" dstore:index="31" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BRA619</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Phase 2 - HAY Ye&apos;kuana and Sanoma Emergency COVID-19 response</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Brazil is in a second wave of COVID-19 with the highest number of weekly cases since mid-August with 6.6 million confirmed cases of COVID-19 (6,603,540) and 176,941 deaths, the 2nd highest number of deaths in the world. Isolated indigenous groups living in the Brazilian Amazon are among the most vulnerable, due to lack of access to adequate health care and low immunity to external diseases.
+
+This project aims to: a) decrease the risk of COVID-19 of isolated indigenous groups in TIY (Yanomami Territory) in the Amazon by avoiding travel outside their communities and improve nutrition and life conditions, through the distribution of food, tools and clothing; and b) ensure access to education, healthcare, and the means to communicate threats (via radio) within their communities via guaranteeing access to solar energy systems in schools, health posts and radio, to support self-sustainable living and avoid external exposure to COVID-19. It intends to reach a total of 3,574 people from 31 communities located in the Auaris region, of which 26 communities (2,961 people) are San&#xF6;ma, and 5 are Ye&#xB4;kuana, reaching 613 people. 
+
+The main activities are: a) the distribution of food/non-food/hygiene kits to 31 communities located in Auaris, and the installation of 5 solar panels in 5 communities - 3 Sanoma communities: Kalisi, Kolulu and Polasai, and 2 Ye&apos;kuana communities: Fuduuwaduinha e Kuratanha. The Auaris region was chosen because it is the region in Yanomami Territory with the highest demographic density, with more than 3,500 people registering only 9 cases of community transmission of COVID-19, the other 63 cases were in health units in Boa Vista, the majority of cases registered by DSEI-YY on 13/11/20 occurred at CASAI - Indigenous Health Unit in Boa Vista. The installation of solar panels will supply clean energy in community spaces far away from the main landing strip where the Brazilian army barracks are located and the risk of infection with COVID-19 is higher.</narrative>
+  </description>
+  <participating-org activity-id="BRA619" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BRA619" role="4" type="23">
+   <narrative xml:lang="EN">Hutukara Associa&#xE7;&#xE3;o Yanomami</narrative>
+  </participating-org>
+  <other-identifier ref="BRA619" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2021-01-01" type="2"></activity-date>
+  <activity-date iso-date="2021-03-31" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BR" percentage="100"></recipient-country>
+  <sector code="12220" percentage="20" vocabulary="1"></sector>
+  <sector code="72010" percentage="30" vocabulary="1"></sector>
+  <sector code="72040" percentage="50" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2021-01-01">35000</value>
+  </budget>
+  <transaction ref="54599">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-12-14"></transaction-date>
+   <value currency="GBP" value-date="2020-12-14">35000</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="69102">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-17"></transaction-date>
+   <value currency="GBP" value-date="2020-12-14">35000</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Hutukara Associa&#xE7;&#xE3;o Yanomami</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-brazil" dstore:index="32" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-BRA620</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Humanitarian aid for immediate assistance to hospitalised patients of Covid19 in Amazonas State</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This emergency project aims to contribute to the life-saving efforts of municipal hospitals that are treating COVID-19 patients in 4 municipalities in Amazonas state, Brazil: Tef&#xE9;, Itacoatiara, Alto Solim&#xF5;es e Coari. It forms part of the campaign, &#x201C;Amazonas and Roraima count on your solidarity&#x201D;, launched by the National Bishops Conference (Northern Region I), on January 15, 2021. The objective of this campaign is to raise funds for the purchase of oxygen tanks/cylinders, PPE and other health supplies to be used in municipal hospitals in the region due to a chronic lack of capacity to store and provide oxygen, and other PPE and equipment in the Brazilian national public health system, SUS. The tanks are important because they are rechargeable at a low cost, can be reused for other patients, and will be permanent assets to smaller hospitals outside the main city of Manaus. This project will purchase 160 rechargeable oxygen tanks in Belo Horizonte, transport and safely store them in Manaus, consult with the Health Secretariats of each municipality on which hospital has the greatest need, before accompanying the respective municipal government agencies to deliver them to the relevant municipal hospital. 
+
+The spread of the new coronavirus Amazon variant in Manaus and neighbouring municipalities has led to record numbers of deaths, hospitalisations and confirmed cases of Covid-19. In January 2021, the state experienced chaos from lack of oxygen in hospitals, and as a result, 2,522 people died from Covid-19 in Amazonas. Cemeteries in the capital registered rows of hearses and had to re-install cold rooms. The demand for hospital oxygen in public hospitals in Amazonas has exceeded the daily average consumption by more than 11 times. On 2/2/21 there were 2,460 new cases of Covid-19, totalling 271,177 cases in Amazonas, of which: confirmed cases include: Coari (8.833); Itacoatiara (4.470). Deaths reported so far: Itacoatiara (179); Coari (155); Tef&#xE9; (131).</narrative>
+  </description>
+  <participating-org activity-id="BRA620" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="BRA620" role="4" type="22">
+   <narrative xml:lang="EN">C&#xE1;ritas Brasileira</narrative>
+  </participating-org>
+  <other-identifier ref="BRA620" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2021-02-08" type="2"></activity-date>
+  <activity-date iso-date="2021-03-08" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="BR" percentage="100"></recipient-country>
+  <sector code="12220" percentage="100" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2021-02-08">63881.8832</value>
+  </budget>
+  <transaction ref="54709">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2021-02-04"></transaction-date>
+   <value currency="GBP" value-date="2021-02-04">63881.8832</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="69313">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-02-05"></transaction-date>
+   <value currency="GBP" value-date="2021-02-04">63881.88</value>
+   <receiver-org>
+    <narrative xml:lang="EN">C&#xE1;ritas Brasileira</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="GBP" dstore:dataset="cafod-colombia" dstore:index="22" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>GB-CHC-285776-COL227</iati-identifier>
+  <reporting-org ref="GB-CHC-285776" type="21">
+   <narrative xml:lang="EN">CAFOD</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Protection Fund for community leaders and other HRDs made vulnerable by the Covid-19 pandemic</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Even before the pandemic Colombia was the country with most HRDs killed worldwide. In the context of the pandemic social leaders and human rights defenders have become even more vulnerable as measures imposed by the Colombian government reduce movement and they were confined to their homes, there has been a particular impact on indigenous and other rural leaders. Many of those killed or threatened are from  Putumayo, Valle del Cauca, Meta, Antioquia, Santander, C&#xF3;rdoba, Caquet&#xE1;, and at national level; a clear example of the emergency is evidenced in the number of homicides against ex-combatants, that until now exceeded 190.                                This project seeks to contribute to the improvement of the integral protection of human rights defenders and victims of the armed conflict, socio-political violence and territorial conflicts, providing measures to protect the life and integrity of human rights defenders and their families, as well as victims of the armed conflict, socio-political violence and territorial conflicts, which have intensified due to the pandemic situation</narrative>
+  </description>
+  <participating-org activity-id="COL227" ref="GB-CHC-285776" role="1" type="21">
+   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
+  </participating-org>
+  <participating-org activity-id="COL227" role="4" type="22">
+   <narrative xml:lang="EN">Secretariado Nacional de Pastoral Social</narrative>
+  </participating-org>
+  <other-identifier ref="COL227" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-12-01" type="2"></activity-date>
+  <activity-date iso-date="2021-11-30" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">CAFOD</narrative>
+   </organisation>
+   <email>cafod@cafod.org.uk</email>
+  </contact-info>
+  <recipient-country code="CO" percentage="100"></recipient-country>
+  <sector code="72050" percentage="100" vocabulary="1"></sector>
+  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="1" type="1">
+   <period-start iso-date="2020-04-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="GBP" value-date="2020-11-01">38507.4627</value>
+  </budget>
+  <transaction ref="54474">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-11-18"></transaction-date>
+   <value currency="GBP" value-date="2020-11-18">38507.4627</value>
+   <provider-org provider-activity-id="GB-CHC-285776">
+    <narrative xml:lang="EN">CAFOD General Funds</narrative>
+   </provider-org>
+  </transaction>
+  <transaction ref="68951">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-11-19"></transaction-date>
+   <value currency="GBP" value-date="2020-11-18">40000</value>
+   <receiver-org>
+    <narrative xml:lang="EN">Secretariado Nacional de Pastoral Social</narrative>
+   </receiver-org>
+  </transaction>
+ </iati-activity>
  <iati-activity default-currency="GBP" dstore:dataset="cafod-colombia" dstore:index="23" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>GB-CHC-285776-COL229</iati-identifier>
   <reporting-org ref="GB-CHC-285776" type="21">
@@ -5531,1190 +7295,6 @@ There will be interactive discussions on various themes including peace building
    <value currency="GBP" value-date="2020-08-24">3984.73</value>
    <receiver-org>
     <narrative xml:lang="EN">South Sudan Catholic Bishops&apos; Secretariat</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-southsudan" dstore:index="111" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-SSD219</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Covid19 response in Juba, South Sudan</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">This project is raised to respond to COVID19 in Juba, South Sudan. South Sudan&#x2019;s first confirmed case of COVID-19 was on 5 April 2020, by 24 July 2020 cases had surged to 2,258 with 45 deaths. Cases are reported from 16 out of 78 counties, with Juba, being most affected. Insufficient testing limits the ability to accurately assess the scope of the pandemic. COVID-19 infections are expected to increase significantly and more significantly impact urban poor and IDP camp residents due to factors including high density living conditions (preventing social distancing and making isolation difficult), levels of risk awareness and adoption of prevention and control practices are low, access to WaSH and health care facilities are low and prevalence of existing health conditions (including malaria, diarrhoea), food insecurity and malnutrition is high, particularly at this time of year. The elderly, people with disabilities and women carers (higher exposure risk) are particularly vulnerable, with women more likely to be health workers, community mobilisers or IDPs. CAFOD will implement the project with its local implementing partner Titi Foundation. The project will be implemented in Juba city and strive to deliver safe, accessible, and dignified COVID-19 risk communications, protection services, and food security, as well as foster and enable good hygiene, and sanitation practices for the most vulnerable. The overall programme design and implementation will be guided and underpinned by accountability, protection mainstreaming, inclusive and conflict sensitive approaches. This response plan is designed in line with the revised Humanitarian Response Plan (HRP) of South Sudan, developed taking COVID-19 risk into account.</narrative>
-  </description>
-  <participating-org activity-id="SSD219" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org ref="GB-CHC-1062638" role="1" type="21">
-   <narrative xml:lang="EN">DEC</narrative>
-  </participating-org>
-  <participating-org activity-id="SSD219" role="4" type="22">
-   <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-  </participating-org>
-  <other-identifier ref="SSD219" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-08-01" type="2"></activity-date>
-  <activity-date iso-date="2021-01-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="SS" percentage="100"></recipient-country>
-  <sector code="72010" percentage="30" vocabulary="1"></sector>
-  <sector code="72040" percentage="30" vocabulary="1"></sector>
-  <sector code="72050" percentage="40" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-08-01">364686.16</value>
-  </budget>
-  <transaction ref="54340">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-09-22"></transaction-date>
-   <value currency="GBP" value-date="2020-09-22">164837.15</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="54532">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-12-04"></transaction-date>
-   <value currency="GBP" value-date="2020-12-04">45969.28</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="54793">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-03-09"></transaction-date>
-   <value currency="GBP" value-date="2021-03-09">153879.73</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68862">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-07"></transaction-date>
-   <value currency="GBP" value-date="2020-09-22">82418.57</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="69105">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-10"></transaction-date>
-   <value currency="GBP" value-date="2020-12-04">45969.28</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="69122">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-14"></transaction-date>
-   <value currency="GBP" value-date="2020-09-22">82418.57</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="69416">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-03-24"></transaction-date>
-   <value currency="GBP" value-date="2021-03-09">147653.98</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-southsudan" dstore:index="113" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-SSD223</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Operational support for Covid19 response in Juba, South Sudan</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">This project is raised to support the response to COVID19 in Juba, South Sudan. South Sudan&#x2019;s first confirmed case of COVID-19 was on 5 April 2020, by 24 July 2020 cases had surged to 2,258 with 45 deaths. Cases are reported from 16 out of 78 counties, with Juba, being most affected. Insufficient testing limits the ability to accurately assess the scope of the pandemic . COVID-19 infections are expected to increase significantly and more significantly impact urban poor and IDP camp residents due to factors including high density living conditions (preventing social distancing and making isolation difficult), levels of risk awareness and adoption of prevention and control practices are low, access to WaSH and health care facilities are low and prevalence of existing health conditions (including malaria, diarrhoea), food insecurity and malnutrition is high, particularly at this time of year. The elderly, people with disabilities and women carers (higher exposure risk) are particularly vulnerable, with women more likely to be health workers, community mobilisers or IDPs. CAFOD will implement the project with its local implementing partner Titi Foundation. The project will be implemented in Juba city and strive to deliver safe, accessible, and dignified COVID-19 risk communications, protection services, and food security, as well as foster and enable good hygiene, and sanitation practices for the most vulnerable. The overall programme design and implementation will be guided and underpinned by accountability, protection mainstreaming, inclusive and conflict sensitive approaches. This response plan is designed in line with the revised Humanitarian Response Plan (HRP) of South Sudan, developed taking COVID-19 risk into account.</narrative>
-  </description>
-  <participating-org activity-id="SSD223" ref="GB-CHC-285776" role="4">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </participating-org>
-  <participating-org activity-id="SSD223" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <other-identifier ref="SSD223" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-08-01" type="2"></activity-date>
-  <activity-date iso-date="2021-01-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="SS" percentage="100"></recipient-country>
-  <sector code="12220" percentage="20" vocabulary="1"></sector>
-  <sector code="72010" percentage="30" vocabulary="1"></sector>
-  <sector code="72040" percentage="30" vocabulary="1"></sector>
-  <sector code="72050" percentage="20" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-08-01">2078.75</value>
-  </budget>
-  <transaction ref="54383">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-09-22"></transaction-date>
-   <value currency="GBP" value-date="2020-09-22">2078.75</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-southsudan" dstore:index="114" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-SSD226</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">To save lives and reduce sufferings of flood affected individuals through provision of dignified, ti</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">This project is to respond to floods affected people in Mangala Payam of Juba County Central Equatoria State. Since July 2020, an estimated 1,034,000 people have been affected by floods and of those people affected, some 481,000 were estimated to have been displaced  from their homes by the floods. People were affected in locations across Unity, Upper Nile, Warrap, Western Equatoria, Central Equatoria and Northern Bahr-el-Ghazal States.  The urgent survival needs identified by IRNA include food and livelihood support, emergency shelter and non-food items (ES/NFI), and WASH, health, and protection services.   Flood response activities are considerably constrained by persistent heavy rains, infrastructure damage and reduced physical accessibility (e.g., impassable roads, flooded airstrips), insecurity and limited resources.   Core WaSH Pipeline has been reported depleted by IOM due to COVID 19. This caused difficulty to address urgent needs of flood affected people.   The South Sudan Humanitarian Response Plan is funded at some 50 per cent of the total ask of US$1.9 billion, as of 18 November 2020.   The total requirement for the current response was estimated at $81.9 million. More than $16 million has been mobilized from ECHO, DFID, and USAID in response to the floods and displacement.</narrative>
-  </description>
-  <participating-org activity-id="SSD226" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="SSD226" role="4" type="22">
-   <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-  </participating-org>
-  <other-identifier ref="SSD226" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-11-01" type="2"></activity-date>
-  <activity-date iso-date="2021-02-28" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="SS" percentage="100"></recipient-country>
-  <sector code="14030" percentage="10" vocabulary="1"></sector>
-  <sector code="14030" percentage="20" vocabulary="1"></sector>
-  <sector code="72010" percentage="20" vocabulary="1"></sector>
-  <sector code="72040" percentage="30" vocabulary="1"></sector>
-  <sector code="72050" percentage="20" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-11-01">104123.21</value>
-  </budget>
-  <transaction ref="54578">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-12-14"></transaction-date>
-   <value currency="GBP" value-date="2020-12-14">104123.21</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="69167">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-01-20"></transaction-date>
-   <value currency="GBP" value-date="2020-12-14">52061.61</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="69273">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-02-01"></transaction-date>
-   <value currency="GBP" value-date="2020-12-14">52061.6</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Together In Transformational Initiatives</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-southsudan" dstore:index="116" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-SSD231</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Financial support for the position of General Secretary and Finance officer.</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The South Sudan Council of Churches (SSCC) has been implementing Action Plan for peace (APP) since the the development of APP through statement of intent which developed delivery of 4 programme outcome relating to advocacy, neutral forum, reconciliation, and institutional development. Through this church based nation wide and multi-stake engagement action, the SSCC envisage the realization of a peaceful resolution of conflicts and restoration of peace in South Sudan. The first phase of the the APP 2016-2017 has ended and SSCC is now implementing a new phase 2018-2021 through annual funding from all its partners including CTP, and Christian Aid, and PAX, all church Aid, working collaboratively under the structure core Group whose work is to mobile funding and provide technical support to SSCC in the implementation of APP
-South Sudan like many other countries is constrained unprecedentedly by social and economic systems breakdown because of COVID-19. Not only is the COVID-19. Not only is the COVID-19 pandemic a threat to physical health and the economy. it has a well affected funding for partners and SSCC is not an exception. Given the peace agreement signed is seemly taking shape continue the SSCC would like to continue scaling up its operation in Equatorial and Greater Upper Nile Regions. The council under capacity strengthening outcomes would like to request CTP to support the General Secretary and Finance officer (Accountant) in the secretariat. 
-The position of the General Secretary existed before when the Action Plan for peace (APP) was launched and it manages all the functions in the SSCC Secretariat. This position is covered solely supported by SSCC through its assets which is also badly affected by the economic setback leaving all percentages for support of SSCC secretariat whose financial support tremendously reduced due to reduction in its retained income.
-The stability in all regions is paying the way for full implementation of APP activities in all the location, SSCC has also already recruited a Finance officer who is based at the head office. The finance officer is responsible for managing all financial records of the regions including partners and donor funds for implementation of activities in the regions and gives support to the finance department at the head office. The finance officer will report directly to finance manager at SSCC headquarters and shall administration have supervised by regional coordinator equatorial region.</narrative>
-  </description>
-  <participating-org activity-id="SSD231" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="SSD231" role="4" type="22">
-   <narrative xml:lang="EN">South Sudan Council of Churches</narrative>
-  </participating-org>
-  <other-identifier ref="SSD231" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2021-01-01" type="2"></activity-date>
-  <activity-date iso-date="2021-12-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="SS" percentage="100"></recipient-country>
-  <sector code="92030" percentage="40" vocabulary="1"></sector>
-  <sector code="92030" percentage="60" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2021-01-01">30000</value>
-  </budget>
-  <transaction ref="54697">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-02-08"></transaction-date>
-   <value currency="GBP" value-date="2021-02-08">12000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="54696">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-02-08"></transaction-date>
-   <value currency="GBP" value-date="2021-02-08">18000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="69392">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-03-11"></transaction-date>
-   <value currency="GBP" value-date="2021-02-08">15000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">South Sudan Council of Churches</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-southsudan" dstore:index="136" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-SSD256</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Financial support for Internet Monitoring and Maintenance</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The South Sudan Council of Churches (SSCC) has been implementing Action Plan for peace (APP) since the the development of APP through statement of intent which developed delivery of 4 programme outcome relating to advocacy, neutral forum, reconciliation, and institutional development. Through this church based nation wide and multi-stake engagement action, the SSCC envisage the realization of a peaceful resolution of conflicts and restoration of peace in South Sudan. The first phase of the the APP 2016-2017 has ended and SSCC is now implementing a new phase 2018-2021 through annual funding from all its partners including CTP, and Christian Aid, and PAX, all church Aid, working collaboratively under the structure core Group whose work is to mobile funding and provide technical support to SSCC in the implementation of APP
-South Sudan like many other countries is constrained unprecedentedly by social and economic systems breakdown because of COVID-19. Not only is the COVID-19 pandemic a threat to physical health and the economy. it has also restricted movement to project locations for monitoring visits and programme implementation. as SSCC scales  up its operation in Greater Upper Nile Regions, the regional office demands infrastructural support (internet installation covering 1. Hardware and installation chargers 2. internet subscription for 12 months 3. transport cost 4. maintenance 5. Accommodation for technicians</narrative>
-  </description>
-  <participating-org activity-id="SSD256" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="SSD256" role="4" type="22">
-   <narrative xml:lang="EN">South Sudan Council of Churches</narrative>
-  </participating-org>
-  <other-identifier ref="SSD256" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2021-04-01" type="2"></activity-date>
-  <activity-date iso-date="2022-03-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="SS" percentage="100"></recipient-country>
-  <sector code="92030" percentage="20" vocabulary="1"></sector>
-  <sector code="92030" percentage="40" vocabulary="1"></sector>
-  <sector code="92030" percentage="40" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2021-03-29">9428.57</value>
-  </budget>
-  <transaction ref="54969">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-03-31"></transaction-date>
-   <value currency="GBP" value-date="2021-03-31">9428.57</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="69523">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-04-09"></transaction-date>
-   <value currency="GBP" value-date="2021-03-31">9428.57</value>
-   <receiver-org>
-    <narrative xml:lang="EN">South Sudan Council of Churches</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-syria" dstore:index="1" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-SYR138</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Improve living standards and community environment to the vulnerable families and groups in Homs</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Homs is the third largest city after Damascus and Aleppo in terms of population. Prior to the crisis, around 1.8 million people lived in Homs (2011). Current figures indicate that the total population is only around 1.42 mil., 360,000 of whom are IDPs from different parts of the country. The city of Homs was declared a safe city in May 2018 after Al-Waar area returned to to the GoS control in the Northwest region. Despite the stable security situation, humanitarian needs are increasing with the increasing number of returnees as well as the IDPs who are moving to the governorate from hotspots, especially from Al-Rukban camp. 
-COVID-19 crisis led to massive economic losses in Syria and it has exacerbated pre-existing high level of poverty in Syria generally and in Homs particularly after 9 years of war. In a needs assessment conducted prior to the design of the project, Caritas Homs identified the following priority needs:
-1. Survival needs among the most vulnerable
-2. Protection needs of civilians 
-3. Livelihood and essential basic services
-Therefore, the project will include multipurpose cash to cover basic living needs (food security, shelter and NFIs and Medication), protection activities such as literacy courses, social cohesion activities with youth, psychosocial support to elderly people, income generating activities through trainings, cash grants and toolkit distributions.
-The project will take place in Homs city and Al-Qusayr in rural Homs.</narrative>
-  </description>
-  <participating-org activity-id="SYR138" role="4" type="22">
-   <narrative xml:lang="EN">Caritas Syria</narrative>
-  </participating-org>
-  <participating-org activity-id="SYR138" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <other-identifier ref="SYR138" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-06-01" type="2"></activity-date>
-  <activity-date iso-date="2021-05-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country percentage="100"></recipient-country>
-  <sector code="12220" percentage="20" vocabulary="1"></sector>
-  <sector code="72040" percentage="50" vocabulary="1"></sector>
-  <sector code="72050" percentage="10" vocabulary="1"></sector>
-  <sector code="73010" percentage="20" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-06-01">50000</value>
-  </budget>
-  <transaction ref="54259">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-07-30"></transaction-date>
-   <value currency="GBP" value-date="2020-07-30">3000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="54258">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-07-30"></transaction-date>
-   <value currency="GBP" value-date="2020-07-30">47000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-uganda" dstore:index="6" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-UGA370</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Uganda COVID19 Response Project</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The purpose of this project is to enable the Uganda Catholic Commission for Justice and Peace to;
-- Contribute to local and national efforts to mitigate further spread and impact of COVID19 by implementing early action and anticipatory activities (awareness raising, advocacy, prepositioning and advocacy). 
-- Support and respond to needs arising from COVID19 pandemic in Uganda and address existing gaps. 
-- Provide assistance to vulnerable groups that were not previously identified or covered by existing responses.
-
-The overall objective of the project is to save lives and alleviate suffering by delivering coordinated preventive and precautionary messages, protection and assistance to people from marginalised, hard to reach communities and informal settlements, displaced, the elderly, women and children majority of whom rely on  Church support.
-
-Outcome 1: Improved community and public awareness on health-promoting behaviours and to combat misinformation.
-
-Activity 1.1. Facilitate Uganda Catholic Bishops  to conduct educative and awareness programs, using selected Radio and TV Stations, on prevention, precautionary messages and mitigation response to communities on COVID 19.
-
-Activity 1.2 Support Catholic Bishops to produce government guidelines on COVID19 and to  disseminate to all 19 Catholic Dioceses of Uganda.
-
-Activity 1.3  Support Catholic Bishops to produce and disseminate guidelines on preventive mechanisms against COVID19.</narrative>
-  </description>
-  <participating-org activity-id="UGA370" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="UGA370" role="4" type="22">
-   <narrative xml:lang="EN">Uganda Catholic Commission for Justice and Peace</narrative>
-  </participating-org>
-  <other-identifier ref="UGA370" type="A1"></other-identifier>
-  <activity-status code="3"></activity-status>
-  <activity-date iso-date="2020-05-01" type="2"></activity-date>
-  <activity-date iso-date="2020-09-30" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="UG" percentage="100"></recipient-country>
-  <sector code="12220" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-05-01">15647.0001</value>
-  </budget>
-  <transaction ref="53996">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-04-21"></transaction-date>
-   <value currency="GBP" value-date="2020-04-21">15647.0001</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68374">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-04-22"></transaction-date>
-   <value currency="GBP" value-date="2020-04-21">15647</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Uganda Catholic Commission for Justice and Peace</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-venezuela" dstore:index="1" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-VEN009</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Humanitarian Assistance and Protection for Families Affected by the Protracted Crisis in Venezuela</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">This project will support the CI Emergency Appeal 16/2020 for Venezuela. The EA will provide continuity to the projects implemented by Caritas Venezuela since 2015 which aimed at improving access to health and food for the most vulnerable population. The EA was launched in 2020 and set to last 36 months (2020-2023) to improve the response to the health and nutrition-related needs of the most vulnerable communities, now aggravated by the additional needs created by COVID-19. 
-
-Caritas Venezuela proposed a range of complementary interventions, involving diocesan and parish Caritas agencies, with two interconnected strategic axes: food security, nutrition, wash, cash and health. These activities include the provision of Personal Protection Equipment (PPE) kits, hygiene, nutritional supplements for children under 59 months, pregnant and lactating women, as well as food for daily consumption of vulnerable families. The intervention will be complemented by a small-scale component of face-to-face, virtual, telephone and other training.</narrative>
-  </description>
-  <participating-org activity-id="VEN009" role="4" type="22">
-   <narrative xml:lang="EN">Caritas Venezuela National Office</narrative>
-  </participating-org>
-  <participating-org activity-id="VEN009" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <other-identifier ref="VEN009" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-03-01" type="2"></activity-date>
-  <activity-date iso-date="2023-02-28" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="VE" percentage="100"></recipient-country>
-  <sector code="12220" percentage="30" vocabulary="1"></sector>
-  <sector code="14030" percentage="30" vocabulary="1"></sector>
-  <sector code="72010" percentage="10" vocabulary="1"></sector>
-  <sector code="72040" percentage="30" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2021-03-01">9816</value>
-  </budget>
-  <transaction ref="54959">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-03-24"></transaction-date>
-   <value currency="GBP" value-date="2021-03-24">9816</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zambia" dstore:index="36" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZAM351</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Support towards the ZCCB COVID19 Response Plan</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">ZCCB has prepared a COVID-19 Multi-sectoral Response Plan in line with the National COVID-19 Multi-Sectoral Contingency and Response Plan, to guide Church&#x2019;s (Catholic Church institutions) preparedness and response to the threat of COVID-19 in all the 11 dioceses. The purpose of this funding is to provide support to ZCCB to prepare for a coordinated COVID19 multi-sectoral response through the following (1)Provide risk communication information for COVID19 prevention and containment; and, (2) Capacity strengthening of front line health workers in Catholic health facilities and faith leaders on COVID19. 
-
-The COVID19 situation in Zambia worsened since the first wave that was recorded in March 2020. Incidences of new cases of COVID19 have escalated in both the number of confirmed cases and the number of deaths since the second wave of the new strain of COVID19. Unlike the first wave which was mild, this surge in cases was further accompanied by an increase in the severity of the disease requiring hospitalization and oxygen therapy. With the increased levels of COVID19, ZCCB has adapted and designed some activities that will help the Catholic Church to support communities to respond to the new COVID variant.</narrative>
-  </description>
-  <participating-org activity-id="ZAM351" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="ZAM351" role="4" type="22">
-   <narrative xml:lang="EN">Zambia Conference of Catholic Bishops</narrative>
-  </participating-org>
-  <other-identifier ref="ZAM351" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-27" type="2"></activity-date>
-  <activity-date iso-date="2021-11-30" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZM" percentage="100"></recipient-country>
-  <sector code="12220" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-04-27">55000</value>
-  </budget>
-  <transaction ref="54019">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-04-22"></transaction-date>
-   <value currency="GBP" value-date="2020-04-22">15000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="54912">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-03-11"></transaction-date>
-   <value currency="GBP" value-date="2021-03-11">40000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68397">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-04-22"></transaction-date>
-   <value currency="GBP" value-date="2020-04-22">15000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Zambia Conference of Catholic Bishops</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="68398">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-03-12"></transaction-date>
-   <value currency="GBP" value-date="2021-03-11">40000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Zambia Conference of Catholic Bishops</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zambia" dstore:index="37" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZAM352</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">St Francis Community Integrated Care Programme Emergency Food Assistance project</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Due to the unprecedented drought of 2019 that impacted more than half of Zambia, the price of mealie meal (Zambia&#x2019;s staple food) has been increasing every month due to the shortage of maize which was as a result of the crop failure. The rising food prices has had a particularly negative impact on the urban poor communities including those working with St. Francis. St. Francis&#x2019;s target group mainly includes people with HIV and mental health challenges and the rising price of mealie meal has had a negative impact on these families who are now failing to have a meal a day. Inadequate food is leading to non- adherence to medication which in turn is likely to lead to regression in their physical/ mental health and possibly death. In addition to this drought related situation, the COVID19 threatens to exacerbate the health of our clients due to their weakened immune system. 
-
-This project aims to ensure that people living with HIV and Mental Health challenges have improved food security and are adhering to their drugs. The food provided is expected to help our Clients maintain proper adherence to their medication but also it will help them build a strong immunity which can help to prevent death in the event of infection from the coronavirus.</narrative>
-  </description>
-  <participating-org activity-id="ZAM352" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="ZAM352" role="4" type="23">
-   <narrative xml:lang="EN">St Francis Community Integrated Care Programme</narrative>
-  </participating-org>
-  <other-identifier ref="ZAM352" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-05-01" type="2"></activity-date>
-  <activity-date iso-date="2020-07-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZM" percentage="100"></recipient-country>
-  <sector code="72040" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-05-01">37912</value>
-  </budget>
-  <transaction ref="54043">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-05-14"></transaction-date>
-   <value currency="GBP" value-date="2020-05-14">37912</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68438">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-05-15"></transaction-date>
-   <value currency="GBP" value-date="2020-05-14">37912</value>
-   <receiver-org>
-    <narrative xml:lang="EN">St Francis Community Integrated Care Programme</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zambia" dstore:index="38" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZAM357</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Cancel Zambia&apos;s Debt to Free up Resources to Fight COVID19</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The World Health Organisation (WHO) declared the novel coronavirus outbreak, a global pandemic on 11th March 2020. Zambia has now been affected by the pandemic with 1,200 confirmed cases as at 8th May 2020 and 10 deaths. According to the risk analysis conducted by the Ministry of Health, the coronavirus has the potential to affect 7,616,108 people in 43 districts of the ten provinces of Zambia. The pandemic has also the potential to impact the economy of the country and ultimately the resources to provide on-going provision of essential goods and services as well as the resources to respond to COVID-19. The ease of response to COVID-19 is aided by strong and stable economic fundamentals. 
-
-With the COVID-19 pandemic government&#x2019;s revenues has dropped as most businesses in various value chains have been adversely affected. Further, the demands to contain the outbreak of COVID-19 has also meant that the little revenue that the government is currently generating is being channelled to COVID-19 mitigation efforts. But clearly with a constrained treasury due to debt and dropping revenues, it is justifiable that a permanent relief mechanism is assured for countries such as Zambia.    
-
-Against this background, the Jesuit Centre for Theological Reflection (JCTR) in partnership with Caritas Zambia is seeking to bring about economic justice for the vulnerable and voiceless citizens of Zambia by influencing Zambia&#x2019;s lenders to cancel some of its debt. It is hoped that this will free up resources for public service delivery particularly in the education, health and water and sanitation sectors. It is also envisioned that the reduced debt burden will increase the country&#x2019;s ability to effectively and efficiently respond to the COVID-19 pandemic.</narrative>
-  </description>
-  <participating-org activity-id="ZAM357" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="ZAM357" role="4" type="22">
-   <narrative xml:lang="EN">Jesuit Centre for Theological Reflection</narrative>
-  </participating-org>
-  <other-identifier ref="ZAM357" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-07-01" type="2"></activity-date>
-  <activity-date iso-date="2020-12-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZM" percentage="100"></recipient-country>
-  <sector code="15120" percentage="60" vocabulary="1"></sector>
-  <sector code="15150" percentage="40" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-07-01">15000</value>
-  </budget>
-  <transaction ref="54180">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-07-17"></transaction-date>
-   <value currency="GBP" value-date="2020-07-17">15000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68684">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-08-05"></transaction-date>
-   <value currency="GBP" value-date="2020-07-17">15000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Jesuit Centre for Theological Reflection</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zimbabwe" dstore:index="32" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZIM566</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Youth Voices Forums taking the Voice of the Church Louder</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">CCJP is elevating the work on social accountability spearheaded by youth structures (dubbed Youth Voices Forums) that CCJP established, trained and moulded over the past years. In the past phase to April 2021, the project enhanced youth participation in decision making and meaningful dialogue between youth and respective powerholders/duty bearers in Chinhoyi Dioceses targets 3 communities. There is evidence of youth agency in influencing accountability by powerholders at varying levels, including at traditional governance. The current phase (May 2021- May 2023) learns from the past phase and adapts to emerging issues within the Covid context, aims at contributing to building of resilient communities in Chinhoyi Diocese. The project realises the role of peace building as an entry point to governance programming with lessons from the social accountability approach and explores integrating a livelihoods component in realisation of the interconnectedness of the political and social issues.</narrative>
-  </description>
-  <participating-org activity-id="ZIM566" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="ZIM566" role="4" type="23">
-   <narrative xml:lang="EN">Chinhoyi Diocese Justice and Peace Programme</narrative>
-  </participating-org>
-  <other-identifier ref="ZIM566" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2021-05-01" type="2"></activity-date>
-  <activity-date iso-date="2022-04-30" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZW" percentage="100"></recipient-country>
-  <sector code="15120" percentage="10" vocabulary="1"></sector>
-  <sector code="15150" percentage="50" vocabulary="1"></sector>
-  <sector code="15160" percentage="10" vocabulary="1"></sector>
-  <sector code="15170" percentage="10" vocabulary="1"></sector>
-  <sector code="15220" percentage="20" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2018-04-01"></period-start>
-   <period-end iso-date="2019-03-31"></period-end>
-   <value currency="GBP" value-date="2018-04-02">30000</value>
-  </budget>
-  <budget status="1" type="1">
-   <period-start iso-date="2019-04-01"></period-start>
-   <period-end iso-date="2020-03-31"></period-end>
-   <value currency="GBP" value-date="2019-04-01">30000</value>
-  </budget>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-05-01">30000</value>
-  </budget>
-  <budget status="1" type="1">
-   <period-start iso-date="2021-04-01"></period-start>
-   <period-end iso-date="2022-03-31"></period-end>
-   <value currency="GBP" value-date="2021-05-01">30000</value>
-  </budget>
-  <transaction ref="50521">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2018-03-10"></transaction-date>
-   <value currency="GBP" value-date="2018-03-10">30000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="51833">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2019-03-13"></transaction-date>
-   <value currency="GBP" value-date="2019-03-13">30000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="53908">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-03-13"></transaction-date>
-   <value currency="GBP" value-date="2020-03-13">30000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="64951">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2018-03-27"></transaction-date>
-   <value currency="GBP" value-date="2018-03-10">30000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Chinhoyi Diocese Justice and Peace Programme</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="66264">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2019-03-27"></transaction-date>
-   <value currency="GBP" value-date="2019-03-13">30000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Chinhoyi Diocese Justice and Peace Programme</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="66445">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2019-06-06"></transaction-date>
-   <value currency="GBP" value-date="2019-03-13">-30000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Chinhoyi Diocese Justice and Peace Programme</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="66480">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2019-06-19"></transaction-date>
-   <value currency="GBP" value-date="2019-03-13">30000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Chinhoyi Diocese Justice and Peace Programme</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="68291">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-03-18"></transaction-date>
-   <value currency="GBP" value-date="2020-03-13">30000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Chinhoyi Diocese Justice and Peace Programme</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zimbabwe" dstore:index="68" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZIM631</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">St Alberts Mission Hospital COVID-19 Emergency Response 2020</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">St Alberts Mission Hospital values the right to life and the Dignity of the person in its response to COVID 19, a global epidemic that is life threatening.
-The Hospital being a member of the ZCBC Health institutions and run by medical Missionaries who also belong to the family of CARITAS INTERNATIONALIS, and  believe in totality to the dignity of the person and in reaching out to the most vulnerable has made an appeal for support in terms of PPE equipment to help the resource constrained Mission Hospital respond to COVID-19 effectively.
-The Hospital has a comparative advantage, for it strides across three provinces, namely Mashonaland West, Mashonaland Central and accessible by people from other provinces mainly Mashonaland East making it a prime port of call for the emergency response. It has a record for being people centred during the HIV and AIDS challenges in the country. The hospital prides itself for being able to work effectively with the communities as it had a pool of volunteers dedicated  and trained to l be able to cascade accurate information in the communities on prevention, and case management.
-PREVENTION is their catch word where there is no cure and prevention is the way to go, social distancing, self-isolating and regular thorough washing of hands with soapy water or use of at least above 70% alcohol based hand sanitisers . 
-Procurement of the PPE materials will go a long way in alleviating pain and suffering to Zimbabwean communities and at the same time giving confidence and assurance to the health care and ancillary staff who will be working on the frontline  to dedicate themselves to serving the most vulnerable cases in the communities and presented at the hospital.</narrative>
-  </description>
-  <participating-org activity-id="ZIM631" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <participating-org activity-id="ZIM631" role="4" type="22">
-   <narrative xml:lang="EN">St Albert&apos;s Mission Hospital</narrative>
-  </participating-org>
-  <other-identifier ref="ZIM631" type="A1"></other-identifier>
-  <activity-status code="3"></activity-status>
-  <activity-date iso-date="2020-04-13" type="2"></activity-date>
-  <activity-date iso-date="2020-06-15" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZW" percentage="100"></recipient-country>
-  <sector code="12220" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-04-13">15000</value>
-  </budget>
-  <transaction ref="53990">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-04-09"></transaction-date>
-   <value currency="GBP" value-date="2020-04-09">15000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68359">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-04-14"></transaction-date>
-   <value currency="GBP" value-date="2020-04-09">15000</value>
-   <receiver-org>
-    <narrative xml:lang="EN">St Albert&apos;s Mission Hospital</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zimbabwe" dstore:index="70" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZIM634</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">WASH COVID 19 Response Project &#x201C;Improving Water, Sanitation and Hygiene in Rural Areas of Zimababwe&quot;</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The project aims to improve access to safe water, hygiene and sanitation practices and a means to practice good hygiene for people affected by the drought. This will be instituted by enhancing preparedness of the vulnerable population to minimize the spread of COVID-19; through critical social services provision in the area of WASH, including COVID-19 risk communication and awareness campaigns, remain essential and lifesaving. The intervention will enable continuation of health and hygiene promotion, and access to water supply services as well as provision of awareness messages on COVID-19 to rural communities mainstreaming GBV, disability and PSEA. Activities to be carried out include repair of water points/boreholes for safe water provision, distribution of hygiene kits, establishment of hand wash stations which are disability friendly, strengthening and establishment of health clubs, IEC material distribution, strengthening of Rural water and sanitation structures to coordinate, plan and monitor the COVID-19 Outbreak response activities, outreaches on COVID-19,GBV,PSEA and facilitating the establishment of a complaints and feedback mechanism to ensure accountability in the implementation of the whole project.</narrative>
-  </description>
-  <participating-org activity-id="ZIM634" role="4" type="23">
-   <narrative xml:lang="EN">Caritas Hwange</narrative>
-  </participating-org>
-  <participating-org activity-id="ZIM634" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <other-identifier ref="ZIM634" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-06-05" type="2"></activity-date>
-  <activity-date iso-date="2021-02-26" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZW" percentage="100"></recipient-country>
-  <sector code="14010" percentage="10" vocabulary="1"></sector>
-  <sector code="14030" percentage="30" vocabulary="1"></sector>
-  <sector code="14030" percentage="50" vocabulary="1"></sector>
-  <sector code="72050" percentage="10" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-06-05">171423.1105</value>
-  </budget>
-  <transaction ref="54230">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-07-22"></transaction-date>
-   <value currency="GBP" value-date="2020-07-22">1572.5806</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="54228">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-07-22"></transaction-date>
-   <value currency="GBP" value-date="2020-07-22">78698.387</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="54977">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-03-31"></transaction-date>
-   <value currency="GBP" value-date="2021-03-31">91152.1429</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68738">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-02"></transaction-date>
-   <value currency="GBP" value-date="2020-07-22">80270.97</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Caritas Hwange</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="69541">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-04-14"></transaction-date>
-   <value currency="GBP" value-date="2021-03-31">91152.14</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Caritas Hwange</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zimbabwe" dstore:index="71" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZIM636</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Water Supply for Mtawatawa Hospital -Covid Isolation Centre in UMP</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">This project is for one-off support to the Covid Isolation Centre in Mtawatawa Hospital UMP for water supply. The district raised a cry for help for water which is critical for handwashing in prevention of COVID. This will help save the lives of patients, hospital staff and the local communities in danger.</narrative>
-  </description>
-  <participating-org activity-id="ZIM636" role="4" type="22">
-   <narrative xml:lang="EN">Caritas Harare</narrative>
-  </participating-org>
-  <participating-org activity-id="ZIM636" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <other-identifier ref="ZIM636" type="A1"></other-identifier>
-  <activity-status code="3"></activity-status>
-  <activity-date iso-date="2020-07-24" type="2"></activity-date>
-  <activity-date iso-date="2020-09-30" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZW" percentage="100"></recipient-country>
-  <sector code="12220" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-07-24">20000</value>
-  </budget>
-  <transaction ref="54238">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-07-30"></transaction-date>
-   <value currency="GBP" value-date="2020-07-30">20000</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68842">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-23"></transaction-date>
-   <value currency="GBP" value-date="2020-07-30">11393.55</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Caritas Harare</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="68841">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-23"></transaction-date>
-   <value currency="GBP" value-date="2020-07-30">6032.26</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Caritas Harare</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zimbabwe" dstore:index="74" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZIM643</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Support to farming communities at risk of being impacted by COVID 19 in Zimbabwe</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The project is  aimed at supporting drought affected farming communities at risk of being impacted by COVID 19 in  Hwange district through the distribution of drought tolerant crop seed(cow peas and sorghum) to 2000 households  and  stock feed to 1272 households. In total 3272 households/small holder farmers will be supported. The project will be implemented in 7 wards of the district , 4 wards (5,6,7,8) will be targeted for crop seed intervention and  3 wards (12,13,20) for stock feed. To ensure effective targeting and hence increased access to supplementary stock feed and seed for summer plant to vulnerable farmer the project will work hand in glove with government extension workers (primarily Agritex), community leaders, project staff(CAFOD/Caritas). Beneficiaries selection includes willing vulnerable households with labour capacity or can be supported with community ,own at least 0.4ha of land for crop seed  and  household owning less than 4 herd of cattle for stock feed.60% targeted beneficiaries will be women.</narrative>
-  </description>
-  <participating-org activity-id="ZIM643" role="4" type="23">
-   <narrative xml:lang="EN">Caritas Hwange</narrative>
-  </participating-org>
-  <participating-org activity-id="ZIM643" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <other-identifier ref="ZIM643" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-11-03" type="2"></activity-date>
-  <activity-date iso-date="2020-11-30" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZW" percentage="100"></recipient-country>
-  <sector code="31130" percentage="50" vocabulary="1"></sector>
-  <sector code="72040" percentage="40" vocabulary="1"></sector>
-  <sector code="72050" percentage="10" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2020-11-03">29182.1705</value>
-  </budget>
-  <transaction ref="54484">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2020-11-04"></transaction-date>
-   <value currency="GBP" value-date="2020-11-04">29182.1705</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="68983">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-11-10"></transaction-date>
-   <value currency="GBP" value-date="2020-11-04">15503.88</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Caritas Hwange</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction ref="69341">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-02-17"></transaction-date>
-   <value currency="GBP" value-date="2020-11-04">10537.56</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Caritas Hwange</narrative>
-   </receiver-org>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="GBP" dstore:dataset="cafod-zimbabwe" dstore:index="75" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>GB-CHC-285776-ZIM644</iati-identifier>
-  <reporting-org ref="GB-CHC-285776" type="21">
-   <narrative xml:lang="EN">CAFOD</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Caritas Hwange Drought Response Project [ CIEA02/2020 Extention ]</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">CARITAS Hwange is one of the dioc&#xE8;ses that participated in the Emergency Appeal Drought Response Project [CIEA02/2020] which ran from January through to December 2020. The selection of Hwange district to participate in the project was informed by findings from the 2019 Zimbabwe Vulnerability Assessment Committee (ZimVAC) Rural Livelihoods Assessment and the CARITAS Zimbabwe National Rapid Food Security Assessment (October 2019). The 2 assessments confirmed Hwange&#x2019; s vulnerability status. 
-Hwange district experienced long dry spells in December 2019 and January 2020, which was coupled with the early cessation of the rain season. This affected the crop production for the district. Household income and purchasing power had been further eroded by the poor macro-economic situation. Mid-season drought experienced in January to February 2020 resulted in more than 45% right off cereal crops especially maize (Agritex First Round crop Sample Survey report 2020). This resulted in reduction of low area planted. 
-The advent of COVID-19, which led to the national lockdown from April 2020, exacerbated the situation for the rural communities in Hwange district. COVID-19 created a severe economic shock, mostly in the form of loss of income, particularly for the most vulnerable who depended on agriculture and remittances from relatives within and outside the country. 
- 
-CARITAS Hwange started distributing food to selected households in Nemananga ward under the EA Drought response project in April 2020 up to August 2020. The distribution ended prematurely due to shortage of funds since the appeal was not fully funded, resulting in communities slipping back to food crisis. Nemananga ward is one of the wards near the Victoria Falls. The ward experienced an influx of people who relocated from Victoria Falls as a result of lock down induced retrenchments, especially those under the tourism sector. The targeted area therefore remains food insecure and in need of assistance.</narrative>
-  </description>
-  <participating-org activity-id="ZIM644" role="4" type="23">
-   <narrative xml:lang="EN">Caritas Hwange</narrative>
-  </participating-org>
-  <participating-org activity-id="ZIM644" ref="GB-CHC-285776" role="1" type="21">
-   <narrative xml:lang="EN">Catholic Agency For Overseas Development (CAFOD)</narrative>
-  </participating-org>
-  <other-identifier ref="ZIM644" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2021-02-01" type="2"></activity-date>
-  <activity-date iso-date="2021-05-31" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">CAFOD</narrative>
-   </organisation>
-   <email>cafod@cafod.org.uk</email>
-  </contact-info>
-  <recipient-country code="ZW" percentage="100"></recipient-country>
-  <sector code="14030" percentage="10" vocabulary="1"></sector>
-  <sector code="72040" percentage="90" vocabulary="1"></sector>
-  <policy-marker code="2" significance="2" vocabulary="1"></policy-marker>
-  <default-flow-type code="30"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <budget status="1" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="GBP" value-date="2021-02-01">65852.5693</value>
-  </budget>
-  <transaction ref="54704">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2021-02-05"></transaction-date>
-   <value currency="GBP" value-date="2021-02-05">65852.5693</value>
-   <provider-org provider-activity-id="GB-CHC-285776">
-    <narrative xml:lang="EN">CAFOD General Funds</narrative>
-   </provider-org>
-  </transaction>
-  <transaction ref="69340">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-02-17"></transaction-date>
-   <value currency="GBP" value-date="2021-02-05">65852.57</value>
-   <receiver-org>
-    <narrative xml:lang="EN">Caritas Hwange</narrative>
    </receiver-org>
   </transaction>
  </iati-activity>

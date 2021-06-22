@@ -1,5 +1,945 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <iati-activities version="2.03">
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16740" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46337</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Feed 300 Families and starving children in COVID19</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">COVID-19 lockdown in India and Philippines are causing mass starvation. No Job opportunities for gig workers in long-term lockdown. No income equals to no food for the whole family. Together they suffer from hunger; before COVID-19 devours their lives, hunger is killing them. With the effort of our local partners, we try to deliver Emergency Food Supplies (Rice, Flour, Salt, Soap, etc.) to the vulnerable families like HIV patients, single mothers and homeless, those ignored groups.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46337">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-15" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">The Mustard Seed Mission</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">The Mustard Seed Mission</narrative>
+   </person-name>
+   <telephone>+886-2-7741-6000</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">The Mustard Seed Mission, 9F.-2, No.4, Ln. 609, Sec. 5, Chongxin Rd., Sanchong Dist., New Taipei City, Taiwan 24159, China-Taiwan</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="IN" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46337">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-15"></transaction-date>
+   <value currency="USD" value-date="2020-08-15">607</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/saving-lives-in-covid19/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16742" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46339</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Urgent COVID 19 Appeal for Animals in Eswatini</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The COVID 19 crisis is having a devastating impact on our ability to care for the animals in desperate need by cutting our fundraising income.  Despite our challenges, we need to continue  our life saving work to provide shelter, food, treatment and care for all our animals.  We cannot predict what will happen, but your donations will help us meet the funding shortfall, face the mounting challenges, and prepare for the worst.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46339">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-22" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Swaziland Animal Welfare Society</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Margaret Dean-Smith</narrative>
+   </person-name>
+   <telephone>+268 2404 3446</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Margaret Dean-Smith, Budlelwane Lane, Mountain View Area, Mbabane, PO Box 1049, Eswatini</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SZ" percentage="100"></recipient-country>
+  <sector code="D99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46339">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-06"></transaction-date>
+   <value currency="USD" value-date="2020-09-06">1209</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/urgent-covid-19-appeal-for-animals-in-distress/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16744" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46346</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID-19 relief Aid for children with disability</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Katalemwa seeks to provide relief food to 500 families of children with disabilities whose caregivers are unable to work during this COVID - 19 lock-down. As businesses closed,  many families are burdened to meet essential items like food, Most especially those in Urban center who survive on hand to mouth incomes.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-1660352974" role="4"></participating-org>
+  <other-identifier ref="46346">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-13" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Katalemwa Cheshire Home for Rehabilitation Services</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Barbara Basule</narrative>
+   </person-name>
+   <telephone>+256414590739</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Barbara Basule, Gayaza road in Mpererwe, Namere - Kiteezi road, Kampala, 16548, Uganda</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="UG" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46346">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-06-04"></transaction-date>
+   <value currency="USD" value-date="2020-06-04">30</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-1660352974"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/food-relief-for-children-with-disability-in-uganda/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16745" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46348</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">The Children&apos;s Center Detroit COVID-19 Response</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The Children&apos;s Center is committed to continuing to support the Detroit community during the COVID-19 outbreak.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46348">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-09" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">The Children&apos;s Center</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Tammy Zonker</narrative>
+   </person-name>
+   <telephone>3132620930</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Tammy Zonker, 79 West Alexandrine, Detroit, MI 48201, United States</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="US" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46348">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-05-06"></transaction-date>
+   <value currency="USD" value-date="2020-05-06">1675</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/the-childrens-center-covid-19-response/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16747" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46351</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Masks for the Poor - Coronavirus in India</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The coronavirus is on track to infect thousands, even millions, of people in India&apos;s densely populated slums where they will likely not receive any government help. SevaChild is providing the masks and materials for masks to one million people so they have at least one vital line of defense against the pandemic.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46351">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="3"></activity-status>
+  <activity-date iso-date="2020-04-13" type="1"></activity-date>
+  <activity-date iso-date="2020-07-21" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">SevaChild International</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Rick Carlton</narrative>
+   </person-name>
+   <telephone>8585040708</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Rick Carlton, 1301 Grandview Avenue, #D, Glendale, CA 91201-4116, United States</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="IN" percentage="100"></recipient-country>
+  <sector code="E99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46351">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-05-07"></transaction-date>
+   <value currency="USD" value-date="2020-05-07">35</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/providing-masks-to-the-poorest-in-india/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16748" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46353</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Reality Kitchen Pandemic Food Relief Response</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">When Oregon&apos;s governor ordered closure of all restaurants due to COVID-19, Reality Kitchen temporarily shutdown operations and laid off 23 employees, including 10 Developmentally Disabled Supported Staff.  This closed our training program, wholesale bakery production and retail cafe&apos;, but an urgent need for emergency food now exists in Lane County, Oregon. With your help we can refit to provide meals to unhoused residents who are sheltered in area facilities, as well as feed our neighbors.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46353">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="3"></activity-status>
+  <activity-date iso-date="2020-06-08" type="1"></activity-date>
+  <activity-date iso-date="2020-06-26" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Reality Kitchen Nonprofit</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Jim Evangelista</narrative>
+   </person-name>
+   <telephone>541-337-1323</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Jim Evangelista, PO Box 733, Eugene, OR 97440, United States</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="US" percentage="100"></recipient-country>
+  <sector code="K30" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46353">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-06-08"></transaction-date>
+   <value currency="USD" value-date="2020-06-08">25</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/reality-kitchen-pandemic-food-relief-response/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16749" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46357</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">URGENT: Sustain a conservancy through the pandemic</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">COVID-19 has drastically affected the outlook for conservation in Kenya by closing its border to tourism. At Enonkishu, in northern Mara, tourism accounts for the majority of operating costs, resulting in a shortfall of USD 150,000 in 2020 for essential operations. This crisis has come when the wildlife is more vulnerable than ever from encroachment, bushmeat hunting and retaliation from human-wildlife conflict! Iconic Mara wildlife is at risk! Please help us keep the conservation effort alive.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46357">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-06-08" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Enonkishu Stakeholders Company Limited</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Rebekah Karimi</narrative>
+   </person-name>
+   <telephone>+254741403867</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Rebekah Karimi, PO Box 961-20500, Narok, 20500, Kenya</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="KE" percentage="100"></recipient-country>
+  <sector code="D99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46357">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-09"></transaction-date>
+   <value currency="USD" value-date="2020-09-09">14701</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/enonkishu-emergency-appeal/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16751" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46359</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Children in SOS families and COVID-19 crisis</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Vulnerable children and their families are more exposed to the impact to the COVID-19 crisis than others. SOS Children&apos;s Villages Bulgaria work with the most vulnerable and need the support of donors for purchasing of disinfection and sanitation supplies, face protection masks, computers and digital tools for home schooling of children and young people, materials and services for organizing workshops in small groups and entertainment activities for children, employment of additional caregivers.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-1145646616" role="4"></participating-org>
+  <other-identifier ref="46359">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="3"></activity-status>
+  <activity-date iso-date="2020-06-08" type="1"></activity-date>
+  <activity-date iso-date="2020-06-26" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">SOS Children&apos;s Villages Bulgaria Association</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Savina Bogoeva</narrative>
+   </person-name>
+   <telephone>+359885999511</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Savina Bogoeva, 8a, Paskal Todorov Str., Sofia, Sofia 1618, Bulgaria</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="BG" percentage="100"></recipient-country>
+  <sector code="P30" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46359">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-07-30"></transaction-date>
+   <value currency="USD" value-date="2020-07-30">495</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-1145646616"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/children-in-sos-families-and-covid-19-crisis/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16753" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46360</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID19 RELIEF FOR 300 WOMEN HEAD POTTERS IN ACCRA</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">There are head porters who sleep in the streets with their children.  Head potters are mostly teenage girls who migrated to Accra from the north to help in carrying of goods for their livelihood.Majority of these girls have children and this is mostly as a result of rape from sleeping in markets and lorry stations after their days hustle.  We will like to assist them with education on covid 19,  provide them with food,liaise with a public toilet in Tema Station to provide free access</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-839530905" role="4"></participating-org>
+  <other-identifier ref="46360">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-16" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Dels Foundation</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">comfort glikpo</narrative>
+   </person-name>
+   <telephone>0023324761455</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">comfort glikpo, ap14, MAMPROBI, tema, mp1817, Ghana</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="GH" percentage="100"></recipient-country>
+  <sector code="Q70" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46360">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-07-25"></transaction-date>
+   <value currency="USD" value-date="2020-07-25">109</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-839530905"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid19-relief-for-300-women-head-potters-in-accra/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16754" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46364</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">World Central Kitchen COVID-19 Response</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Beyond the health impacts of the coronavirus, many vulnerable communities now do not know where their next meal will come from. In response, WCK has launched nationwide in the US to provide meals to children &amp; their families, healthcare workers, and the elderly. In just 24 days, we have served 1 million meals in 82 cities. And this is just the start - we want and need to do more. With your support, we can reach more people in need and help one another get through this difficult time.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-1297127041" role="4"></participating-org>
+  <other-identifier ref="46364">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-11" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">World Central Kitchen, Inc.</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Daniel Poole</narrative>
+   </person-name>
+   <telephone>2025053046</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Daniel Poole, 1342 Florida Ave NW, Washington, DC 20009, United States</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="US" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46364">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-07"></transaction-date>
+   <value currency="USD" value-date="2020-09-07">20318</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-1297127041"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/world-central-kitchen-covid-19-response/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16756" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46372</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Immediate Relief to COVID-19 Victims</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This project aims at providing lifesaving materials to migrant and construction workers, farm laborers, gypsies and tribal people who are the victims of COVID-19. These people depend upon wages to meet their daily food requirements. Due to unprecedented and prolonged lockdown throughout India, they are left without any employment to earn for their daily bread. Your donation will help these vulnerable people to survive with their families at this most challenging times.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46372">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-13" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">VILLAGE DEVELOPMENT CENTRE</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Ramasamy Raju</narrative>
+   </person-name>
+   <telephone>+9104312561061</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Ramasamy Raju, NO,6, 6TH STREET, GANDHINAGAR, MANACHANALLUR POST, TIRUCHIRAPPALLI DISTRICT, TAMILNADU, INDIA, PIN: 621005, TIRUCHIRAPPALLI DISTRICT, TIRUCHIRAPPALLI, Tamil Nadu 621005, India</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="IN" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46372">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-17"></transaction-date>
+   <value currency="USD" value-date="2020-08-17">3331</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/immediate-relief-to-covid-19-victims/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16757" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46376</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Covid-19 Emergency Relief for Communities in India</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The COVID-19 pandemic has killed thousands of people and spread to more than 100 countries and stirring endless ration of population.    During the #COVID19 pandemic, there are numbers of families in the slums in India that are not equipped to deal with this adversity.   Donations to this campaign will bring support to affected communities and help stop the virus&apos;s spread.   Initially, the fund will help meet immediate needs for medical supplies, foods supply, health and hygiene kit supply.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-3579101062" role="4"></participating-org>
+  <other-identifier ref="46376">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-13" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Indian Dreams Foundation</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Punit Asthana</narrative>
+   </person-name>
+   <telephone>917060050184</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Punit Asthana, 503, Space Tower-1, Neerav Nikunj Phase-1, Sikandra, Agra, Uttar Pradesh 282007, India</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="IN" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46376">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-06-29"></transaction-date>
+   <value currency="USD" value-date="2020-06-29">831</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-3579101062"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid-19-emergency-relief-for-communities-in-india/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16758" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46377</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">RELIEF AND LOAN SUPPORT PROGRAM FOR COVID-19 FUND</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">VIGA | A Project of Akhuwat Global is registered in UK, USA and SWEDEN as a legal nonprofit charity.  By giving relief to victims of current pandemic,  we can ensure that all those who were self-supporting members of the society will be able to survive the current crisis and go back to their livelihoods as before.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-561677357" role="4"></participating-org>
+  <other-identifier ref="46377">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-13" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Akhuwat USA</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Azhar Hameed</narrative>
+   </person-name>
+   <telephone>3109205858</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Azhar Hameed, 21250 Hawthorne Blvd. Suite 500, Torrance, CA 90503, United States</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="PK" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46377">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-06-01"></transaction-date>
+   <value currency="USD" value-date="2020-06-01">50</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-561677357"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/relief-and-loan-support-program/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16759" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46380</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Solidarity Fund to combat COVID-19 in Yemen</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Yemen reported its first COVID-19 case , the pandemic will most likely expose disturbing weaknesses in health infrastructures. the health system unable to respond ,let alone COVID19 pandemic, the Yemen  burdened by the war burdens and whose 80% of the population lives in famine and extreme poverty, the disadvantaged and vulnerable groups will suffer the greatest impact in Yemen. COVID-19 pandemic may leave hundreds of thousands of deaths in light of the lack of the simplest medical capabilities.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-1036842676" role="4"></participating-org>
+  <other-identifier ref="46380">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="3"></activity-status>
+  <activity-date iso-date="2020-06-08" type="1"></activity-date>
+  <activity-date iso-date="2020-06-26" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Improve Your Society Organization</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Ayoub Al Kasemi</narrative>
+   </person-name>
+   <telephone>+967733888735</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Ayoub Al Kasemi, The Building of Alarbi, Taiz , Gamal street, Taiz, Taiz 00967, Yemen</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="YE" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46380">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-17"></transaction-date>
+   <value currency="USD" value-date="2020-08-17">2608</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-1036842676"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/solidarity-fund-to-combat-covid-19-in-yemen/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16760" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46381</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Covid-19: food package support for Kibera</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The lockdown means many breadwinners for families in Kibera are not working - from those relying on informal labour markets to staff in the community-based schools in our network. Many live hand to mouth, unable to develop financial safety nets, and are therefore unable to pay for food and basic needs for their children. Shopkeepers give credit to regular customers but they struggle to restock without cash, affecting their ability to eat. We are fundraising for food packages for families.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
+  <other-identifier ref="46381">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-13" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">PROJECT ELIMU</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Michael Wamaya</narrative>
+   </person-name>
+   <telephone>0711188733</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Michael Wamaya, Olympic Estate, Kibera, 2925, 2919-00400, Nairobi, 00400, Kenya</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="KE" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46381">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-02"></transaction-date>
+   <value currency="USD" value-date="2020-09-02">6167</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid-19-food-package-support-for-kibera/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16761" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46387</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID-19 Crisis Relief &amp; Support in India</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This Donation Drive will help migrated and marginalised communities affected from Coronavirus in India by providing them food, ration, community protection kit containing dettol, sanitary pads, detergents, soap, hand towel, Cooked and uncooked foods etc.  Your donation will also help to protect our community Health workers, Doctors, Nurses in India who visits households on daily basis for information dissemination, linking COVID-19 suspected cases with testing and relief activities.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-4249563693" role="4"></participating-org>
+  <other-identifier ref="46387">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-05-26" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Hindustan Latex Family Planning Promotion Trust</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Sharad Agarwal</narrative>
+   </person-name>
+   <telephone>+91-0120-4673600</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Sharad Agarwal, B-14 A,  2nd floor, Block-B, Sector-62, Gautam Budh Nagar, Noida, Uttar Pradesh 201307, India</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="IN" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46387">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-07-03"></transaction-date>
+   <value currency="USD" value-date="2020-07-03">251</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-4249563693"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid19-crisis-relief-and-support-in-india/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16762" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46388</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Coronavirus Women-led Small Business Support Fund</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This project will help fund 750 women and girls-led small business either as support for struggling businesses due to lock-downs in communities or to help new business as opportunities due to the pandemic comes up. We will provide support to very poor, economically struggling women and girls and aim to improve their social and economic situations amidst this difficult times.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-432849666" role="4"></participating-org>
+  <other-identifier ref="46388">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-15" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Women&apos;s Action Against Climate Change Association</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Michelle Uy</narrative>
+   </person-name>
+   <telephone>9156098332</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">Michelle Uy, Barrio Talisayan, Albuera, Leyte, Ormoc, Leyte 6542, Philippines</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="PH" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46388">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-07-27"></transaction-date>
+   <value currency="USD" value-date="2020-07-27">310</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-432849666"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/coronavirus-women-led-small-business-support-fund/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16765" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
+  <iati-identifier>US-EIN-300108263-GGProj:46403</iati-identifier>
+  <reporting-org ref="US-EIN-300108263" type="21">
+   <narrative xml:lang="EN">GlobalGiving</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">A Covid free Bwaise slum</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The project will distribute 70 tip-tap water cans in the slums of Bwaise to help reduce the spread of Covid 19, raise awareness on the importance of hand washing and the ways of spread and preventive measure in the local language will been done door to door.</narrative>
+  </description>
+  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
+  <participating-org ref="XI-BRIDGE-5699955356" role="4"></participating-org>
+  <other-identifier ref="46403">
+   <owner-org ref="US-EIN-300108263"></owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-04-13" type="1"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Somero Uganda</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">somero Uganda</narrative>
+   </person-name>
+   <telephone>+256772092318</telephone>
+   <mailing-address>
+    <narrative xml:lang="EN">somero Uganda, Bwaise Mukalazi Kawempe Kampala Uganda, kampala, None, Uganda</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="UG" percentage="100"></recipient-country>
+  <sector code="M99" percentage="100" vocabulary="5"></sector>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <transaction ref="US-EIN-300108263-GGProj:46403">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-07-08"></transaction-date>
+   <value currency="USD" value-date="2020-07-08">25</value>
+   <provider-org ref="US-EIN-300108263"></provider-org>
+   <receiver-org ref="XI-BRIDGE-5699955356"></receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+  </transaction>
+  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/a-covid-free-bwaise-slum/">
+   <title>
+    <narrative xml:lang="EN">Activity website</narrative>
+   </title>
+   <category code="A12"></category>
+   <language code="EN"></language>
+  </document-link>
+  <conditions attached="0"></conditions>
+ </iati-activity>
  <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16766" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
   <iati-identifier>US-EIN-300108263-GGProj:46405</iati-identifier>
   <reporting-org ref="US-EIN-300108263" type="21">
@@ -4271,943 +5211,6 @@
    <disbursement-channel code="2"></disbursement-channel>
   </transaction>
   <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/mindful-action-covid-19-emergency-relief-fund/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16890" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46634</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Feed the Hunger and Relief during COVID-19 crisis</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">This project will feed the hunger and sanitation support for the small farmers, agricultural daily wages labourers, and informal sector workers whose are affected by COVID-19 crisis in India. In India 93% of workers whose are lost their income and do not get a regularly monthly pay.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-58618452" role="4"></participating-org>
-  <other-identifier ref="46634">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-27" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Grace Peter Charitable Trust</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Paulswamy Pandiaraju</narrative>
-   </person-name>
-   <telephone>0452 4369885</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Paulswamy Pandiaraju, Plot No. 25, Narmadha Nadhi, 4th Street,Mahatma Gandhi Nagar,, Madurai, Madurai, Tamil Nadu 625014, India</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="IN" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46634">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-06-20"></transaction-date>
-   <value currency="USD" value-date="2020-06-20">1510</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-58618452"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/sanitation-and-groceries-to-poor-covid-19-crisis/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16894" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46639</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">EMERGENCY RESPONSE TO COVID-19 IN BULOBURTE  DIST</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">COVID-19 EMERGENCY RESPONSE ACTIVITIES OF BUDO NGO       Training of local health care workers on how to recognize and manage COVID 19  - BUDO will train local health-care workers in order to recognize, &amp; manage or treat the COVID-19 suspected &amp; infected patients.  - BUDO health workers will create awareness on COVID-19 through megaphone &amp; make the community alert that this disease is a worldwide disaster. - BUDO health workers will enhance community awareness raising on the social distancing,</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-3607941241" role="4"></participating-org>
-  <other-identifier ref="46639">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-27" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">BULAY DEVELOPMENT ORGANIZATION(BUDO)</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Said Ahmed  Mohamed</narrative>
-   </person-name>
-   <telephone>+252618427038</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Said Ahmed  Mohamed, budobulay0@gmail.com, budo-org@hotmail.com, Mogadishu, n/a, Somalia</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="SO" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46639">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-08-31"></transaction-date>
-   <value currency="USD" value-date="2020-08-31">57</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-3607941241"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/emergency-response-to-covid-19-in-buloburte-district/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16895" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46640</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Pandemic Food Relief for Families in Rwanda</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">We are in uncharted waters. COVID-19 is now present in nearly every country in the world. Everyday needs present an even greater challenge than before the pandemic, and the coming months are filled with uncertainty. In early March, the families we serve in Rwanda voiced their fears about the virus and its impact on them. The Rwandan government locked down the country on March 21. Our families have lost the ability to earn any income whatsoever, and they desperately need our help.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-2840005476" role="4"></participating-org>
-  <other-identifier ref="46640">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-30" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Rwanda-one4one</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Nancy Zeller</narrative>
-   </person-name>
-   <telephone>603-313-8393</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Nancy Zeller, 116 Paine Rd, Westmoreland, NH 03467, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="RW" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46640">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-06"></transaction-date>
-   <value currency="USD" value-date="2020-09-06">3816</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-2840005476"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/pandemic-food-relief-for-families-in-rwanda/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16896" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46641</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">COVID19 response in Japan</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The COVID-19 crisis has been affecting everyone&apos;s way of living, but it is especially difficult for people who are already vulnerable. Association for Aid and Relief, Japan (AAR Japan) is supporting persons with disabilities (PWDs) in Japan by providing hygiene items such face masks and other sanitary items to protect themselves.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-7459363210" role="4"></participating-org>
-  <other-identifier ref="46641">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-27" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Association for Aid and Relief, Japan (AAR Japan)</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">YUI HIRADE</narrative>
-   </person-name>
-   <telephone>+81-3-5423-4511</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">YUI HIRADE, 7F, Mizuho Building, 2-12-2 Kamiosaki, Shinagawa-ku, Tokyo 1410024, Japan</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="JP" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46641">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-07-30"></transaction-date>
-   <value currency="USD" value-date="2020-07-30">903</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-7459363210"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid19reliefinjapan/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16897" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46642</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">COVID19: Food relief for vulnerable Australians</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">COVID-19, and the resulting mass unemployment being experienced across the country has been the catalyst in the exponential increase in food insecurity. Foodbank is in urgent need of funding to source key staple foods that don&apos;t come in sufficient quantities via traditional rescue channels. This will enable Foodbank to provide a sustainable supply in a variety of essential foods that are nutritious and convenient for vulnerable Australians during these extraordinary and unprecedented times.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
-  <other-identifier ref="46642">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-05-06" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Foodbank Australia Limited</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Sindy Dupagunta</narrative>
-   </person-name>
-   <telephone>+61 406 038 797</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Sindy Dupagunta, 11 Julius Ave, North Ryde, NSW 2113, Australia</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="AU" percentage="100"></recipient-country>
-  <sector code="K30" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46642">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-07-13"></transaction-date>
-   <value currency="USD" value-date="2020-07-13">244</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid19-food-relief-for-vulnerable-australians/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16903" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46658</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">COVID-19 Elderly and Disabled Veteran Supplies</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">We have been feeding the elderly and disabled veterans of North Carolina since March 3rd, 2020. We have fed 256 veterans and first responders in-need by purchasing meals over 3-4 weeks. The word has gotten out about our efforts and our phones are ringing nonstop with requests. Our goal is to take care of as many families as we can for the duration of the virus and stay-at-home protocol. We have partnered with Carolina Farm Trust, a nonprofit, on this mission as well and want to raise funds.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
-  <other-identifier ref="46658">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="3"></activity-status>
-  <activity-date iso-date="2020-04-30" type="1"></activity-date>
-  <activity-date iso-date="2020-08-24" type="3"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">US Military Veterans Hall of Fame</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Curtis Drafton</narrative>
-   </person-name>
-   <telephone>980-221-0116</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Curtis Drafton, 4522 Carnfeld LN, Charlotte, NC 28215, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="US" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46658">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-08-24"></transaction-date>
-   <value currency="USD" value-date="2020-08-24">260</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid-19-elderly-and-disabled-veteran-supplies/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16904" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46660</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Relief, Wellbeing and Empowerment During Pandemic</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Covid - 19 Pandemic, a Global health crisis is affecting people&apos;s health, the economy and the society. Your contributions will help conduct awareness programs through community outreach programs. Address mental health challenges, enable optimum potential of the human systems, fortify immunity and exponentially increase the ability of critically ill patients to recover from the condition through Aashwasan services.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-5482004632" role="4"></participating-org>
-  <other-identifier ref="46660">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-27" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Aashwasan Foundation</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Ravi Ramamurthy</narrative>
-   </person-name>
-   <telephone>+918025450895</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Ravi Ramamurthy, #12 5th Main Grape Garden, Kammanahalli, Bangalore, Karnataka 560084, India</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="IN" percentage="100"></recipient-country>
-  <sector code="E99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46660">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-05-05"></transaction-date>
-   <value currency="USD" value-date="2020-05-05">20</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-5482004632"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/relief-wellbeing-and-empowerment-during-pandemic/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16907" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46663</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Fight the spread of COVID-19 in Rural Haiti</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The number of people infected with the COVID-19 virus in Haiti continues to grow. Our rural partners cannot stay sheltered in place as their livelihood depends entirely on them being out in the fields working.  We are taking measures to provide members of 60 organizations (over 3,000 families) with the education needed on the pandemic and the necessary equipment to protect themselves, their families and communities.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-7019698770" role="4"></participating-org>
-  <other-identifier ref="46663">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-05-04" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Lambi Fund of Haiti</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Josette Perard</narrative>
-   </person-name>
-   <telephone>202-772-2372</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Josette Perard, 1050 Connecticut Ave NW, Suite 500, Washington, DC 20036, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="HT" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46663">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-09"></transaction-date>
-   <value currency="USD" value-date="2020-09-09">4735</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-7019698770"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/fighting-the-spread-of-covid-19-in-rural-haiti/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16908" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46664</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">COVID-19 Response for First Mile waste collectors</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Global response efforts are underway for COVID-19 but the poor are disproportionately left behind. The First Mile, an initiative of WORK and Thread, supports waste collectors in Haiti, Honduras, and Taiwan. This network of thousands of women and men working hard to clean up the environment to make ends meet mostly lack an identity and access to safety net services. Your donation supports our comprehensive response of prevention, treatment, and access to medical care, and long-term support.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
-  <other-identifier ref="46664">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-28" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Team Tassy dba Work</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Christina Marsico</narrative>
-   </person-name>
-   <telephone>4124274352</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Christina Marsico, 7800 Susquehanna Street, Suite 502, Pittsburgh, PA 15208, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="HT" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46664">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-07-25"></transaction-date>
-   <value currency="USD" value-date="2020-07-25">30</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/firstmilecovid19response/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16909" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46667</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Supporting Waste Pickers through the COVID crisis</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">In many parts of SE Asia and Latin America,  informal waste collectors are the backbone of the waste management system, salvaging materials and keeping them out of the ocean and environment. Now they are also on the frontline of the COVID19 crisis - vulnerable and exposed. The Circulate Initiative is working with partners in Indonesia, Vietnam, and Argentina to get food, protective gear, and hygiene kits to these communities now, and to help them build a better future post-crisis.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
-  <other-identifier ref="46667">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-28" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Circulate Initiative Inc.</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Susan Ruffo</narrative>
-   </person-name>
-   <telephone>703-678-3112</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Susan Ruffo, 60 E 42nd St, Ste 2410, New York, NY 10016, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="ID" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46667">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-06-21"></transaction-date>
-   <value currency="USD" value-date="2020-06-21">6477</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/supporting-informal-waste-collectors-through-covid/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16910" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46668</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Helping Vulnerable Families during COVID 19</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">This pandemic has shown us that education is vital as many children today cannot go to school. As many of you know, we had to suspend classes at our daycare and preschool to ensure the safety of our students, staff, and families.  Thankfully, our program has continued through distance learning. But, parents have had to dedicate their time to educating their children instead of working. Because of this, our families are in desperate need of additional support during this quarantine.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-5826139909" role="4"></participating-org>
-  <other-identifier ref="46668">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-28" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Centro Infantil de los Angeles</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Rachel Frey</narrative>
-   </person-name>
-   <telephone>52-415-154-0720</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Rachel Frey, Enrique Velasco Ibarra 9, Colonia Santa Julia, San Miguel de Allende, Guanajuato 37750, Mexico</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="MX" percentage="100"></recipient-country>
-  <sector code="P30" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46668">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-03"></transaction-date>
-   <value currency="USD" value-date="2020-09-03">4769</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-5826139909"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/helpingcilafamilies/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16911" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46674</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Emergency Response to COVID-19 in Moya Communities</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">A GG micro-grant has helped Moya Centre initiate a Covid-19 emergency response plan. Now we must scale it up.  We have a responsibility as a community-based org. to support  those who are in desperate need of assistance during this unprecedented time. With a national lock down in place to flatten the curve, many guardians of Moya children are out of work. Moya has switched gears to provide immediate relief in the form of food and hygiene parcels, as well as education, for families most in need.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
-  <other-identifier ref="46674">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-28" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Moya Trust (also known as Moya Centre)</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Katelyn Panzarella</narrative>
-   </person-name>
-   <telephone>+268 7811 1813</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Katelyn Panzarella, Corner Plot of Malandela&apos;s Farm, Mahlanya, H124, Eswatini</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="SZ" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46674">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-03"></transaction-date>
-   <value currency="USD" value-date="2020-09-03">586</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/emergency-response-to-covid-19-in-moya-communities/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16913" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46681</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Save Yemeni Souls Preventing COVID-19</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Deep concern over a potential rapid spread of coronavirus in Yemen. &quot;The factors are all here. Low levels of general immunity, high levels of acute vulnerability &amp; a fragile, overwhelmed health system,&quot; said Ms. Lise Grande, the HC in Yemen. The basic materials and aids are not available due to this civil war. SYS presents this program to combat the spread of infectious diseases and provide some means of prevention in many neighborhoods, mosques, restaurants, as well as the markets.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
-  <other-identifier ref="46681">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-30" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Support Yemeni Society Organization for Development SYS</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Ahmed Al-Qadhi</narrative>
-   </person-name>
-   <telephone>0773528444</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Ahmed Al-Qadhi, Hadda St. Next to Maktabaty, P O Box 1715, Sana&apos;a, 967, Yemen</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="YE" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46681">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-05"></transaction-date>
-   <value currency="USD" value-date="2020-09-05">3503</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/prevention-of-coronavirus-in-yemen/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16915" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46684</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">COVID-19 Response: Help Afghan Girls and Families</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Sahar currently serves 25,000 girls in Afghanistan yearly. During the pandemic we are launching a COVID 19 response campaign that needs your support so that we can provide timely assistance to a population that does not have adequate access to healthcare. Our Afghan team will provide health education about the virus including hygiene and social distancing within the cultural and family structures. We will also purchase PPEs and soap from female entrepreneurs and distribute them to those in need.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-3285566033" role="4"></participating-org>
-  <other-identifier ref="46684">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-05-04" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Sahar Education</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Ginna Brelsford</narrative>
-   </person-name>
-   <telephone>206-547-6875</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Ginna Brelsford, P.O. Box 17672, Seattle, WA 98127, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="AF" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46684">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-08-08"></transaction-date>
-   <value currency="USD" value-date="2020-08-08">700</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-3285566033"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid-19-response-help-afghan-girls-and-families/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16916" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46686</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Emergency Seed Bank to avert famine in Haiti.</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Poor rural families and farmers risk serious threat to their food and nutrition security that could escalate into famine in the aftermath of COVID-19. Undernourishment and a significant drop in agricultural production rates will result if an aggressive recovery plan is not implemented to avoid sending struggling farmers even deeper into poverty traps and malnutrition. The Seed Bank uses an inter-generational approach to strengthen community and serve as a model for social and behavioral changes.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-null" role="4"></participating-org>
-  <other-identifier ref="46686">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-06-08" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">Sonje Ayiti Organization</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Gabrielle Aurel</narrative>
-   </person-name>
-   <telephone>5133754474</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Gabrielle Aurel, 637 Monroe Street, Newport, KY 41071, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="HT" percentage="100"></recipient-country>
-  <sector code="S30" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46686">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-08-19"></transaction-date>
-   <value currency="USD" value-date="2020-08-19">6616</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-null"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/emergency-seed-bank-to-address-the-risk-of-famine/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16917" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46687</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">COVID-19 Rural Relief Distribution in India</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">Our project is distributing staple foods (rice, pulses, mustard oil, wheat flour, potatoes, salt, sugar and soap) to migrant workers and daily wage laborers in rural India where there is limited access to essential goods during the COVID-19 lockdown.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-4466819313" role="4"></participating-org>
-  <other-identifier ref="46687">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-30" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">My Choices</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">My Choices Foundation</narrative>
-   </person-name>
-   <telephone>6129403297</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">My Choices Foundation, PO Box 47305, Plymouth, MN 55447, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="IN" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46687">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-02"></transaction-date>
-   <value currency="USD" value-date="2020-09-02">1454</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-4466819313"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid-19-rural-relief-distribution-in-india/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16921" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46702</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">COVID-19 Global Food Bank Response</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">COVID-19 is making the plight of those facing hunger much more difficult. The Global FoodBanking Network (GFN) and its food banking organizations are on the front lines in over 40 countries outside of the U.S. working tirelessly to serve those seeking hunger relief services now more than ever. GFN food banks remain rooted in communities during this crisis. We need your support to continue to build and support strong food banks that serve millions of people. Learn more at www.foodbanking.org</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-351060715" role="4"></participating-org>
-  <other-identifier ref="46702">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-30" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">The Global FoodBanking Network</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">Caroline Parsons</narrative>
-   </person-name>
-   <telephone>3127824560</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">Caroline Parsons, 70 E LAKE ST STE 1200, CHICAGO, IL 60601-5915, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="US" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46702">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-05"></transaction-date>
-   <value currency="USD" value-date="2020-09-05">4942</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-351060715"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/covid-19-global-food-bank-response/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="globalgiving-activity" dstore:index="16922" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://iatistandard.org/downloads/iati-activities-schema.xsd">
-  <iati-identifier>US-EIN-300108263-GGProj:46704</iati-identifier>
-  <reporting-org ref="US-EIN-300108263" type="21">
-   <narrative xml:lang="EN">GlobalGiving</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Support &amp; Elevate Nigerian Waste Collectors</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">While responsible for delivering the majority of the world&apos;s materials to the recycling value chain, informal collectors are also critical to maintaining public health and sanitation. They are often marginalized in their own communities and have limited access to basic needs such as food, decent shelter, and healthcare. In Nigeria, the COVID-19 pandemic is deeply affecting the lives and livelihoods of the waste collector community and they need immediate support to cope with the crisis.</narrative>
-  </description>
-  <participating-org ref="US-EIN-300108263" role="1" type="21"></participating-org>
-  <participating-org ref="XI-BRIDGE-3709460723" role="4"></participating-org>
-  <other-identifier ref="46704">
-   <owner-org ref="US-EIN-300108263"></owner-org>
-  </other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-04-29" type="1"></activity-date>
-  <contact-info>
-   <organisation>
-    <narrative xml:lang="EN">PYXERA Global</narrative>
-   </organisation>
-   <person-name>
-    <narrative xml:lang="EN">John Holm</narrative>
-   </person-name>
-   <telephone>2028720933</telephone>
-   <mailing-address>
-    <narrative xml:lang="EN">John Holm, 99 M St SE, Suite 400, Washington, DC, DC 20003, United States</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="NG" percentage="100"></recipient-country>
-  <sector code="M99" percentage="100" vocabulary="5"></sector>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="30"></default-flow-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <transaction ref="US-EIN-300108263-GGProj:46704">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-05"></transaction-date>
-   <value currency="USD" value-date="2020-09-05">397</value>
-   <provider-org ref="US-EIN-300108263"></provider-org>
-   <receiver-org ref="XI-BRIDGE-3709460723"></receiver-org>
-   <disbursement-channel code="2"></disbursement-channel>
-  </transaction>
-  <document-link format="TEXT/HTML" url="https://www.globalgiving.org/projects/support-and-elevate-nigerian-waste-collectors/">
    <title>
     <narrative xml:lang="EN">Activity website</narrative>
    </title>
