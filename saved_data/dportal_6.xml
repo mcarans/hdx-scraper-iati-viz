@@ -1,5 +1,380 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <iati-activities version="2.03">
+ <iati-activity default-currency="USD" dstore:dataset="asdb-vu" dstore:index="16" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>46004-52031-001-GRNT0779</iati-identifier>
+  <reporting-org ref="XM-DAC-46004" type="40">
+   <narrative xml:lang="EN">Asian Development Bank</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Greater Port Vila Urban Resilience Project</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The project will improve urban resilience in Greater Port Vila (GPV) through capacity building, institutional strengthening, and the construction of two multipurpose emergency shelters. The project is guided by the Greater Port Vila Resilient Urban Development Strategy and Action Plan (GPV RUDSAP) which envisions, that by 2030, Greater Port Vila is safe, inclusive, resilient, and a vibrant economic hub based on sustainable development. About 53% of the total project financing is from disaster risk reduction sources. About 15,500 people in the municipality of Port Vila will benefit from the project, of which about half are women.
+
+The project also supports efforts to recover from the impacts of the coronavirus disease (COVID-19) pandemic and Tropical Cyclone Harold through (i) preventive measures for health and social safety nets; (ii) a focus on the vulnerable, women and the &quot;new poor&quot;; and (iii) partnerships and investments that generate jobs and stimulate the local economy.</narrative>
+  </description>
+  <participating-org activity-id="46004-52031-001-GRNT0779" ref="46004" role="1" type="40">
+   <narrative xml:lang="EN">Asian Development Bank</narrative>
+  </participating-org>
+  <participating-org activity-id="46004-52031-001-GRNT0779" ref="46004" role="2" type="10">
+   <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management</narrative>
+  </participating-org>
+  <participating-org activity-id="46004-52031-001-GRNT0779" ref="46004" role="4" type="10">
+   <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management</narrative>
+  </participating-org>
+  <participating-org activity-id="46004-52031-001-GRNT0779" ref="46004" role="2" type="10">
+   <narrative xml:lang="EN">Ministry of Internal Affairs</narrative>
+  </participating-org>
+  <participating-org activity-id="46004-52031-001-GRNT0779" ref="46004" role="4" type="10">
+   <narrative xml:lang="EN">Ministry of Internal Affairs</narrative>
+  </participating-org>
+  <other-identifier ref="46004" type="B1">
+   <owner-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </owner-org>
+  </other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-12-08" type="1"></activity-date>
+  <activity-date iso-date="2020-12-08" type="2"></activity-date>
+  <activity-date iso-date="2026-06-15" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </organisation>
+   <person-name>
+    <narrative xml:lang="EN">Jain, Anupma</narrative>
+   </person-name>
+   <email>ajain@adb.org</email>
+  </contact-info>
+  <activity-scope code="1"></activity-scope>
+  <recipient-country code="VU" percentage="100"></recipient-country>
+  <location>
+   <location-id code="2135171" vocabulary="G1"></location-id>
+   <name>
+    <narrative xml:lang="EN">Port Vila</narrative>
+   </name>
+   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+    <pos>-17.73648 168.31366</pos>
+   </point>
+  </location>
+  <sector code="43032" percentage="100" vocabulary="1"></sector>
+  <country-budget-items vocabulary="1">
+   <budget-item code="5.4.8" percentage="100" vocabulary="1"></budget-item>
+  </country-budget-items>
+  <policy-marker code="ENVIRONMENTALLY SUSTAINABLE GROWTH" vocabulary="99" vocabulary-uri="https://www.adb.org/sites/default/files/institutional-document/52031/files/project-classification-system-final-report.pdf">
+   <narrative xml:lang="EN">Environmentally sustainable growth</narrative>
+  </policy-marker>
+  <policy-marker code="GENDER EQUITY AND MAINSTREAMING" vocabulary="99" vocabulary-uri="https://www.adb.org/sites/default/files/institutional-document/52031/files/project-classification-system-final-report.pdf">
+   <narrative xml:lang="EN">Gender Equity and Mainstreaming</narrative>
+  </policy-marker>
+  <policy-marker code="GOVERNANCE AND CAPACITY DEVELOPMENT" vocabulary="99" vocabulary-uri="https://www.adb.org/sites/default/files/institutional-document/52031/files/project-classification-system-final-report.pdf">
+   <narrative xml:lang="EN">Governance and capacity development</narrative>
+  </policy-marker>
+  <policy-marker code="INCLUSIVE ECONOMIC GROWTH" vocabulary="99" vocabulary-uri="https://www.adb.org/sites/default/files/institutional-document/52031/files/project-classification-system-final-report.pdf">
+   <narrative xml:lang="EN">Inclusive economic growth</narrative>
+  </policy-marker>
+  <policy-marker code="KNOWLEDGE SOLUTIONS" vocabulary="99" vocabulary-uri="https://www.adb.org/sites/default/files/institutional-document/52031/files/project-classification-system-final-report.pdf">
+   <narrative xml:lang="EN">Knowledge solutions</narrative>
+  </policy-marker>
+  <collaboration-type code="2"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget>
+   <period-start iso-date="2021-01-01"></period-start>
+   <period-end iso-date="2021-03-31"></period-end>
+   <value currency="USD" value-date="2021-03-31">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2021-04-01"></period-start>
+   <period-end iso-date="2021-06-30"></period-end>
+   <value currency="USD" value-date="2021-06-30">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2021-07-01"></period-start>
+   <period-end iso-date="2021-09-30"></period-end>
+   <value currency="USD" value-date="2021-09-30">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2021-10-01"></period-start>
+   <period-end iso-date="2021-12-31"></period-end>
+   <value currency="USD" value-date="2021-12-31">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2022-01-01"></period-start>
+   <period-end iso-date="2022-03-31"></period-end>
+   <value currency="USD" value-date="2022-03-31">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2022-04-01"></period-start>
+   <period-end iso-date="2022-06-30"></period-end>
+   <value currency="USD" value-date="2022-06-30">795000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2022-07-01"></period-start>
+   <period-end iso-date="2022-09-30"></period-end>
+   <value currency="USD" value-date="2022-09-30">909000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2022-10-01"></period-start>
+   <period-end iso-date="2022-12-31"></period-end>
+   <value currency="USD" value-date="2022-12-31">568000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-03-31"></period-end>
+   <value currency="USD" value-date="2023-03-31">634000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2023-04-01"></period-start>
+   <period-end iso-date="2023-06-30"></period-end>
+   <value currency="USD" value-date="2023-06-30">2218000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2023-07-01"></period-start>
+   <period-end iso-date="2023-09-30"></period-end>
+   <value currency="USD" value-date="2023-09-30">2218000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2023-10-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-12-31">1267000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2024-01-01"></period-start>
+   <period-end iso-date="2024-03-31"></period-end>
+   <value currency="USD" value-date="2024-03-31">68000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2024-04-01"></period-start>
+   <period-end iso-date="2024-06-30"></period-end>
+   <value currency="USD" value-date="2024-06-30">238000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2024-07-01"></period-start>
+   <period-end iso-date="2024-09-30"></period-end>
+   <value currency="USD" value-date="2024-09-30">238000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2024-10-01"></period-start>
+   <period-end iso-date="2024-12-31"></period-end>
+   <value currency="USD" value-date="2024-12-31">136000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2025-01-01"></period-start>
+   <period-end iso-date="2025-03-31"></period-end>
+   <value currency="USD" value-date="2025-03-31">35000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2025-04-01"></period-start>
+   <period-end iso-date="2025-06-30"></period-end>
+   <value currency="USD" value-date="2025-06-30">123000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2025-07-01"></period-start>
+   <period-end iso-date="2025-09-30"></period-end>
+   <value currency="USD" value-date="2025-09-30">123000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2025-10-01"></period-start>
+   <period-end iso-date="2025-12-31"></period-end>
+   <value currency="USD" value-date="2025-12-31">70000</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2026-01-01"></period-start>
+   <period-end iso-date="2026-03-31"></period-end>
+   <value currency="USD" value-date="2026-03-31">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2026-04-01"></period-start>
+   <period-end iso-date="2026-06-30"></period-end>
+   <value currency="USD" value-date="2026-06-30">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2026-07-01"></period-start>
+   <period-end iso-date="2026-09-30"></period-end>
+   <value currency="USD" value-date="2026-09-30">0</value>
+  </budget>
+  <budget>
+   <period-start iso-date="2026-10-01"></period-start>
+   <period-end iso-date="2026-12-31"></period-end>
+   <value currency="USD" value-date="2026-12-31">0</value>
+  </budget>
+  <capital-spend percentage="100"></capital-spend>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-08"></transaction-date>
+   <value currency="USD" value-date="2020-12-08">9640000</value>
+   <provider-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management;Ministry of Internal Affairs</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="USD" value-date="2020-12-31">0</value>
+   <provider-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management;Ministry of Internal Affairs</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-01-31"></transaction-date>
+   <value currency="USD" value-date="2021-01-31">0</value>
+   <provider-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management;Ministry of Internal Affairs</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-02-28"></transaction-date>
+   <value currency="USD" value-date="2021-02-28">0</value>
+   <provider-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management;Ministry of Internal Affairs</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-03-31"></transaction-date>
+   <value currency="USD" value-date="2021-03-31">0</value>
+   <provider-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management;Ministry of Internal Affairs</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-04-30"></transaction-date>
+   <value currency="USD" value-date="2021-04-30">0</value>
+   <provider-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">Ministry of Finance &amp; Economic Management;Ministry of Internal Affairs</narrative>
+   </receiver-org>
+  </transaction>
+  <document-link format="APPLICATION/PDF" url="https://www.adb.org/sites/default/files/project-documents/52031/52031-001-rrp-en.pdf">
+   <title>
+    <narrative xml:lang="EN">Reports and Recommendations of the President</narrative>
+   </title>
+   <category code="A01"></category>
+   <category code="A02"></category>
+   <category code="A03"></category>
+   <category code="A05"></category>
+   <category code="A08"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2021-04-30"></document-date>
+  </document-link>
+  <document-link format="APPLICATION/PDF" url="https://www.adb.org/sites/default/files/project-documents/52031/52031-001-grj-en.pdf">
+   <title>
+    <narrative xml:lang="EN">Grant Agreement</narrative>
+   </title>
+   <category code="A04"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2021-04-30"></document-date>
+  </document-link>
+  <document-link format="APPLICATION/PDF" url="https://www.adb.org/sites/default/files/project-documents/52031/52031-001-grj-en.pdf">
+   <title>
+    <narrative xml:lang="EN">Grant Agreement</narrative>
+   </title>
+   <category code="A09"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2021-04-30"></document-date>
+  </document-link>
+  <document-link format="APPLICATION/PDF" url="https://www.adb.org/projects/52031-001/main#project-tenders">
+   <title>
+    <narrative xml:lang="EN">Tenders</narrative>
+   </title>
+   <category code="A10"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2021-04-30"></document-date>
+  </document-link>
+  <document-link format="APPLICATION/PDF" url="https://www.adb.org/projects/52031-001/main#project-tenders">
+   <title>
+    <narrative xml:lang="EN">Contract/s Awarded</narrative>
+   </title>
+   <category code="A11"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2021-04-30"></document-date>
+  </document-link>
+  <conditions attached="0">
+   <condition type="2">
+    <narrative xml:lang="EN">Type 2</narrative>
+   </condition>
+   <condition type="3">
+    <narrative xml:lang="EN">Type 3</narrative>
+   </condition>
+  </conditions>
+  <result aggregation-status="0" type="1">
+   <title>
+    <narrative xml:lang="EN">Design and Monitoring Framework</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Urban resilience in Greater Port Vila improved</narrative>
+   </description>
+   <document-link format="APPLICATION/PDF" url="https://www.adb.org/sites/default/files/project-documents/52031/52031-001-rrp-en.pdf">
+    <title>
+     <narrative xml:lang="EN">Reports and Recommendations of the President</narrative>
+    </title>
+    <category code="A08"></category>
+    <language code="EN"></language>
+    <document-date iso-date="2021-04-30"></document-date>
+   </document-link>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">At least 75% of women who access multipurpose emergency shelters report infrastructure meets their needs (Baseline: Not applicable)</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Urban resilience in Greater Port Vila improved</narrative>
+    </description>
+    <baseline value="0" year="2020"></baseline>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">By 2026:
+
+At least 15,500 people, of whom about 7,200 are women, benefit from more resilient urban assets and services (Baseline: 0) (OP 4.1, OP 2.1.4)</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Urban resilience in Greater Port Vila improved</narrative>
+    </description>
+    <baseline value="0" year="2020"></baseline>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="5">
+    <title>
+     <narrative xml:lang="EN">Resilient urban planning, management, and financial sustainability functions of the MOIA and PVMC improved (OP 4.2, 6.1)</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Urban resilience in Greater Port Vila improved</narrative>
+    </description>
+    <baseline value="N" year="2020"></baseline>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="5">
+    <title>
+     <narrative xml:lang="EN">Urban environment, climate resilience, and disaster risk management of two wards improved (Baseline: Not applicable) (OP 4.3)</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Urban resilience in Greater Port Vila improved</narrative>
+    </description>
+    <baseline value="N" year="2020"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
  <iati-activity default-currency="USD" dstore:dataset="asdb-mh" dstore:index="12" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>46004-53082-001-GRNT0780</iati-identifier>
   <reporting-org ref="XM-DAC-46004" type="40">
@@ -14627,7 +15002,7 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
    <narrative xml:lang="EN">COVID-19: Health Expenditure and Livelihoods Support Program</narrative>
   </title>
   <description>
-   <narrative xml:lang="EN">The Health Expenditure and Livelihoods Support (HEALS) Program under the Countercyclical Support Facility COVID-19 pandemic response option (CPRO) aims to support the government&#xE2;&#x20AC;&#x2122;s response to the potentially devastating health and economic impacts of the coronavirus disease (COVID-19), including though increased health sector spending and sustained funding for social protection programs.</narrative>
+   <narrative xml:lang="EN">The Health Expenditure and Livelihoods Support (HEALS) Program under the Countercyclical Support Facility COVID-19 pandemic response option (CPRO) aims to support the government&#x2019;s response to the potentially devastating health and economic impacts of the coronavirus disease (COVID-19), including though increased health sector spending and sustained funding for social protection programs.</narrative>
   </description>
   <participating-org activity-id="46004-54245-001-LN3955" ref="46004" role="1" type="40">
    <narrative xml:lang="EN">Asian Development Bank</narrative>
@@ -14785,6 +15160,17 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
     <narrative xml:lang="EN">Ministry of Finance;Ministry of Finance</narrative>
    </receiver-org>
   </transaction>
+  <transaction>
+   <transaction-type code="5"></transaction-type>
+   <transaction-date iso-date="2021-04-30"></transaction-date>
+   <value currency="USD" value-date="2021-04-30">0</value>
+   <provider-org>
+    <narrative xml:lang="EN">Asian Development Bank</narrative>
+   </provider-org>
+   <receiver-org>
+    <narrative xml:lang="EN">Ministry of Finance;Ministry of Finance</narrative>
+   </receiver-org>
+  </transaction>
   <document-link format="APPLICATION/PDF" url="https://www.adb.org/sites/default/files/project-documents/54245/54245-001-rrp-en.pdf">
    <title>
     <narrative xml:lang="EN">Reports and Recommendations of the President</narrative>
@@ -14795,7 +15181,7 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
    <category code="A05"></category>
    <category code="A08"></category>
    <language code="EN"></language>
-   <document-date iso-date="2021-03-31"></document-date>
+   <document-date iso-date="2021-04-30"></document-date>
   </document-link>
   <document-link format="APPLICATION/PDF" url="https://www.adb.org/sites/default/files/project-documents/54245/54245-001-lna-en.pdf">
    <title>
@@ -14803,7 +15189,7 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
    </title>
    <category code="A04"></category>
    <language code="EN"></language>
-   <document-date iso-date="2021-03-31"></document-date>
+   <document-date iso-date="2021-04-30"></document-date>
   </document-link>
   <document-link format="APPLICATION/PDF" url="https://www.adb.org/sites/default/files/project-documents/54245/54245-001-lna-en.pdf">
    <title>
@@ -14811,7 +15197,7 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
    </title>
    <category code="A09"></category>
    <language code="EN"></language>
-   <document-date iso-date="2021-03-31"></document-date>
+   <document-date iso-date="2021-04-30"></document-date>
   </document-link>
   <document-link format="APPLICATION/PDF" url="https://www.adb.org/projects/54245-001/main#project-tenders">
    <title>
@@ -14819,7 +15205,7 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
    </title>
    <category code="A10"></category>
    <language code="EN"></language>
-   <document-date iso-date="2021-03-31"></document-date>
+   <document-date iso-date="2021-04-30"></document-date>
   </document-link>
   <document-link format="APPLICATION/PDF" url="https://www.adb.org/projects/54245-001/main#project-tenders">
    <title>
@@ -14827,7 +15213,7 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
    </title>
    <category code="A11"></category>
    <language code="EN"></language>
-   <document-date iso-date="2021-03-31"></document-date>
+   <document-date iso-date="2021-04-30"></document-date>
   </document-link>
   <conditions attached="0">
    <condition type="1">
@@ -14853,7 +15239,7 @@ COVID-19 outbreak effectively managed and its immediate adverse social and econo
     </title>
     <category code="A08"></category>
     <language code="EN"></language>
-    <document-date iso-date="2021-03-31"></document-date>
+    <document-date iso-date="2021-04-30"></document-date>
    </document-link>
    <indicator aggregation-status="0" ascending="1" measure="1">
     <title>
@@ -16410,7 +16796,7 @@ catastrophic health and economic impacts of the coronavirus disease (COVID-19), 
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="EUR" dstore:dataset="bmu_iki-998" dstore:index="340" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="EUR" dstore:dataset="bmu_iki-999" dstore:index="347" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>7361519</iati-identifier>
   <reporting-org ref="XI-IATI-IKI" type="10">
    <narrative xml:lang="EN">BMU IKI Secretariat</narrative>
@@ -16462,6 +16848,75 @@ catastrophic health and economic impacts of the coronavirus disease (COVID-19), 
     <narrative xml:lang="EN">Commitments total</narrative>
    </description>
   </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-01-01"></transaction-date>
+   <value currency="EUR" value-date="2021-01-01">538316.26</value>
+   <description>
+    <narrative xml:lang="EN">Disbursements 2021</narrative>
+   </description>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="EUR" dstore:dataset="bmu_iki-999" dstore:index="349" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>7393327</iati-identifier>
+  <reporting-org ref="XI-IATI-IKI" type="10">
+   <narrative xml:lang="EN">BMU IKI Secretariat</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Supporting PAGE countries on Green Economic Recovery from COVID-19</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The UN initiative &#x201C;Partnership for Action on Green Economy&#x201D; (PAGE), founded in the context of the Rio + 20 conference in 2012, strives to enable the transformation of an economy that is not only internationally competitive but also sustainable. PAGE positions itself as an implementation vehicle for the 2030 Agenda and its SDGs and thus meets increasing demand in emerging and developing countries. Given the impact of the Covid-19 pandemic, in which governments are forced to put in place large stimulus packages to rescue their economies, it is important that the capital invested is channeled into sectors that enable a resilient green economy and do not create lock-in effects at the same time take into account the national climate targets. To support this, PAGE has launched activities that are specifically tailored to environmentally and climate-friendly crisis overcoming measures and economic stimulus packages (green recovery).</narrative>
+  </description>
+  <participating-org ref="XM-DAC-5-9" role="1" type="10">
+   <narrative xml:lang="EN">Federal Ministry for the Environment, Nature Conservation and Nuclear Safety</narrative>
+  </participating-org>
+  <participating-org ref="XI-IATI-IKI" role="3" type="10">
+   <narrative xml:lang="EN">International Climate Initiative</narrative>
+  </participating-org>
+  <participating-org role="4">
+   <narrative xml:lang="EN">United Nations Development Programme (UNDP)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2022-01-31" type="3">
+   <narrative xml:lang="EN">end-planned</narrative>
+  </activity-date>
+  <activity-date iso-date="2020-10-01" type="1">
+   <narrative xml:lang="EN">start-planned</narrative>
+  </activity-date>
+  <contact-info>
+   <person-name>
+    <narrative xml:lang="EN">Alexander Huck</narrative>
+   </person-name>
+   <telephone></telephone>
+   <email>iki-secretariat@z-u-g.org</email>
+   <mailing-address>
+    <narrative xml:lang="EN">IKI Secretariat, Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH K&#xF6;thener Stra&#xDF;e 4, 10963 Berlin, Germany</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-region code="998" percentage="100" vocabulary="1"></recipient-region>
+  <sector code="99810" percentage="100" vocabulary="1"></sector>
+  <collaboration-type code="2"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-10-01"></transaction-date>
+   <value currency="EUR" value-date="2020-10-01">6000000</value>
+   <description>
+    <narrative xml:lang="EN">Commitments total</narrative>
+   </description>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-01-01"></transaction-date>
+   <value currency="EUR" value-date="2020-01-01">6000000</value>
+   <description>
+    <narrative xml:lang="EN">Disbursements 2020</narrative>
+   </description>
+  </transaction>
  </iati-activity>
  <iati-activity default-currency="USD" dstore:dataset="altai-activities" dstore:index="2" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>AE-HFZA-1526-EMP-OP2</iati-identifier>
@@ -16490,74 +16945,6 @@ catastrophic health and economic impacts of the coronavirus disease (COVID-19), 
    <period-end iso-date="2020-10-31"></period-end>
    <value currency="GBP" value-date="2020-05-09">48878</value>
   </budget>
- </iati-activity>
- <iati-activity default-currency="EUR" dstore:dataset="epf-activities" dstore:index="1" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>AM-SRALE-222.160.00823-XM-DAC-7-PPR-4000001515</iati-identifier>
-  <reporting-org ref="AM-SRALE-222.160.00823" type="60">
-   <narrative xml:lang="EN">Eurasia Partnership Foundation</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Towards sustainable reform: promoting freedom of religion or belief in Armenia</narrative>
-  </title>
-  <description type="2">
-   <narrative xml:lang="EN">The intended project objectives are as follows: 1. To advance FoRB in Armenia through regular policy work, advocacy efforts and strengthening capacities of religious or belief organizations. 2. To address the issue of teaching religion in schools via research, policy dialogue with the MoESCS (Ministry of Education, Science, Culture and Sport), and building credible alternative options for opt-outs. 3. To contribute to the improvement of the quality and professionalism of media publications on issues of tolerance and diversity. The objectives set in the project were mostly met, some activities are not yet implemented and some actions need further work, more time and efforts to be achieved. However, with respect to certain activities, as a result of advocacy work, even better results are achieved than the project initially planned. Objective 1 In order to reach the objective 1 and the outputs set therein, a forum for discussions around issues of FoRB in Armenian and facilitated meetings with ethnic and religious communities continued to be held at the premises of EPF and beyond. This allowed for existing problems and matters of concern for these communities to be voiced, and be integrated into EPF&#x2019;s policy and advocacy work. On November 4, 2019, Discussion of the Draft Law of the Republic of Armenia &#x201C;On Ensuring Equality&#x201D; was held at EPF with the participation of members from Seventh-day Adventist Church, Baha&apos;i community, Armenian Evangelical Church, Assyrian community, local and international organizations (IOs). During the meeting, manifestations of discrimination in Armenia were discussed with participants, the Draft Law on Equality, Justification of the Necessity of the Draft Law, main provisions, Regulations, gaps and concerns were presented by EPF and a discussion followed. During the discussion, the notes of EPF&#x2019;s annual FoRB conference session on conflicting rights have been used, which proved its crucial importance. EPF believes that through such and subsequent activities it builds the capacities of religious or belief organizations and contributes to the atmosphere of solidarity and tolerance between various minority groups. On November 19, EPF was invited to hold a session on fundamental human rights and freedoms, minority rights and child rights by Yezidi Center for Human Rights. During the meeting, the director of NGO highlighted the role of EPF in protecting the rights of national minorities in Armenia, and in mainstreaming Yezidi issues in particular, as well as expressed willingness to support the further activities of EPF with regard to Yezidi children. Isabella and Nikolay of EPF introduced the concepts of human rights and child rights with a focus on respective national instruments, the Constitution, and initiated a discussion with children, aimed at empowering them by addressing their concerns, interests and needs. On January 23, 2020, a small three-way meeting with activists from the Yezidi community, a Pastor and lawyer at Word of Life Church Armenia, and EPF took place at EPF&#x2019;s premises. The meeting was initiated by EPF to discuss the developments of the case of a police officer in Armenia who was dismissed from his job for being a member of a religious organization, to exchange contacts and information on recent developments regarding FoRB and other emerging human rights issues in Armenia. Risks of becoming a tool of political speculation, the need for establishing extrajudicial mechanisms to hold people accountable for discriminatory behaviour, the process of constitutional amendments, and so-assumed problematic parts of the Istanbul Convention (according to several religious organizations) have been discussed and explained during the meeting. On February 21, 2020, a discussion around rights and issues of national minorities was held at EPF premises. EPF&#x2019;s partner human rights organizations, representatives of national minorities, foreign missions in Armenia, and the EU Delegation to Armenia took part in the discussion. The aim of the meeting was to discuss problems within the national minority communities. EPF undertook the responsibility to initiate a meeting with the PM&#x2019;s Office and address any raising problem accordingly, while international partners expressed willingness to engage and support the process as needed. Following the discussion, EPF engaged with several MPs in this regard and held a meeting with the PM Office on March 9, 2020. As the state of emergency emerged due to COVID-19, EPF was unable to hold regular offline meetings with ethnic and religious communities. However, on April 10, EPF communicated with its beneficiaries to explore their needs and understand if any additional activities are required by EPF to ease the situation, as well as provided EPF staff phone numbers for any emergency where EPF&#x2019;s involvement and support would be required. EPF received positive feedback from several organizations, including Jehovah&#x2019;s Witnesses, Seventh-day Adventist Church, Evangelical Church, who mentioned that despite the new circumstances that have created inconveniences, thanks to new technologies, they can hold the religious gatherings. EPF held a series of discussions with Georgia-based partner Tolerance and Diversity Institute (TDI), but given the new circumstances, EPF had to cancel its preparation work for the annual FoRB Conference in Tbilisi, which was initially planned to be held at the end of May 2020. At the beginning of the next reporting period, EPF will publicize the report prepared after the 2019 annual conference on Contemporary Issues of FoRB in Armenia, Georgia, and beyond, which touches upon legal, practical and academic materials and issues on FoRB. EPF remains the main organization in Armenia devoted to protecting FoRB, and the leading organization on the advocacy of Equality Law. During the reporting period, EPF contributed to public discussions and provided recommendations outlining anti-discrimination and freedom of religion-related issues, proposed modifications of Human Rights Action Plan (HRAP) 2019, submitted and initiated discussions on aforementioned issues for HRAP 2020-2022, made recommendations ahead of the 11th EU-Armenia Human Rights Dialogue, provided its contribution on FoRB, the Right of the Child to Education, to Freedom of Thought, Conscience and Religion, Violence against Children, Anti-Discrimination (Equality Law), Draft Law on National Minorities, Judiciary reforms, and amendments to the Law on Non-Governmental Organizations, as well as made an individual submission to the Human Rights Council Universal Periodic Review (UPR) of Armenia during its 35th session. At the time of writing, several major achievements have been registered in this regard. In particular, the restrictions on employment in the law of 04.04.2020 and 01.01.2022 on the Rescue Service, the law of 28.05.2020 - 01.01.2022 and 01.01.2022 on Penitentiary Service, the law of 01&#x2024;01&#x2024;2022 on Compulsory Enforcement Service, the law of 02.05.2020 on Public Service of the Republic of Armenia no longer prohibit the employment of members of religious organizations, which is a major achievement in terms of tackling institutional discrimination in Armenia. Such restriction for employment still exists in RA Law on Service in the National Security Bodies and RA Law on Service in Police. It is noteworthy, however, that on February 18, 2020, Armenia&#x2019;s Constitutional Court declared the religious ban for police officers unlawful and unconstitutional. Objective 2 To find a credible mechanism to opt-out the History of Armenian Apostolic Church (AACh) school subject, EPF had earlier initiated Papers on FoRB and Education. In the reporting period, the policy papers, which explored the possibilities of legal ways to opt-out the subject, address the issue of teaching religion in schools, and presented recommendations focused on FoRB and education issues and were presented to the MoESCS&#x2019;s consideration during public discussions and private meetings. While the earlier exchange of experiences took place with EPF&#x2019;s Georgia-based partner TDI, during the reporting period, as the MoESCS initiated discussions over new public education standards, EPF got involved in discussions both on general public education standards, as well as subject-related new standards&#x2019; meetings. On October 8, 2019, EPF took part in a discussion of new subject-related education standards for school subjects History of Armenia and the History of AACh, where it raised its concerns over violation of FoRB due to the subject History of AACh and presented its recommendations deriving from Policy Papers. EPF further followed up with the Ministry and sent its written recommendations. On October 8, 2019, EPF took part in two other meetings at the premises of MoESCS and discussed the school subjects on human rights and media literacy. In these meetings, the draft state of the standard of general education developed by the working group was discussed in detail, which defines the competencies of the graduates of the main secondary education program, the expected final results of education, the minimum and maximum volumes of educational workload, and the 4 main components of the content of general education: knowledge, skill, attitude, value system. As EPF and partner organizations had been actively taking part in the HRAP 2020-22 discussions, an action on making the subject alternative had been added in the Action Plan. In November 2019, protests emerged in Armenia demanding for the resignation of the Minister of Education, linked with the new bill that the Ministry proposed, which would make the study of the Armenian language, literature, and history not mandatory for students of the non-humanitarian faculties of the universities and over the subject of the History of AACh being taken out from schools. EPF&#x2019;s ongoing private discussions with the Ministry focus over the possibility and Ministry&#x2019;s intention to take out the History of AACh from school curricula completely and integrating sections from the subject into other school subjects, such as the History of Armenia and Sociology. Further public and private discussions with the Ministry are planned to be held in June 2020, and the new standards, outlining that the History of AACh is to be opted out, leaving sections regarding the history of the church integrated into other subjects will be discussed. Objective 3 Several activities envisaged in the project have been successfully implemented to contribute to the improvement of the quality and professionalism of media publications on issues of FoRB, tolerance and diversity by increasing sensitivity of Armenian mass media in their coverage of issues of religious freedom and diversity. Through the religions.am website, in cooperation with Collaboration for Democracy Union (CDU), EPF has been undertaking efforts to raise the level of people&apos;s awareness on FoRB and related issues. During the reporting period, the website posted a total of 25 articles in Armenian, 12 articles in English, 160 and 333 materials in Press Review section from Armenian and Russian-language media, respectfully, and 9 photo-materials were posted. EPF&#x2019;s partner CDU has had problems with registering statistics on the website as the website crashed in November, and google analytics did not record the data. However, during the second half of the reporting year, CDU actively shared the website materials on social media, with many likes and shares followed. Due to the political changes in the country on the one hand, and COVID-19 epidemic, on the other hand, religious issues have not enjoyed as much public interest as during the previous year, and more informative articles on religion, as well as interviews with specific and bold statements on the topic, gained popularity. EPF started the preparation for training with journalists, in particular, with media outlet managers, editors and decision-makers on FoRB and anti-discrimination to be held in March 2020. However, the state of emergency and the pandemic caused the public interest to shift to other health and political-related issues, and the event and this component have been postponed. The topic will reach its peak in gaining public interest once the Draft Law on Equality is brought before the NA, and EPF will undertake extensive work with journalists in this regard. The Annual Media Award Ceremony for the best media coverage on the topic of tolerance towards the religious and national minorities was planned to be held on March 26, 2020. However, the invitations had to be called back and the event was postponed as the pandemic-related situation emerged. The Media Awards are organized with the purpose to encourage balanced and delicate media reporting on tolerance, peaceful coexistence and diversity in Armenia which will promote the development of a tolerant and respectful attitude of the society towards minority communities. The winners this year were selected by a professional jury which reviewed media pieces published from 1 February 2019, to 5 March 2020. This year 34 materials were submitted for consideration, and a total of 9 authors from different media outlets in Armenia were awarded for encouraging prize, special prize, and six applicants awarded 1st to 3rd prizes. For raising visibility about the activity and promote the materials that got prizes, EPF recorded a video with the winning authors, jury members, the Ambassador Extraordinary and Plenipotentiary of the Kingdom of the Netherlands to Georgia and Armenia Maaike van Koldam, Ambassador Extraordinary and Plenipotentiary of the Republic of Bulgaria to the Republic of Armenia Maria Pavlova Tzotzorkova-Kaymaktchieva, and Representative of the UNHCR in Yerevan Anna-Carin &#xD6;st, who all delivered messages to promote tolerance, coexistence and diversity. The video is planned to air on EPF&#x2019;s Facebook page and Youtube channel on June 12, 2020. The project also allowed EPF to effectively engage in the anti-discrimination policy advocacy through meetings with MoJ, CSOs, making recommendations to these and other stakeholders and providing public speeches at various platforms. During the reporting period, EPF has also led the discussions among stakeholders and brought the draft Equality Law, its relevance and importance to the attention of international partners, civil society organizations and government partners. On October 7, 2019, EPF co-organized a discussion on the Draft Law together with the RA Ministry of Justice, where the Deputy Minister mentioned that the Government is pushing for a broader human rights agenda, and the adoption of the Equality Law is only a part of this broader agenda. Several recommendations made by OSCE/ODIHR, as well as EPF and civil society, have already been met by the MoJ. As the Interim Opinion mentions, there was a need for certain revisions and clarifications regarding concepts and definitions used in the Draft, which have already been modified by the Ministry. Important changes have been done in the Draft regarding legal and judicial procedural parts, which can provide effective protection of rights in proceedings. The matter of discriminatory provisions and clauses in several laws against followers of a religious organization (ie, the Law on Service in Police, the Law on Penitentiary Service, etc.) that do not apply to members of the AACh at the time of employment has been raised during the meeting by EPF. The Deputy MoJ mentioned in this regard, that there are some ongoing processes, and that it might be a separate concern that needs to be addressed. As the next paragraph uncovers, most of these problems have already been addressed in the reporting period. On January 27, 2020, EPF held another meeting with CSOs and IOs in Armenia intending to update each other on the progress of the Draft Law on Equality, discuss ongoing projects in the field of non-discrimination, share information and consolidate efforts by various local and IOs. Action points have been made by the end of the meeting for EPF to update all partners involved on developments and initiate further discussions, to follow and participate in public discussion planned at the National Assembly on hate speech, and for foreign missions and IOs in Armenia to follow-up on the adoption of Equality Law when they meet relevant authorities. On April 22, 2020, as the state of emergency due to the spread of COVID-19 had already emerged, EPF organized an online discussion on the progress and amendments of Draft Law &#x201C;On Ensuring Equality&#x201D;. EPF used its anti-discrimination-focused mailing list (ad@epfound.am) to have the participation of all interested partners and held an intensive and detailed meeting, where matters and timelines regarding the process of adoption, observations of the Office of the PM, tactical changes, distribution of the burden of proof, observations and recommendations of CSOs have been discussed with partner organizations, MoJ, MPs of NA&#x2019;s Standing Committee on Human Rights, and Ombudsman&#x2019;s Office. To EPF&#x2019;s knowledge, the Draft Law will be brought to NA during its autumn sessions in 2020. Throughout all the activities, EPF has ensured the visibility and ownership of the Embassy of the Kingdom of the Netherlands through banners, disclaimers, announcements, media materials, etc., during formal and informal events.</narrative>
-  </description>
-  <description type="1">
-   <narrative xml:lang="EN">The project addresses the issues of freedom of religion or belief in the Republic of Armenia with a focus on the new draft law on Freedom of Conscience and Religious Organizations, violations of FoRB of children and parents in public education as well as enhancing the implementation of the soon to be adopted law on Equality. As a part of the project an informal forum for discussions will be established for religious or belief communities, several conferences tackling FoRB issues in Armenia and Georgia will be conducted; trainings and annual media award for journalists will be performed, journalists and media outlets will be further sensitized on the issues of FoRB. EPF will work with the Office of Human Rights Defender and Equality body on concrete cases of violations of FoRB in Armenia in order to create positive precedents and encourage others to use this mechanism for better human rights protection. Stronger networks of religious organizations will be supported which will jointly advocate for improvements of the law. In the sphere of education, EPF will explore options for opt-outs and communicate these to the school councils and religious communities.</narrative>
-  </description>
-  <participating-org activity-id="XM-DAC-7-PPR-4000001515" crs-channel-code="20000" ref="AM-SRALE-222.160.00823" role="4" type="60">
-   <narrative xml:lang="EN">Eurasia Partnership Foundation</narrative>
-  </participating-org>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2018-06-01" type="2"></activity-date>
-  <recipient-country code="AM" percentage="100"></recipient-country>
-  <sector code="15160" percentage="100" vocabulary="1"></sector>
-  <budget status="2" type="1">
-   <period-start iso-date="2018-06-01"></period-start>
-   <period-end iso-date="2019-05-31"></period-end>
-   <value currency="EUR" value-date="2018-06-01">102497</value>
-  </budget>
-  <budget status="2" type="1">
-   <period-start iso-date="2019-06-01"></period-start>
-   <period-end iso-date="2020-05-31"></period-end>
-   <value currency="EUR" value-date="2019-06-01">102497</value>
-  </budget>
-  <budget status="2">
-   <period-start iso-date="2020-06-01"></period-start>
-   <period-end iso-date="2021-05-31"></period-end>
-   <value currency="EUR" value-date="2020-06-01">102496</value>
-  </budget>
-  <transaction humanitarian="0">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2018-06-21"></transaction-date>
-   <value currency="EUR" value-date="2018-06-21">103264</value>
-  </transaction>
-  <transaction humanitarian="0">
-   <transaction-type code="4"></transaction-type>
-   <transaction-date iso-date="2019-05-31"></transaction-date>
-   <value currency="EUR" value-date="2019-05-31">70089</value>
-  </transaction>
-  <transaction humanitarian="0">
-   <transaction-type code="1"></transaction-type>
-   <transaction-date iso-date="2019-09-05"></transaction-date>
-   <value currency="EUR" value-date="2019-09-05">102113</value>
-  </transaction>
-  <transaction humanitarian="0">
-   <transaction-type code="4"></transaction-type>
-   <transaction-date iso-date="2020-05-31"></transaction-date>
-   <value currency="EUR" value-date="2020-05-31">89064</value>
-  </transaction>
-  <document-link format="APPLICATION/MSWORD" url="https://aidstream.org/files/documents/EPF_Narrative-Report_-June1,-2019---May-31,2020-20200729110718.docx">
-   <title>
-    <narrative xml:lang="EN">Annual Analytical Narrative Progress Report</narrative>
-   </title>
-   <description>
-    <narrative xml:lang="EN">The annual analytical narrative progress report of the project Towards sustainable reform: promoting freedom of religion or belief in Armenia covers the reporting period of June 1, 2019- May 31, 2020.</narrative>
-   </description>
-   <category code="B01"></category>
-   <language code="EN"></language>
-   <document-date iso-date="2020-07-29"></document-date>
-  </document-link>
  </iati-activity>
  <iati-activity default-currency="EUR" dstore:dataset="fms-activities" dstore:index="3" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="ES" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>AR-CENOC-16969-A-NL-1-PPR-29481-1</iati-identifier>
@@ -24755,88 +25142,6 @@ UNDP aims to achieve the following 2 results:
    <transaction-type code="3"></transaction-type>
    <transaction-date iso-date="2020-06-30"></transaction-date>
    <value currency="AUD" value-date="2020-06-30">1893</value>
-   <description>
-    <narrative xml:lang="EN">Expenses incurred during the financial year 2019/20 for Investments with a start date on or after 1 July 2008</narrative>
-   </description>
-  </transaction>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="AUD" dstore:dataset="ausgov-sb" dstore:index="304" hierarchy="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>AU-5-INN515-SB</iati-identifier>
-  <reporting-org ref="AU-5" type="10">
-   <narrative xml:lang="EN">Australian Aid</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Solomon Islands Disaster Management and Climate Resilience</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The Solomon Islands Disaster Management and Climate Resilience investment will:
-1)	Support the Solomon Islands Government to ensure the National Disaster Management Office (NDMO) and provincial authorities are capable of preparing for and responding to disasters and COVID-19. 
-2)	Strengthen the United Nations Development Program (UNDP) to provide sustained technical disaster preparedness and response support to Solomon Islands
-3)	Increase climate and disaster resilience in select communities, including in Malaita province
-The investment will also support disaster response and assistance,  replenishing NFI stocks, contributions to ADF HADR exercises in Solomon Islands, humanitarian logistics support and similar activities. The total estimated value of this investment is $2.9 million over 2 years, commencing in the 2019-20 financial year.</narrative>
-  </description>
-  <participating-org ref="AU" role="1" type="10">
-   <narrative xml:lang="EN">AUSTRALIA</narrative>
-  </participating-org>
-  <participating-org ref="AU-5" role="3" type="10">
-   <narrative xml:lang="EN">Australia - Department of Foreign Affairs and Trade</narrative>
-  </participating-org>
-  <participating-org role="4">
-   <narrative xml:lang="EN">Name Withheld</narrative>
-  </participating-org>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-03-01" type="1"></activity-date>
-  <activity-date iso-date="2020-03-01" type="2"></activity-date>
-  <activity-date iso-date="2022-07-15" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="EN">Australia - Department of Foreign Affairs and Trade</narrative>
-   </organisation>
-   <telephone>+61 2 6261 1111</telephone>
-   <email>iati.support@dfat.gov.au</email>
-   <mailing-address>
-    <narrative xml:lang="EN">R.G. Casey Building, John McEwen Crescent, Barton ACT 0221, Australia</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="SB" percentage="100"></recipient-country>
-  <sector code="74020" percentage="45" vocabulary="1">
-   <narrative xml:lang="EN">Multi-hazard response preparedness</narrative>
-  </sector>
-  <sector code="15110" percentage="55" vocabulary="1">
-   <narrative xml:lang="EN">Public sector policy and administrative management</narrative>
-  </sector>
-  <humanitarian-scope code="HCOVD20" type="1" vocabulary="1-2">
-   <narrative xml:lang="EN">COVID-19 Pandemic Associated Activity</narrative>
-  </humanitarian-scope>
-  <policy-marker code="5" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
-  </policy-marker>
-  <policy-marker code="8" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
-  </policy-marker>
-  <policy-marker code="7" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
-  </policy-marker>
-  <policy-marker code="6" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
-  </policy-marker>
-  <policy-marker code="2" vocabulary="1">
-   <narrative xml:lang="EN">Aid to Environment</narrative>
-  </policy-marker>
-  <policy-marker code="1" vocabulary="1">
-   <narrative xml:lang="EN">Gender Equality</narrative>
-  </policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="10"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <capital-spend percentage="0"></capital-spend>
-  <transaction ref="AU-5-INN515-SB-2019/20">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-06-30"></transaction-date>
-   <value currency="AUD" value-date="2020-06-30">1893112</value>
    <description>
     <narrative xml:lang="EN">Expenses incurred during the financial year 2019/20 for Investments with a start date on or after 1 July 2008</narrative>
    </description>

@@ -1,827 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <iati-activities version="2.03">
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1491" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-3-P006726002</iati-identifier>
-  <reporting-org ref="CA-3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Girls&#x2019; Education in Conflict-affected Areas in Nigeria - Response to COVID-19</narrative>
-   <narrative xml:lang="FR">L&#x2019;&#xE9;ducation des filles dans les zones touch&#xE9;es par le conflit au Nig&#xE9;ria - R&#xE9;ponse au COVID-19</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="FR">Cette portion d&apos;un plus large projet vise &#xE0; r&#xE9;pondre &#xE0; la pand&#xE9;mie de COVID-19, en aidant les &#xC9;tats cibl&#xE9;s &#xE0; imprimer et &#xE0; distribuer des documents d&#x2019;information, de sensibilisation et de communication sur les mesures de pr&#xE9;caution en mati&#xE8;re de sant&#xE9; li&#xE9;es &#xE0; la COVID-19. Le projet vise &#xE0; acqu&#xE9;rir des radios aliment&#xE9;es par l&#x2019;&#xE9;nergie solaire pour soutenir l&#x2019;apprentissage &#xE0; distance dans les cercles de lecture pour enfants, qui sont principalement compos&#xE9;s de filles. Le projet travaille &#xE9;galement avec les enseignants de l&#x2019;&#xC9;tat pour s&#x2019;assurer que les le&#xE7;ons radiophoniques sont donn&#xE9;es en math&#xE9;matiques, en anglais et en sciences.</narrative>
-   <narrative xml:lang="EN">This portion of the larger project works to respond to the coronavirus (COVID-19) pandemic, through supporting the targeted states in printing and distributing information, education, and communication materials on COVID-19 health precaution measures. The project aims to procure solar powered radios to support remote learning for children&#x2019;s reading circles, which is predominantly comprised of girls. The project also works with state teachers to ensure that the radio-based lessons are being delivered in mathematics, English, and basic science.</narrative>
-  </description>
-  <participating-org ref="CA-3" role="3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada</narrative>
-  </participating-org>
-  <participating-org ref="CA" role="1" type="10">
-   <narrative xml:lang="EN">Canada</narrative>
-   <narrative xml:lang="FR">Canada</narrative>
-  </participating-org>
-  <participating-org crs-channel-code="22502" ref="22502" role="4" type="22">
-   <narrative xml:lang="EN">Save the Children Canada</narrative>
-   <narrative xml:lang="FR">Save the Children Canada</narrative>
-  </participating-org>
-  <other-identifier ref="2020200916" type="A2"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-02-26" type="2"></activity-date>
-  <activity-date iso-date="2022-09-30" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-    <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-   </organisation>
-   <email>info@international.gc.ca</email>
-   <website>www.international.gc.ca</website>
-   <mailing-address>
-    <narrative xml:lang="EN">125 Sussex Drive, Ottawa, Ontario, K1A 0G2</narrative>
-    <narrative xml:lang="FR">125, promenade Sussex, Ottawa (Ontario), K1A 0G2</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-country code="NG" percentage="100"></recipient-country>
-  <sector code="11110" percentage="6" vocabulary="1"></sector>
-  <sector code="11120" percentage="10" vocabulary="1"></sector>
-  <sector code="11130" percentage="10" vocabulary="1"></sector>
-  <sector code="11220" percentage="40.1" vocabulary="1"></sector>
-  <sector code="11230" percentage="4" vocabulary="1"></sector>
-  <sector code="11320" percentage="29.9" vocabulary="1"></sector>
-  <policy-marker code="9" significance="2" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Children&apos;s issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les enfants</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="2" vocabulary="1"></policy-marker>
-  <policy-marker code="3" significance="1" vocabulary="1"></policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1"></policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <budget status="2" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="CAD" value-date="2020-02-26">17000</value>
-  </budget>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-02-18"></transaction-date>
-   <value currency="CAD" value-date="2021-02-18">19040</value>
-   <receiver-org ref="22502"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-02-26"></transaction-date>
-   <value currency="CAD" value-date="2020-02-26">19040</value>
-   <flow-type code="10"></flow-type>
-   <tied-status code="5"></tied-status>
-  </transaction>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006726002?Lang=eng">
-   <title>
-    <narrative xml:lang="EN">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006726002?Lang=fra">
-   <title>
-    <narrative xml:lang="FR">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://search.open.canada.ca/en/gc/?sort=score%20desc&amp;page=1&amp;search_text=P006726002">
-   <title>
-    <narrative xml:lang="FR">Proactive disclosure</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&amp;page=1&amp;search_text=P006726002">
-   <title>
-    <narrative xml:lang="FR">Divulgation proactive</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://www.savethechildren.ca/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.aidealenfance.ca">
-   <title>
-    <narrative xml:lang="FR">Site web de l&apos;activit&#xE9;</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="FR"></language>
-  </document-link>
-  <related-activity ref="CA-3-P006726001" type="3"></related-activity>
-  <conditions attached="0"></conditions>
-  <result type="2">
-   <title>
-    <narrative xml:lang="EN">Expected Results</narrative>
-    <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-   </title>
-   <indicator measure="5">
-    <title>
-     <narrative xml:lang="EN">Results expected</narrative>
-     <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-    </title>
-    <description>
-     <narrative xml:lang="FR">Les r&#xE9;sultats escompt&#xE9;s de ce projet comprennent : 1) acc&#xE8;s &#xE9;quitable accru des filles, des adolescentes et des femmes, y compris celles qui sont handicap&#xE9;es, &#xE0; une &#xE9;ducation et &#xE0; un apprentissage s&#xE9;curitaires, de qualit&#xE9; et inclusifs dans les situations de crise, de conflit et de fragilit&#xE9; et les contextes humanitaires; 2) prestation &#xE9;quitable et coordonn&#xE9;e am&#xE9;lior&#xE9;e d&#x2019;une &#xE9;ducation formelle novatrice, s&#xFB;re, de qualit&#xE9;, qui tient compte des sexosp&#xE9;cificit&#xE9;s et qui est fond&#xE9;e sur des donn&#xE9;es probantes, pour les filles, y compris celles qui sont handicap&#xE9;es, dans les situations de crise, de conflit et de fragilit&#xE9; et les contextes humanitaires.</narrative>
-     <narrative xml:lang="EN">The expected outcomes for this project include: (1) increased equitable access to safe, secure, quality, inclusive education and learning by girls, adolescent girls, and women, including those with disabilities, in crisis- and conflict-affected and fragile situations and humanitarian settings; and (2) improved equitable and coordinated provision of innovative, safe, quality, gender-responsive, and evidence-based formal education, for crisis girls, including those with disabilities, in crisis- and conflict-affected and fragile situations and humanitarian settings.</narrative>
-    </description>
-   </indicator>
-  </result>
- </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1512" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-3-P006785002</iati-identifier>
-  <reporting-org ref="CA-3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Educating Vulnerable and Hard-to-Reach Women and Girls in Nigeria-Response to Coronavirus (COVID_19)</narrative>
-   <narrative xml:lang="FR">&#xC9;ducation des femmes et des filles vuln&#xE9;rables et difficiles &#xE0; atteindre au Nig&#xE9;ria</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="FR">Cette portion d&apos;un plus large projet vise &#xE0; r&#xE9;pondre &#xE0; la pand&#xE9;mie de coronavirus (COVID-19), en &#xE9;laborant et en distribuant des documents d&#x2019;information, de sensibilisation et de communication, y compris des messages texte et des messages radio pr&#xE9;enregistr&#xE9;s promouvant la pr&#xE9;vention &#xE0; l&#x2019;&#xE9;chelle communautaire. Ce projet vise &#xE9;galement &#xE0; acheter des radios pour les filles et les familles vuln&#xE9;rables afin que les filles puissent poursuivre leur apprentissage &#xE0; distance. Les activit&#xE9;s de mobilisation communautaire d&#xE9;j&#xE0; pr&#xE9;vues ont &#xE9;t&#xE9; r&#xE9;vis&#xE9;es afin de sensibiliser les groupes cl&#xE9;s aux enjeux li&#xE9;s &#xE0; la COVID-19. De plus, les activit&#xE9;s de construction et de r&#xE9;habilitation ont &#xE9;t&#xE9; modifi&#xE9;es pour inclure des stations de lavage des mains dans les &#xE9;coles formelles et informelles.</narrative>
-   <narrative xml:lang="EN">This portion of the larger project works to respond to the coronavirus (COVID-19) pandemic, through developing and disseminating information, education, and communication materials, including SMS and pre-recorded radio messages promoting prevention at the community level. This project also aims to procure radio for girls and vulnerable families to ensure that girls can continue with their remote learning. Previously planned community engagement activities have been revised to sensitize key groups to COVID-19 issues. As well, construction and rehabilitation activities have been modified to include hand-washing stations in formal and informal school locations.</narrative>
-  </description>
-  <participating-org ref="CA-3" role="3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada</narrative>
-  </participating-org>
-  <participating-org ref="CA" role="1" type="10">
-   <narrative xml:lang="EN">Canada</narrative>
-   <narrative xml:lang="FR">Canada</narrative>
-  </participating-org>
-  <participating-org crs-channel-code="22000" ref="CA-CRA_ACR-0010011149" role="4" type="22">
-   <narrative xml:lang="EN">Plan International Canada</narrative>
-   <narrative xml:lang="FR">Plan International Canada</narrative>
-  </participating-org>
-  <other-identifier ref="2020200918" type="A2"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2019-12-23" type="2"></activity-date>
-  <activity-date iso-date="2022-08-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-    <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-   </organisation>
-   <email>info@international.gc.ca</email>
-   <website>www.international.gc.ca</website>
-   <mailing-address>
-    <narrative xml:lang="EN">125 Sussex Drive, Ottawa, Ontario, K1A 0G2</narrative>
-    <narrative xml:lang="FR">125, promenade Sussex, Ottawa (Ontario), K1A 0G2</narrative>
-   </mailing-address>
-  </contact-info>
-  <activity-scope code="4"></activity-scope>
-  <recipient-country code="NG" percentage="100"></recipient-country>
-  <location>
-   <location-reach code="2"></location-reach>
-   <location-id code="2328926" vocabulary="G1"></location-id>
-   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
-    <pos>10.000000   8.000000</pos>
-   </point>
-   <exactness code="2"></exactness>
-   <location-class code="1"></location-class>
-  </location>
-  <sector code="11130" percentage="16" vocabulary="1"></sector>
-  <sector code="11220" percentage="40" vocabulary="1"></sector>
-  <sector code="11230" percentage="18" vocabulary="1"></sector>
-  <sector code="11320" percentage="20" vocabulary="1"></sector>
-  <sector code="14032" percentage="6" vocabulary="1"></sector>
-  <policy-marker code="10" significance="2" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Adolescent (Youth) Issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les adolescents (jeunes)</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="2" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Children&apos;s issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les enfants</narrative>
-  </policy-marker>
-  <policy-marker code="12" significance="1" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Disability issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les personnes handicap&#xE9;es</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="2" vocabulary="1"></policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1"></policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <budget status="2" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="CAD" value-date="2019-12-23">118000</value>
-  </budget>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-03-18"></transaction-date>
-   <value currency="CAD" value-date="2021-03-18">128528</value>
-   <receiver-org ref="CA-CRA_ACR-0010011149"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2019-12-23"></transaction-date>
-   <value currency="CAD" value-date="2019-12-23">128528</value>
-   <flow-type code="10"></flow-type>
-   <tied-status code="5"></tied-status>
-  </transaction>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006785002?Lang=eng">
-   <title>
-    <narrative xml:lang="EN">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006785002?Lang=fra">
-   <title>
-    <narrative xml:lang="FR">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://search.open.canada.ca/en/gc/?sort=score%20desc&amp;page=1&amp;search_text=P006785002">
-   <title>
-    <narrative xml:lang="FR">Proactive disclosure</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&amp;page=1&amp;search_text=P006785002">
-   <title>
-    <narrative xml:lang="FR">Divulgation proactive</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.plancanada.ca">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.plancanada.ca/fr/Accueil">
-   <title>
-    <narrative xml:lang="FR">Site web de l&apos;activit&#xE9;</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="FR"></language>
-  </document-link>
-  <related-activity ref="CA-3-P006785001" type="3"></related-activity>
-  <conditions attached="0"></conditions>
-  <result type="2">
-   <title>
-    <narrative xml:lang="EN">Expected Results</narrative>
-    <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-   </title>
-   <indicator measure="5">
-    <title>
-     <narrative xml:lang="EN">Results expected</narrative>
-     <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-    </title>
-    <description>
-     <narrative xml:lang="FR">Les r&#xE9;sultats escompt&#xE9;s de ce projet comprennent : 1) acc&#xE8;s &#xE9;quitable accru des filles, des adolescentes et des femmes, y compris celles qui sont handicap&#xE9;es, &#xE0; une &#xE9;ducation et &#xE0; un apprentissage s&#xE9;curitaires, de qualit&#xE9; et inclusifs dans les situations de crise, de conflit et de fragilit&#xE9; et les contextes humanitaires; 2) prestation &#xE9;quitable et coordonn&#xE9;e am&#xE9;lior&#xE9;e d&#x2019;une &#xE9;ducation formelle et non formelle novatrice, s&#xFB;re, de qualit&#xE9;, qui tient compte des sexosp&#xE9;cificit&#xE9;s et qui est fond&#xE9;e sur des donn&#xE9;es probantes, de la petite enfance jusqu&#x2019;&#xE0; la fin du secondaire, pour les filles, les adolescentes et les femmes, y compris celles qui sont handicap&#xE9;es, dans les situations de crise, de conflit et de fragilit&#xE9; et les contextes humanitaires.</narrative>
-     <narrative xml:lang="EN">The expected outcomes for this project include: 1) increased equitable access to safe, secure, quality, inclusive education and learning by girls, adolescent girls, and women, including those with disabilities, in crisis- and conflict-affected and fragile situations and humanitarian settings; and 2) improved equitable and coordinated provision of innovative, safe, quality, gender-responsive, and evidence-based formal and non-formal education, from early childhood to the end of secondary for girls, adolescent girls and women, including those with disabilities, in crisis- and conflict-affected and fragile situations and humanitarian settings.</narrative>
-    </description>
-   </indicator>
-  </result>
- </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1538" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-3-P006963002</iati-identifier>
-  <reporting-org ref="CA-3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Gender-Inclusive Radio-Based Education in the DRC &#x2013; Response to Coronavirus (COVID-19)</narrative>
-   <narrative xml:lang="FR">&#xC9;ducation radiophonique inclusive du genre en RDC - R&#xE9;ponse au coronavirus (COVID-19)</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="FR">Ce projet vise &#xE0; am&#xE9;liorer les r&#xE9;sultats d&apos;apprentissage des enfants non scolaris&#xE9;s, en particulier des filles et des enfants handicap&#xE9;s, dans les communaut&#xE9;s touch&#xE9;es par le conflit et marginalis&#xE9;es en R&#xE9;publique d&#xE9;mocratique du Congo (RDC). Le projet s&apos;appuie sur un projet pilote de quatre ans mis en &#x153;uvre par War Child Canada qui a utilis&#xE9; l&apos;instruction radiophonique interactive pour atteindre les apprenants incapables de participer au syst&#xE8;me scolaire formel. Le projet vise &#xE0; &#xE9;tendre l&apos;approche d&apos;&#xE9;ducation par radio pour assurer la continuit&#xE9; de l&apos;&#xE9;ducation des apprenants touch&#xE9;s par la fermeture des &#xE9;coles et pour soutenir les messages de pr&#xE9;vention COVID-19. Les activit&#xE9;s du projet comprennent : 1) former 100 assistants d&apos;&#xE9;ducation et du personnel du minist&#xE8;re &#xE0; l&apos;apprentissage interactif par radio et &#xE0; l&apos;&#xE9;ducation sensible au genre; 2) diffuser un programme d&apos;apprentissage acc&#xE9;l&#xE9;r&#xE9; dans trois nouvelles provinces de la RDC (Haut Katanga, Ituri et Tanganyika); 3) soutenir les apprenants par l&apos;acc&#xE8;s aux assistants d&apos;&#xE9;ducation via une ligne t&#xE9;l&#xE9;phonique gratuite et une p&#xE9;riode de questions et r&#xE9;ponses &#xE0; l&apos;antenne apr&#xE8;s les &#xE9;missions radio; 4) &#xE9;laborer et diffuser des spots radio quotidiens avec des messages sur l&apos;&#xE9;ducation &#xE0; la sant&#xE9;, la violence sexiste et l&apos;importance de l&apos;&#xE9;ducation des filles; 5) fournir un soutien en mati&#xE8;re d&apos;eau, d&apos;assainissement et d&apos;hygi&#xE8;ne &#xE0; des structures &#xE9;ducatives identifi&#xE9;es sur la base d&apos;une &#xE9;valuation rapide des besoins pour faciliter la campagne de retour &#xE0; l&apos;&#xE9;cole. Ce projet pr&#xE9;voit que 366 937 apprenants suppl&#xE9;mentaires touch&#xE9;s par la crise (dont 184 569 filles et 182 368 gar&#xE7;ons) acc&#xE8;dent &#xE0; une &#xE9;ducation de qualit&#xE9;.</narrative>
-   <narrative xml:lang="EN">This project aims to improve learning outcomes for out-of-school children, particularly girls and children with disabilities, in conflict-affected and marginalized communities in the Democratic Republic of Congo (DRC). The project builds on a 4-year pilot project implemented by War Child Canada that used interactive radio instruction to reach learners unable to participate in the formal school system. The project aims to scale-up the radio-based education approach to ensure continuity of education for learners affected by school closure, and to support COVID-19 prevention messages. Project activities include: (1) providing training to 100 education assistants and ministry personnel in Interactive Radio Learning  and gender-responsive education; (2) broadcasting of accelerated learning curriculum in three new DRC provinces (Haut Katanga, Ituri and Tanganyika); (3) supporting learners through access to education assistants via toll-free hotline and on-air question and answer period following radio broadcasts; (4) developing and broadcasting of daily radio spots with messaging on health education, gender-based violence and the importance of girls&#x2019; education; and (5) providing water, sanitation and hygiene support to identified education structures based on rapid needs assessment to facilitate the back to school campaign.  This project expects that an additional 366,937 (of which 184,569 are girls and 182,368 are boys) crisis-affected learners have access to quality education.</narrative>
-  </description>
-  <participating-org ref="CA-3" role="3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada</narrative>
-  </participating-org>
-  <participating-org ref="CA" role="1" type="10">
-   <narrative xml:lang="EN">Canada</narrative>
-   <narrative xml:lang="FR">Canada</narrative>
-  </participating-org>
-  <participating-org crs-channel-code="22000" ref="CA-CRA_ACR-2872374426" role="4" type="22">
-   <narrative xml:lang="EN">War Child Canada</narrative>
-   <narrative xml:lang="FR">War Child Canada</narrative>
-  </participating-org>
-  <other-identifier ref="2020200910" type="A2"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-09-03" type="2"></activity-date>
-  <activity-date iso-date="2022-03-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-    <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-   </organisation>
-   <email>info@international.gc.ca</email>
-   <website>www.international.gc.ca</website>
-   <mailing-address>
-    <narrative xml:lang="EN">125 Sussex Drive, Ottawa, Ontario, K1A 0G2</narrative>
-    <narrative xml:lang="FR">125, promenade Sussex, Ottawa (Ontario), K1A 0G2</narrative>
-   </mailing-address>
-  </contact-info>
-  <activity-scope code="5"></activity-scope>
-  <recipient-country code="CD" percentage="100"></recipient-country>
-  <location>
-   <location-reach code="2"></location-reach>
-   <location-id code="205413" vocabulary="G1"></location-id>
-   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
-    <pos>-3.166670  28.250000</pos>
-   </point>
-   <exactness code="2"></exactness>
-   <location-class code="1"></location-class>
-  </location>
-  <location>
-   <location-reach code="2"></location-reach>
-   <location-id code="2314300" vocabulary="G1"></location-id>
-   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
-    <pos>-4.375000  15.970000</pos>
-   </point>
-   <exactness code="2"></exactness>
-   <location-class code="1"></location-class>
-  </location>
-  <sector code="11110" percentage="5" vocabulary="1"></sector>
-  <sector code="11220" percentage="35" vocabulary="1"></sector>
-  <sector code="11321" percentage="35" vocabulary="1"></sector>
-  <sector code="14032" percentage="25" vocabulary="1"></sector>
-  <policy-marker code="10" significance="1" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Adolescent (Youth) Issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les adolescents (jeunes)</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="1" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Children&apos;s issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les enfants</narrative>
-  </policy-marker>
-  <policy-marker code="12" significance="1" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Disability issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les personnes handicap&#xE9;es</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="1" vocabulary="1"></policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1"></policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <budget status="2" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="CAD" value-date="2020-09-03">2000000</value>
-  </budget>
-  <planned-disbursement>
-   <period-start iso-date="2021-04-01"></period-start>
-   <period-end iso-date="2022-03-31"></period-end>
-   <value currency="CAD" value-date="2020-09-03">99148</value>
-  </planned-disbursement>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-23"></transaction-date>
-   <value currency="CAD" value-date="2020-10-23">-1500000</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-23"></transaction-date>
-   <value currency="CAD" value-date="2020-10-23">1500000</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-23"></transaction-date>
-   <value currency="CAD" value-date="2020-10-23">1500000</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-27"></transaction-date>
-   <value currency="CAD" value-date="2020-10-27">-1500000</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-27"></transaction-date>
-   <value currency="CAD" value-date="2020-10-27">1500000</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-29"></transaction-date>
-   <value currency="CAD" value-date="2020-10-29">-1500000</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-10-29"></transaction-date>
-   <value currency="CAD" value-date="2020-10-29">1500000</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2021-02-18"></transaction-date>
-   <value currency="CAD" value-date="2021-02-18">400852</value>
-   <receiver-org ref="CA-CRA_ACR-2872374426"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-09-03"></transaction-date>
-   <value currency="CAD" value-date="2020-09-03">2000000</value>
-   <flow-type code="10"></flow-type>
-   <tied-status code="5"></tied-status>
-  </transaction>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006963002?Lang=eng">
-   <title>
-    <narrative xml:lang="EN">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P006963002?Lang=fra">
-   <title>
-    <narrative xml:lang="FR">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://search.open.canada.ca/en/gc/?sort=score%20desc&amp;page=1&amp;search_text=P006963002">
-   <title>
-    <narrative xml:lang="FR">Proactive disclosure</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&amp;page=1&amp;search_text=P006963002">
-   <title>
-    <narrative xml:lang="FR">Divulgation proactive</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.warchild.ca">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <related-activity ref="CA-3-P006963001" type="3"></related-activity>
-  <conditions attached="0"></conditions>
-  <result type="2">
-   <title>
-    <narrative xml:lang="EN">Expected Results</narrative>
-    <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-   </title>
-   <indicator measure="5">
-    <title>
-     <narrative xml:lang="EN">Results expected</narrative>
-     <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-    </title>
-    <description>
-     <narrative xml:lang="FR">Les r&#xE9;sultats escompt&#xE9;s de ce projet comprennent : 1) un acc&#xE8;s accru &#xE0; des environnements d&apos;apprentissage s&#xFB;rs et s&#xE9;curis&#xE9;s &#xE0; la suite de la crise COVID-19; 2) une capacit&#xE9; accrue du gouvernement de la R&#xE9;publique d&#xE9;mocratique du Congo &#xE0; se pr&#xE9;parer et &#xE0; r&#xE9;agir &#xE0; l&apos;interruption  scolaire; 3) un soutien accru &#xE0; l&apos;&#xE9;ventuelle transition de retour &#xE0; l&apos;&#xE9;cole pour les apprenants touch&#xE9;s par la crise.</narrative>
-     <narrative xml:lang="EN">The expected outcomes for this project include: (1) increased access to safe and secure learning environments following COVID-19 crisis; (2) increased capacity of the Government of the Democratic Republic of Congo to prepare and respond to school interruption; and (3) increased support for the eventual transition back to school for crisis-affected learners.</narrative>
-    </description>
-   </indicator>
-  </result>
- </iati-activity>
  <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1548" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-3-P007018002</iati-identifier>
-  <reporting-org ref="CA-3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="FR">Pour chaque fille, le droit &#xE0; l&#x2019;&#xE9;ducation en C&#xF4;te d&apos;Ivoire - R&#xE9;ponse au coronavirus (COVID-19)</narrative>
-   <narrative xml:lang="EN">The Right to Education for Every Girl in C&#xF4;te d&apos;Ivoire - Response to Coronavirus (COVID-19)</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="FR">Le projet vise &#xE0; augmenter le taux d&#x2019;ach&#xE8;vement scolaire de 32 700 filles et adolescentes &#xE2;g&#xE9;es de 10 &#xE0; 18 ans, principalement dans la r&#xE9;gion de Tonkpi et le district d&#x2019;Abidjan en C&#xF4;te d&apos;Ivoire. Ce projet met en &#x153;uvre des fonds suppl&#xE9;mentaires en r&#xE9;ponse aux besoins imm&#xE9;diats en mati&#xE8;re d&apos;&#xE9;ducation et de violence bas&#xE9;e sur le genre g&#xE9;n&#xE9;r&#xE9;s par COVID-19. Les activit&#xE9;s du projet comprennent : 1) appuyer les services sociaux pour pr&#xE9;venir et r&#xE9;pondre aux violences bas&#xE9;es sur le genre et &#xE0; l&#x2019;exploitation des enfants; 2) la formation des travailleurs sociaux sur l&apos;impact psychosocial et la prise en charge de la sant&#xE9; mentale; 3) la formation des enseignants au protocole de r&#xE9;ouverture s&#xE9;curitaire des &#xE9;coles.</narrative>
-   <narrative xml:lang="EN">The project aims to increase the school completion rate of 32,700 girls and adolescents aged 10 to 18, mainly in the Tonkpi region and the Abidjan district of C&#xF4;te d&apos;Ivoire. This project implements additional funds in response to the immediate needs for education and gender-based violence generated by COVID-19. Project activities include: (1) supporting social services to prevent and respond to gender-based violence and child exploitation; (2) providing training to social workers on psychosocial impact and mental health management; and (3) providing training to teachers on the protocol for safe reopening of schools. .</narrative>
-  </description>
-  <participating-org ref="CA-3" role="3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada</narrative>
-  </participating-org>
-  <participating-org ref="CA" role="1" type="10">
-   <narrative xml:lang="EN">Canada</narrative>
-   <narrative xml:lang="FR">Canada</narrative>
-  </participating-org>
-  <participating-org crs-channel-code="41122" ref="41122" role="4" type="40">
-   <narrative xml:lang="FR">UNICEF - Fonds des Nations Unies pour l&apos;enfance</narrative>
-   <narrative xml:lang="EN">UNICEF - United Nations Children&apos;s Fund</narrative>
-  </participating-org>
-  <other-identifier ref="2020200745" type="A2"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-07-23" type="2"></activity-date>
-  <activity-date iso-date="2021-09-30" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-    <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-   </organisation>
-   <email>info@international.gc.ca</email>
-   <website>www.international.gc.ca</website>
-   <mailing-address>
-    <narrative xml:lang="EN">125 Sussex Drive, Ottawa, Ontario, K1A 0G2</narrative>
-    <narrative xml:lang="FR">125, promenade Sussex, Ottawa (Ontario), K1A 0G2</narrative>
-   </mailing-address>
-  </contact-info>
-  <activity-scope code="5"></activity-scope>
-  <recipient-country code="CI" percentage="100"></recipient-country>
-  <location>
-   <location-reach code="2"></location-reach>
-   <location-id code="11153165" vocabulary="G1"></location-id>
-   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
-    <pos>7.567850 -7.609410</pos>
-   </point>
-   <exactness code="2"></exactness>
-   <location-class code="1"></location-class>
-  </location>
-  <location>
-   <location-reach code="2"></location-reach>
-   <location-id code="11996449" vocabulary="G1"></location-id>
-   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
-    <pos>5.341990 -3.988400</pos>
-   </point>
-   <exactness code="2"></exactness>
-   <location-class code="1"></location-class>
-  </location>
-  <sector code="12264" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="10" significance="1" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Adolescent (Youth) Issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les adolescents (jeunes)</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="2" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Children&apos;s issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les enfants</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="2" vocabulary="1"></policy-marker>
-  <policy-marker code="9" significance="4" vocabulary="1"></policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
-  <budget status="2" type="2">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="CAD" value-date="2020-07-23">1000000</value>
-  </budget>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-07-27"></transaction-date>
-   <value currency="CAD" value-date="2020-07-27">1000000</value>
-   <receiver-org ref="41122"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-07-23"></transaction-date>
-   <value currency="CAD" value-date="2020-07-23">1000000</value>
-   <flow-type code="10"></flow-type>
-   <tied-status code="5"></tied-status>
-  </transaction>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P007018002?Lang=eng">
-   <title>
-    <narrative xml:lang="EN">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P007018002?Lang=fra">
-   <title>
-    <narrative xml:lang="FR">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://search.open.canada.ca/en/gc/?sort=score%20desc&amp;page=1&amp;search_text=P007018002">
-   <title>
-    <narrative xml:lang="FR">Proactive disclosure</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&amp;page=1&amp;search_text=P007018002">
-   <title>
-    <narrative xml:lang="FR">Divulgation proactive</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.unicef.ca/">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.unicef.ca/fr">
-   <title>
-    <narrative xml:lang="FR">Site web de l&apos;activit&#xE9;</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="FR"></language>
-  </document-link>
-  <related-activity ref="CA-3-P007018001" type="3"></related-activity>
-  <conditions attached="0"></conditions>
-  <result type="2">
-   <title>
-    <narrative xml:lang="EN">Expected Results</narrative>
-    <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-   </title>
-   <indicator measure="5">
-    <title>
-     <narrative xml:lang="EN">Results expected</narrative>
-     <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-    </title>
-    <description>
-     <narrative xml:lang="FR">Les r&#xE9;sultats escompt&#xE9;s de ce projet comprennent : 1) acc&#xE8;s &#xE9;quitable accru des filles &#xE0; l&#x2019;&#xE9;ducation et aux opportunit&#xE9;s d&#x2019;apprentissage s&#xE9;curitaires, de qualit&#xE9; et inclusives; 2) prestation &#xE9;quitable, coordonn&#xE9;e et am&#xE9;lior&#xE9;e d&#x2019;une &#xE9;ducation formelle de qualit&#xE9; et sensible au genre, de la petite enfance jusqu&#x2019;&#xE0; la fin du secondaire pour les filles; 3) prestation &#xE9;quitable accrue d&#x2019;une formation technique et professionnelle de qualit&#xE9;, sensible au genre, pour les adolescentes, incluant les adolescentes non-scolaris&#xE9;es.</narrative>
-     <narrative xml:lang="EN">The expected outcomes for this project include: (1) increased equitable access for girls to safe, quality and inclusive education and learning opportunities; (2) equitable, coordinated and improved provision of quality and gender-sensitive formal education from early childhood to the end of secondary school for girls; and (3) increased equitable provision of quality, gender-sensitive technical and vocational training for adolescent girls, including out-of-school adolescent girls.</narrative>
-    </description>
-   </indicator>
-  </result>
- </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1550" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-3-P007019002</iati-identifier>
-  <reporting-org ref="CA-3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="FR">Droits &#xE0; l&apos;&#xE9;ducation inclusive et maintien des filles &#xE0; l&apos;&#xE9;cole - R&#xE9;ponse au COVID-19</narrative>
-   <narrative xml:lang="EN">Rights to Inclusive Education and Retention of Girls in School - Response to COVID-19</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="FR">Le projet r&#xE9;duit les obstacles &#xE0; l&apos;acc&#xE8;s et &#xE0; la r&#xE9;tention de plus de 700 000 filles et adolescentes &#xE2;g&#xE9;es de 10 &#xE0; 19 ans dans les r&#xE9;gions du nord-est, de l&apos;ouest et du centre de la C&#xF4;te d&apos;Ivoire et dans le district d&apos;Abidjan (Abobo et Yopougon-Songon). Ce projet apporte des fonds suppl&#xE9;mentaires en r&#xE9;ponse aux besoins imm&#xE9;diats d&apos;&#xE9;ducation et de lutte contre la violence sexiste g&#xE9;n&#xE9;r&#xE9;e par le coronavirus (COVID-19). Les activit&#xE9;s du projet comprennent: 1) d&#xE9;velopper un syst&#xE8;me de suivi de l&#x2019;&#xE9;ducation &#xE0; distance, 2) produire des ressources p&#xE9;dagogiques nationales sous forme num&#xE9;rique pour diffusion &#xE0; la radio/t&#xE9;l&#xE9;vision; 3) appuyer la continuit&#xE9; des services sociaux essentiels pour la protection des femmes et des filles.</narrative>
-   <narrative xml:lang="EN">The project reduces barriers to access and retention for more than 700,000 girls and adolescent girls between the ages of 10 to 19 in the North-East, West and Central regions of C&#xF4;te d&apos;Ivoire and the Abidjan district (Abobo and Yopougon-Songon). This project is providing additional funds in response to the immediate needs for education and gender-based violence generated by the coronavirus (COVID-19). Project activities include: (1) developing a distance learning monitoring system; (2) producing national educational resources in digital form for broadcast on radio/television; and (3) supporting the continuity of essential social services for the protection of women and girls.</narrative>
-  </description>
-  <participating-org ref="CA-3" role="3" type="10">
-   <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada</narrative>
-   <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada</narrative>
-  </participating-org>
-  <participating-org ref="CA" role="1" type="10">
-   <narrative xml:lang="EN">Canada</narrative>
-   <narrative xml:lang="FR">Canada</narrative>
-  </participating-org>
-  <participating-org crs-channel-code="41119" ref="41119" role="4" type="40">
-   <narrative xml:lang="FR">UNFPA - Fonds des Nations Unies pour la population</narrative>
-   <narrative xml:lang="EN">UNFPA - United Nations Population Fund</narrative>
-  </participating-org>
-  <other-identifier ref="2020200735" type="A2"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-09-24" type="2"></activity-date>
-  <activity-date iso-date="2020-09-24" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
-    <narrative xml:lang="EN">Foreign Affairs, Trade and Development Canada (DFATD)</narrative>
-   </organisation>
-   <email>info@international.gc.ca</email>
-   <website>www.international.gc.ca</website>
-   <mailing-address>
-    <narrative xml:lang="EN">125 Sussex Drive, Ottawa, Ontario, K1A 0G2</narrative>
-    <narrative xml:lang="FR">125, promenade Sussex, Ottawa (Ontario), K1A 0G2</narrative>
-   </mailing-address>
-  </contact-info>
-  <activity-scope code="4"></activity-scope>
-  <recipient-country code="CI" percentage="100"></recipient-country>
-  <location>
-   <location-reach code="2"></location-reach>
-   <location-id code="2287781" vocabulary="G1"></location-id>
-   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
-    <pos>8.000000 -5.500000</pos>
-   </point>
-   <exactness code="2"></exactness>
-   <location-class code="1"></location-class>
-  </location>
-  <sector code="11110" percentage="30" vocabulary="1"></sector>
-  <sector code="11220" percentage="10" vocabulary="1"></sector>
-  <sector code="11320" percentage="10" vocabulary="1"></sector>
-  <sector code="11330" percentage="5" vocabulary="1"></sector>
-  <sector code="15180" percentage="45" vocabulary="1"></sector>
-  <policy-marker code="10" significance="1" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Adolescent (Youth) Issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les adolescents (jeunes)</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="2" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
-   <narrative xml:lang="EN">Children&apos;s issues</narrative>
-   <narrative xml:lang="FR">Questions touchant les enfants</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="2" vocabulary="1"></policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1"></policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <budget status="2" type="1">
-   <period-start iso-date="2020-04-01"></period-start>
-   <period-end iso-date="2021-03-31"></period-end>
-   <value currency="CAD" value-date="2020-09-24">1164087</value>
-  </budget>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-09-28"></transaction-date>
-   <value currency="CAD" value-date="2020-09-28">1164087</value>
-   <receiver-org ref="41119"></receiver-org>
-   <flow-type code="10"></flow-type>
-  </transaction>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-09-24"></transaction-date>
-   <value currency="CAD" value-date="2020-09-24">1164087</value>
-   <flow-type code="10"></flow-type>
-   <tied-status code="5"></tied-status>
-  </transaction>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P007019002?Lang=eng">
-   <title>
-    <narrative xml:lang="EN">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://w05.international.gc.ca/projectbrowser-banqueprojets/project-projet/details/P007019002?Lang=fra">
-   <title>
-    <narrative xml:lang="FR">Description</narrative>
-   </title>
-   <category code="A02"></category>
-   <category code="A08"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://search.open.canada.ca/en/gc/?sort=score%20desc&amp;page=1&amp;search_text=P007019002">
-   <title>
-    <narrative xml:lang="FR">Proactive disclosure</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="https://rechercher.ouvert.canada.ca/fr/gc/?sort=score desc&amp;page=1&amp;search_text=P007019002">
-   <title>
-    <narrative xml:lang="FR">Divulgation proactive</narrative>
-   </title>
-   <category code="A06"></category>
-   <language code="FR"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.unfpa.org">
-   <title>
-    <narrative xml:lang="EN">Activity website</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="EN"></language>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.unfpa.org/public/home/sitemap_fr">
-   <title>
-    <narrative xml:lang="FR">Site web de l&apos;activit&#xE9;</narrative>
-   </title>
-   <category code="A12"></category>
-   <language code="FR"></language>
-  </document-link>
-  <related-activity ref="CA-3-P007019001" type="3"></related-activity>
-  <conditions attached="0"></conditions>
-  <result type="2">
-   <title>
-    <narrative xml:lang="EN">Expected Results</narrative>
-    <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-   </title>
-   <indicator measure="5">
-    <title>
-     <narrative xml:lang="EN">Results expected</narrative>
-     <narrative xml:lang="FR">R&#xE9;sultats escompt&#xE9;s</narrative>
-    </title>
-    <description>
-     <narrative xml:lang="FR">Les r&#xE9;sultats escompt&#xE9;s de ce projet comprennent : 1) acc&#xE8;s &#xE9;quitable et accru des filles, des adolescentes et des femmes, y compris celles en situation de handicap, &#xE0; l&#x2019;&#xE9;ducation et aux opportunit&#xE9;s d&#x2019;apprentissage inclusives et de qualit&#xE9;; 2) prestation &#xE9;quitable et coordonn&#xE9;e d&#x2019;une &#xE9;ducation formelle et non-formelle s&#xE9;curitaire, de qualit&#xE9; et sensible au genre en faveur des filles, des adolescent(e)s et des femmes.</narrative>
-     <narrative xml:lang="EN">The expected outcomes of this project include: (1) equitable and increased access for girls, adolescent girls and women, including those with disabilities, to inclusive and quality education and learning opportunities; and (2) equitable and coordinated provision of safe, quality and gender-sensitive formal and non-formal education for girls, adolescent girls and boys and women.</narrative>
-    </description>
-   </indicator>
-  </result>
- </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1552" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007020002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -979,7 +158,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1587" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1583" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007169002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -1110,7 +289,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1594" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1590" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007232001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -1320,7 +499,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1596" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1592" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007260002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -1465,7 +644,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1616" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1612" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007336001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -1651,7 +830,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1617" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1613" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007336002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -1783,7 +962,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1620" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1616" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007357001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -1974,7 +1153,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1621" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1617" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007358001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -2146,7 +1325,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1672" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1668" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007464001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -2252,7 +1431,7 @@
   <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2021-04-09"></transaction-date>
-   <value currency="CAD" value-date="2021-04-09">8900000</value>
+   <value currency="CAD" value-date="2021-04-09">8674910</value>
    <flow-type code="10"></flow-type>
    <tied-status code="5"></tied-status>
   </transaction>
@@ -2304,7 +1483,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1701" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1697" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007642002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -2444,7 +1623,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1712" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1708" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P007688002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -2598,7 +1777,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1747" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1744" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P008064002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -2761,7 +1940,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1760" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1757" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P008171001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -2899,7 +2078,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1772" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1769" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P008217002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -3025,7 +2204,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1788" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1785" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P008522002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -3185,7 +2364,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1822" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1819" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P008837001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -3337,7 +2516,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1869" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1866" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P008973001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -3528,7 +2707,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1878" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1875" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009134001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -3678,7 +2857,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1879" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1876" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009135001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -3875,7 +3054,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1880" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1877" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009136001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4010,7 +3189,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1881" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1878" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009300001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4052,29 +3231,7 @@
     <narrative xml:lang="FR">125, promenade Sussex, Ottawa (Ontario), K1A 0G2</narrative>
    </mailing-address>
   </contact-info>
-  <recipient-country code="AG" percentage="4.34"></recipient-country>
-  <recipient-country code="BB" percentage="4.34"></recipient-country>
-  <recipient-country code="BO" percentage="4.34"></recipient-country>
-  <recipient-country code="BS" percentage="4.34"></recipient-country>
-  <recipient-country code="BZ" percentage="4.34"></recipient-country>
-  <recipient-country code="CO" percentage="4.34"></recipient-country>
-  <recipient-country code="CU" percentage="4.52"></recipient-country>
-  <recipient-country code="DM" percentage="4.34"></recipient-country>
-  <recipient-country code="EC" percentage="4.34"></recipient-country>
-  <recipient-country code="GD" percentage="4.34"></recipient-country>
-  <recipient-country code="GT" percentage="4.34"></recipient-country>
-  <recipient-country code="GY" percentage="4.34"></recipient-country>
-  <recipient-country code="HN" percentage="4.34"></recipient-country>
-  <recipient-country code="HT" percentage="4.34"></recipient-country>
-  <recipient-country code="JM" percentage="4.34"></recipient-country>
-  <recipient-country code="KN" percentage="4.34"></recipient-country>
-  <recipient-country code="LC" percentage="4.34"></recipient-country>
-  <recipient-country code="PE" percentage="4.34"></recipient-country>
-  <recipient-country code="PY" percentage="4.34"></recipient-country>
-  <recipient-country code="SR" percentage="4.34"></recipient-country>
-  <recipient-country code="SV" percentage="4.34"></recipient-country>
-  <recipient-country code="TT" percentage="4.34"></recipient-country>
-  <recipient-country code="VC" percentage="4.34"></recipient-country>
+  <recipient-region code="489" percentage="100" vocabulary="1"></recipient-region>
   <sector code="12110" percentage="33.33" vocabulary="1"></sector>
   <sector code="12191" percentage="33.33" vocabulary="1"></sector>
   <sector code="12250" percentage="33.34" vocabulary="1"></sector>
@@ -4157,7 +3314,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1882" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1879" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009317001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4297,7 +3454,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1886" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1883" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009441001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4326,7 +3483,7 @@
   <other-identifier ref="2020201014" type="A2"></other-identifier>
   <activity-status code="2"></activity-status>
   <activity-date iso-date="2021-01-29" type="2"></activity-date>
-  <activity-date iso-date="2022-02-28" type="3"></activity-date>
+  <activity-date iso-date="2023-01-31" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4468,7 +3625,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1887" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1884" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009443001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4621,7 +3778,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1889" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1886" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009455001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4784,7 +3941,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1890" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1887" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009464001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -4849,18 +4006,19 @@
   </location>
   <sector code="11220" percentage="31" vocabulary="1"></sector>
   <sector code="11231" percentage="4" vocabulary="1"></sector>
-  <sector code="12110" percentage="4" vocabulary="1"></sector>
+  <sector code="12110" percentage="5" vocabulary="1"></sector>
   <sector code="12220" percentage="3" vocabulary="1"></sector>
   <sector code="12240" percentage="1" vocabulary="1"></sector>
-  <sector code="12261" percentage="7" vocabulary="1"></sector>
-  <sector code="12264" percentage="12" vocabulary="1"></sector>
-  <sector code="12281" percentage="3" vocabulary="1"></sector>
+  <sector code="12261" percentage="8" vocabulary="1"></sector>
+  <sector code="12264" percentage="5" vocabulary="1"></sector>
+  <sector code="12281" percentage="4" vocabulary="1"></sector>
   <sector code="13010" percentage="7" vocabulary="1"></sector>
   <sector code="13096" percentage="5" vocabulary="1"></sector>
+  <sector code="14031" percentage="5" vocabulary="1"></sector>
   <sector code="15180" percentage="7" vocabulary="1"></sector>
   <sector code="16010" percentage="2" vocabulary="1"></sector>
   <sector code="16020" percentage="5" vocabulary="1"></sector>
-  <sector code="16050" percentage="9" vocabulary="1"></sector>
+  <sector code="16050" percentage="8" vocabulary="1"></sector>
   <policy-marker code="10" significance="2" vocabulary="99" vocabulary-uri="https://www.international.gc.ca/department-ministere/open_data-donnees_ouvertes/dev/data_field_definitions-definitions_champs_donnees.aspx?lang=eng#a2">
    <narrative xml:lang="EN">Adolescent (Youth) Issues</narrative>
    <narrative xml:lang="FR">Questions touchant les adolescents (jeunes)</narrative>
@@ -4970,7 +4128,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1891" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1888" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009465001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -5126,7 +4284,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1892" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1889" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009467001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -5278,7 +4436,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1893" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1890" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009474001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -5407,7 +4565,7 @@
   </document-link>
   <conditions attached="0"></conditions>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1894" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1891" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009475001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -5645,7 +4803,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1895" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1892" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009475002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -5791,7 +4949,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1897" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1894" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009486001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -5933,7 +5091,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1898" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1895" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009490001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -6066,7 +5224,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1899" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1896" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009493001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -6212,7 +5370,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1901" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1898" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009500002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -6340,7 +5498,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1902" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1899" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009508001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -6478,7 +5636,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1903" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1900" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009514001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -6636,7 +5794,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1905" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1902" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009522001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -6800,7 +5958,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1906" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1903" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009524001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -6949,7 +6107,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1909" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1906" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009568001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -7094,7 +6252,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1910" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1907" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009569001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -7241,7 +6399,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1912" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1909" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009592001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -7394,7 +6552,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1913" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1910" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009605001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -7562,7 +6720,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1916" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1913" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009626001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -7714,7 +6872,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1918" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1915" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009670001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -7856,7 +7014,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1919" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1916" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009670002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -7998,7 +7156,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1920" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1917" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009685001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -8161,7 +7319,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1922" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1919" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009693001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -8303,7 +7461,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1924" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1921" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009704001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -8439,7 +7597,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1928" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1925" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009730001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -8597,7 +7755,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1929" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1926" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009752001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -8750,7 +7908,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1931" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1928" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009786001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -8891,7 +8049,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1933" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1930" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009887001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -9031,7 +8189,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1934" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1931" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009888001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -9170,7 +8328,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1935" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1932" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009893001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -9307,7 +8465,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1937" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1934" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P009930001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -9428,7 +8586,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1940" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1937" hierarchy="1" humanitarian="0" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010073001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -9603,7 +8761,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1943" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1940" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010168001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -9760,7 +8918,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1944" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1941" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010168002</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -9898,7 +9056,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1957" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1954" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010241001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -10042,7 +9200,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1961" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1958" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010249001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -10187,7 +9345,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1962" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1959" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010251001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -10332,7 +9490,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1963" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1960" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010253001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -10477,7 +9635,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1964" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1961" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010254001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -10622,7 +9780,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1965" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1962" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010255001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -10777,7 +9935,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1966" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1963" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010256001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -10922,7 +10080,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1969" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1966" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010261001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -11076,7 +10234,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1970" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1967" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010265001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -11229,7 +10387,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1977" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1974" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010276001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -11376,7 +10534,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1978" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1975" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010277001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -11530,7 +10688,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1979" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1976" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010278001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -11677,7 +10835,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1982" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1979" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010286001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -11822,7 +10980,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1983" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1980" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010287001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -11966,7 +11124,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1984" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1981" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010288001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -12097,7 +11255,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1988" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1985" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010442001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -12243,7 +11401,7 @@
    </indicator>
   </result>
  </iati-activity>
- <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1989" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="CAD" dstore:dataset="gac-amc-act_2_3" dstore:index="1986" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-3-P010608001</iati-identifier>
   <reporting-org ref="CA-3" type="10">
    <narrative xml:lang="FR">Affaires &#xE9;trang&#xE8;res, Commerce et D&#xE9;veloppement Canada (MAECD)</narrative>
@@ -12861,6 +12019,130 @@
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2020-05-28"></transaction-date>
    <value currency="USD" value-date="2020-05-28">249945</value>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="375" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1409</iati-identifier>
+  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
+   <narrative xml:lang="EN">Mastercard Foundation</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2020 CRRP - Supporting the National COVID-19 Preparedness and Response Initiatives</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The goal of the project is to contribute to the national COVID-19 preparedness and response endeavours by filling the actual programmatic and financial gaps in the ongoing ventures. For the achievement of the aspired goal, a total of 700 volunteers will be deployed, who will assist in screening, house-to-house detection of cases in collaboration with the Ethiopian Public Health Institute and the Ministry of Health, Risk Communication Community Engagement (RCCE), to reach 5,723,800 people with diverse amenities such as screening, house-to-house detection, sanitization and protection through sanitizing items and protective gears.</narrative>
+  </description>
+  <participating-org role="4">
+   <narrative xml:lang="EN">Ethiopian Red Cross Society</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-06-01" type="1"></activity-date>
+  <activity-date iso-date="2020-08-31" type="3"></activity-date>
+  <recipient-country code="ET" percentage="100"></recipient-country>
+  <sector code="72010" percentage="100" vocabulary="1"></sector>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-05-11"></transaction-date>
+   <value currency="USD" value-date="2020-05-11">1510276</value>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="377" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1411</iati-identifier>
+  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
+   <narrative xml:lang="EN">Mastercard Foundation</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2020 COVID-19 RRP for Immediate Needs</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">2020 COVID-19 RRP for Immediate Needs</narrative>
+  </description>
+  <participating-org role="4">
+   <narrative xml:lang="EN">Stichting Edukans</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-05-19" type="1"></activity-date>
+  <activity-date iso-date="2020-11-23" type="3"></activity-date>
+  <recipient-country code="MW" percentage="100"></recipient-country>
+  <sector code="72050" percentage="100" vocabulary="1"></sector>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-05-15"></transaction-date>
+   <value currency="USD" value-date="2020-05-15">50426</value>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="379" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1413</iati-identifier>
+  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
+   <narrative xml:lang="EN">Mastercard Foundation</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2020 COVID-19 RRP - Immediate Scholar Needs</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">2020 COVID-19 RRP - Immediate Scholar Needs</narrative>
+  </description>
+  <participating-org role="4">
+   <narrative xml:lang="EN">Wellesley College</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-05-20" type="1"></activity-date>
+  <activity-date iso-date="2023-08-31" type="3"></activity-date>
+  <sector code="72050" percentage="100" vocabulary="1"></sector>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-05-15"></transaction-date>
+   <value currency="USD" value-date="2020-05-15">96530</value>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="381" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1415</iati-identifier>
+  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
+   <narrative xml:lang="EN">Mastercard Foundation</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2020 COVID-199 RRP for Immediate Student Needs</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">2020 COVID-199 RRP for Immediate Student Needs</narrative>
+  </description>
+  <participating-org role="4">
+   <narrative xml:lang="EN">University of Victoria</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-05-28" type="1"></activity-date>
+  <activity-date iso-date="2021-05-27" type="3"></activity-date>
+  <recipient-country code="CA" percentage="100"></recipient-country>
+  <sector code="72050" percentage="100" vocabulary="1"></sector>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-05-26"></transaction-date>
+   <value currency="USD" value-date="2020-05-26">166839.44</value>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="382" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1416</iati-identifier>
+  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
+   <narrative xml:lang="EN">Mastercard Foundation</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2020 Management Project - COVID-19 Portal</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">2020 Management Project - COVID-19 Portal</narrative>
+  </description>
+  <participating-org role="4">
+   <narrative xml:lang="EN">York University</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-06-10" type="1"></activity-date>
+  <activity-date iso-date="2021-06-09" type="3"></activity-date>
+  <recipient-country code="CA" percentage="100"></recipient-country>
+  <sector code="99810" percentage="100" vocabulary="1"></sector>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-05-22"></transaction-date>
+   <value currency="USD" value-date="2020-05-22">18457</value>
   </transaction>
  </iati-activity>
 </iati-activities>

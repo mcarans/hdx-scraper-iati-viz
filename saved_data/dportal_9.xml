@@ -1,129 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <iati-activities version="2.03">
- <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="375" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1409</iati-identifier>
-  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
-   <narrative xml:lang="EN">Mastercard Foundation</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">2020 CRRP - Supporting the National COVID-19 Preparedness and Response Initiatives</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">The goal of the project is to contribute to the national COVID-19 preparedness and response endeavours by filling the actual programmatic and financial gaps in the ongoing ventures. For the achievement of the aspired goal, a total of 700 volunteers will be deployed, who will assist in screening, house-to-house detection of cases in collaboration with the Ethiopian Public Health Institute and the Ministry of Health, Risk Communication Community Engagement (RCCE), to reach 5,723,800 people with diverse amenities such as screening, house-to-house detection, sanitization and protection through sanitizing items and protective gears.</narrative>
-  </description>
-  <participating-org role="4">
-   <narrative xml:lang="EN">Ethiopian Red Cross Society</narrative>
-  </participating-org>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-06-01" type="1"></activity-date>
-  <activity-date iso-date="2020-08-31" type="3"></activity-date>
-  <recipient-country code="ET" percentage="100"></recipient-country>
-  <sector code="72010" percentage="100" vocabulary="1"></sector>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-05-11"></transaction-date>
-   <value currency="USD" value-date="2020-05-11">1510276</value>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="377" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1411</iati-identifier>
-  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
-   <narrative xml:lang="EN">Mastercard Foundation</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">2020 COVID-19 RRP for Immediate Needs</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">2020 COVID-19 RRP for Immediate Needs</narrative>
-  </description>
-  <participating-org role="4">
-   <narrative xml:lang="EN">Stichting Edukans</narrative>
-  </participating-org>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-05-19" type="1"></activity-date>
-  <activity-date iso-date="2020-11-23" type="3"></activity-date>
-  <recipient-country code="MW" percentage="100"></recipient-country>
-  <sector code="72050" percentage="100" vocabulary="1"></sector>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-05-15"></transaction-date>
-   <value currency="USD" value-date="2020-05-15">50426</value>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="379" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1413</iati-identifier>
-  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
-   <narrative xml:lang="EN">Mastercard Foundation</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">2020 COVID-19 RRP - Immediate Scholar Needs</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">2020 COVID-19 RRP - Immediate Scholar Needs</narrative>
-  </description>
-  <participating-org role="4">
-   <narrative xml:lang="EN">Wellesley College</narrative>
-  </participating-org>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-05-20" type="1"></activity-date>
-  <activity-date iso-date="2023-08-31" type="3"></activity-date>
-  <sector code="72050" percentage="100" vocabulary="1"></sector>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-05-15"></transaction-date>
-   <value currency="USD" value-date="2020-05-15">96530</value>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="381" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1415</iati-identifier>
-  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
-   <narrative xml:lang="EN">Mastercard Foundation</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">2020 COVID-199 RRP for Immediate Student Needs</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">2020 COVID-199 RRP for Immediate Student Needs</narrative>
-  </description>
-  <participating-org role="4">
-   <narrative xml:lang="EN">University of Victoria</narrative>
-  </participating-org>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-05-28" type="1"></activity-date>
-  <activity-date iso-date="2021-05-27" type="3"></activity-date>
-  <recipient-country code="CA" percentage="100"></recipient-country>
-  <sector code="72050" percentage="100" vocabulary="1"></sector>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-05-26"></transaction-date>
-   <value currency="USD" value-date="2020-05-26">166839.44</value>
-  </transaction>
- </iati-activity>
- <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="382" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1416</iati-identifier>
-  <reporting-org ref="CA-CRA_ACR-817387277" type="60">
-   <narrative xml:lang="EN">Mastercard Foundation</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">2020 Management Project - COVID-19 Portal</narrative>
-  </title>
-  <description>
-   <narrative xml:lang="EN">2020 Management Project - COVID-19 Portal</narrative>
-  </description>
-  <participating-org role="4">
-   <narrative xml:lang="EN">York University</narrative>
-  </participating-org>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-06-10" type="1"></activity-date>
-  <activity-date iso-date="2021-06-09" type="3"></activity-date>
-  <recipient-country code="CA" percentage="100"></recipient-country>
-  <sector code="99810" percentage="100" vocabulary="1"></sector>
-  <transaction>
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-05-22"></transaction-date>
-   <value currency="USD" value-date="2020-05-22">18457</value>
-  </transaction>
- </iati-activity>
  <iati-activity default-currency="USD" dstore:dataset="mastercard-foundation-ca-01" dstore:index="388" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CA-CRA_ACR-817387277-PROJECTS-1422</iati-identifier>
   <reporting-org ref="CA-CRA_ACR-817387277" type="60">
@@ -955,512 +831,6 @@ Work with local governments and national media on pre-empting stigmatization and
    <transaction-date iso-date="2020-08-28"></transaction-date>
    <value currency="USD" value-date="2020-08-28">120196</value>
   </transaction>
- </iati-activity>
- <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="2649" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CH-4-2019000577</iati-identifier>
-  <reporting-org ref="CH-4" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Contribution to IFRC Emergency Appeal: Novel coronavirus (2019-nCoV) outbreak</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="EN">As of 06. February 2020 a total of 28&#x2019;292 infections and 565 deaths have been reported with the majority of the cases occurring in China. The preliminary Emergency Appeal from the IFRC is seeking Swiss Francs 3 Million to support Red Cross Red Crescent Societies globally, to contribute to stopping transmission of the virus, and helping to ensure the health and dignity of communities affected by the outbreak. IFRC will work closely with National Societies in countries where transmission has taken place, and on preparedness measures for all countries. The main area of focus for this response is Health and WASH, which will include risk communication and community engagement, psychosocial support, capacity building of NS on epidemic response and support. Other areas of focus are protection, gender and inclusion and migration. While at the moment the response is largely in the Asia Pacific region, the IFRC is supporting National Societies in at risk countries with preparedness activities. The IFRC at global, country and regional level is coordinating with other agencies including WHO, UNICEF and CDC in information sharing and guidance.</narrative>
-  </description>
-  <participating-org ref="XM-DAC-47066" role="4" type="40">
-   <narrative xml:lang="EN">Organisation internationale des migrations</narrative>
-  </participating-org>
-  <participating-org ref="CH-4" role="1" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </participating-org>
-  <other-identifier ref="7F-10305.01.01" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-01-01" type="1"></activity-date>
-  <activity-date iso-date="2020-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-03-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
-   </organisation>
-   <department>
-    <narrative xml:lang="EN">Statistics Unit</narrative>
-   </department>
-   <telephone>+41 58 464 92 35</telephone>
-   <email>stats.sdc@eda.admin.ch</email>
-   <website>http://www.sdc.admin.ch</website>
-   <mailing-address>
-    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-region code="998" percentage="100" vocabulary="1">
-   <narrative xml:lang="EN">Pays en d&#xE9;veloppement, non sp&#xE9;cifi&#xE9;</narrative>
-  </recipient-region>
-  <sector code="15190" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="5" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
-  </policy-marker>
-  <policy-marker code="8" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
-  </policy-marker>
-  <policy-marker code="7" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
-  </policy-marker>
-  <policy-marker code="6" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
-  </policy-marker>
-  <policy-marker code="2" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid to Environment</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="1" vocabulary="1">
-   <narrative xml:lang="EN">Gender Equality</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
-  </policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="10"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <transaction ref="7F-10305.01.01">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">160000</value>
-   <description>
-    <narrative xml:lang="EN">Disbursement</narrative>
-   </description>
-  </transaction>
-  <transaction ref="7F-10305.01.01">
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">0</value>
-   <description>
-    <narrative xml:lang="EN">Outgoing Commitment</narrative>
-   </description>
-  </transaction>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="2650" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CH-4-2019000578</iati-identifier>
-  <reporting-org ref="CH-4" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Contribution to IFRC Emergency Appeal: Novel coronavirus (2019-nCoV) outbreak</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="EN">As of 06. February 2020 a total of 28&#x2019;292 infections and 565 deaths have been reported with the majority of the cases occurring in China. The preliminary Emergency Appeal from the IFRC is seeking Swiss Francs 3 Million to support Red Cross Red Crescent Societies globally, to contribute to stopping transmission of the virus, and helping to ensure the health and dignity of communities affected by the outbreak. IFRC will work closely with National Societies in countries where transmission has taken place, and on preparedness measures for all countries. The main area of focus for this response is Health and WASH, which will include risk communication and community engagement, psychosocial support, capacity building of NS on epidemic response and support. Other areas of focus are protection, gender and inclusion and migration. While at the moment the response is largely in the Asia Pacific region, the IFRC is supporting National Societies in at risk countries with preparedness activities. The IFRC at global, country and regional level is coordinating with other agencies including WHO, UNICEF and CDC in information sharing and guidance.</narrative>
-  </description>
-  <participating-org ref="XM-DAC-22000" role="4" type="22">
-   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
-  </participating-org>
-  <participating-org ref="CH-4" role="1" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </participating-org>
-  <other-identifier ref="7F-10305.01.02" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-01-01" type="1"></activity-date>
-  <activity-date iso-date="2020-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-03-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
-   </organisation>
-   <department>
-    <narrative xml:lang="EN">Statistics Unit</narrative>
-   </department>
-   <telephone>+41 58 464 92 35</telephone>
-   <email>stats.sdc@eda.admin.ch</email>
-   <website>http://www.sdc.admin.ch</website>
-   <mailing-address>
-    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-region code="998" percentage="100" vocabulary="1">
-   <narrative xml:lang="EN">Pays en d&#xE9;veloppement, non sp&#xE9;cifi&#xE9;</narrative>
-  </recipient-region>
-  <sector code="15190" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="5" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
-  </policy-marker>
-  <policy-marker code="8" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
-  </policy-marker>
-  <policy-marker code="7" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
-  </policy-marker>
-  <policy-marker code="6" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
-  </policy-marker>
-  <policy-marker code="2" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid to Environment</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="1" vocabulary="1">
-   <narrative xml:lang="EN">Gender Equality</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
-  </policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="10"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <transaction ref="7F-10305.01.02">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">150000</value>
-   <description>
-    <narrative xml:lang="EN">Disbursement</narrative>
-   </description>
-  </transaction>
-  <transaction ref="7F-10305.01.02">
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">0</value>
-   <description>
-    <narrative xml:lang="EN">Outgoing Commitment</narrative>
-   </description>
-  </transaction>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="2651" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CH-4-2019000579</iati-identifier>
-  <reporting-org ref="CH-4" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Contribution to IFRC Emergency Appeal: Novel coronavirus (2019-nCoV) outbreak</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="EN">As of 06. February 2020 a total of 28&#x2019;292 infections and 565 deaths have been reported with the majority of the cases occurring in China. The preliminary Emergency Appeal from the IFRC is seeking Swiss Francs 3 Million to support Red Cross Red Crescent Societies globally, to contribute to stopping transmission of the virus, and helping to ensure the health and dignity of communities affected by the outbreak. IFRC will work closely with National Societies in countries where transmission has taken place, and on preparedness measures for all countries. The main area of focus for this response is Health and WASH, which will include risk communication and community engagement, psychosocial support, capacity building of NS on epidemic response and support. Other areas of focus are protection, gender and inclusion and migration. While at the moment the response is largely in the Asia Pacific region, the IFRC is supporting National Societies in at risk countries with preparedness activities. The IFRC at global, country and regional level is coordinating with other agencies including WHO, UNICEF and CDC in information sharing and guidance.</narrative>
-  </description>
-  <participating-org ref="XM-DAC-22000" role="4" type="22">
-   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
-  </participating-org>
-  <participating-org ref="CH-4" role="1" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </participating-org>
-  <other-identifier ref="7F-10305.01.03" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-01-01" type="1"></activity-date>
-  <activity-date iso-date="2020-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-03-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
-   </organisation>
-   <department>
-    <narrative xml:lang="EN">Statistics Unit</narrative>
-   </department>
-   <telephone>+41 58 464 92 35</telephone>
-   <email>stats.sdc@eda.admin.ch</email>
-   <website>http://www.sdc.admin.ch</website>
-   <mailing-address>
-    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-region code="998" percentage="100" vocabulary="1">
-   <narrative xml:lang="EN">Pays en d&#xE9;veloppement, non sp&#xE9;cifi&#xE9;</narrative>
-  </recipient-region>
-  <sector code="15190" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="5" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
-  </policy-marker>
-  <policy-marker code="8" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
-  </policy-marker>
-  <policy-marker code="7" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
-  </policy-marker>
-  <policy-marker code="6" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
-  </policy-marker>
-  <policy-marker code="2" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid to Environment</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="1" vocabulary="1">
-   <narrative xml:lang="EN">Gender Equality</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
-  </policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="10"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <transaction ref="7F-10305.01.03">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">300000</value>
-   <description>
-    <narrative xml:lang="EN">Disbursement</narrative>
-   </description>
-  </transaction>
-  <transaction ref="7F-10305.01.03">
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">0</value>
-   <description>
-    <narrative xml:lang="EN">Outgoing Commitment</narrative>
-   </description>
-  </transaction>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="2652" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CH-4-2019000581</iati-identifier>
-  <reporting-org ref="CH-4" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Contribution to IFRC Emergency Appeal: Novel coronavirus (2019-nCoV) outbreak</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="EN">As of 06. February 2020 a total of 28&#x2019;292 infections and 565 deaths have been reported with the majority of the cases occurring in China. The preliminary Emergency Appeal from the IFRC is seeking Swiss Francs 3 Million to support Red Cross Red Crescent Societies globally, to contribute to stopping transmission of the virus, and helping to ensure the health and dignity of communities affected by the outbreak. IFRC will work closely with National Societies in countries where transmission has taken place, and on preparedness measures for all countries. The main area of focus for this response is Health and WASH, which will include risk communication and community engagement, psychosocial support, capacity building of NS on epidemic response and support. Other areas of focus are protection, gender and inclusion and migration. While at the moment the response is largely in the Asia Pacific region, the IFRC is supporting National Societies in at risk countries with preparedness activities. The IFRC at global, country and regional level is coordinating with other agencies including WHO, UNICEF and CDC in information sharing and guidance.</narrative>
-  </description>
-  <participating-org ref="XM-DAC-22000" role="4" type="22">
-   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
-  </participating-org>
-  <participating-org ref="CH-4" role="1" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </participating-org>
-  <other-identifier ref="7F-10305.01.05" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-01-01" type="1"></activity-date>
-  <activity-date iso-date="2020-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-03-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
-   </organisation>
-   <department>
-    <narrative xml:lang="EN">Statistics Unit</narrative>
-   </department>
-   <telephone>+41 58 464 92 35</telephone>
-   <email>stats.sdc@eda.admin.ch</email>
-   <website>http://www.sdc.admin.ch</website>
-   <mailing-address>
-    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-region code="998" percentage="100" vocabulary="1">
-   <narrative xml:lang="EN">Pays en d&#xE9;veloppement, non sp&#xE9;cifi&#xE9;</narrative>
-  </recipient-region>
-  <sector code="15190" percentage="30" vocabulary="1"></sector>
-  <sector code="15190" percentage="70" vocabulary="1"></sector>
-  <policy-marker code="5" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
-  </policy-marker>
-  <policy-marker code="8" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
-  </policy-marker>
-  <policy-marker code="7" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
-  </policy-marker>
-  <policy-marker code="6" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
-  </policy-marker>
-  <policy-marker code="2" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid to Environment</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="1" vocabulary="1">
-   <narrative xml:lang="EN">Gender Equality</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
-  </policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="10"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <transaction ref="7F-10305.01.05">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">160000</value>
-   <description>
-    <narrative xml:lang="EN">Disbursement</narrative>
-   </description>
-  </transaction>
-  <transaction ref="7F-10305.01.05">
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">0</value>
-   <description>
-    <narrative xml:lang="EN">Outgoing Commitment</narrative>
-   </description>
-  </transaction>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="2653" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CH-4-2019000582</iati-identifier>
-  <reporting-org ref="CH-4" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Contribution to IFRC Emergency Appeal: Novel coronavirus (2019-nCoV) outbreak</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="EN">As of 06. February 2020 a total of 28&#x2019;292 infections and 565 deaths have been reported with the majority of the cases occurring in China. The preliminary Emergency Appeal from the IFRC is seeking Swiss Francs 3 Million to support Red Cross Red Crescent Societies globally, to contribute to stopping transmission of the virus, and helping to ensure the health and dignity of communities affected by the outbreak. IFRC will work closely with National Societies in countries where transmission has taken place, and on preparedness measures for all countries. The main area of focus for this response is Health and WASH, which will include risk communication and community engagement, psychosocial support, capacity building of NS on epidemic response and support. Other areas of focus are protection, gender and inclusion and migration. While at the moment the response is largely in the Asia Pacific region, the IFRC is supporting National Societies in at risk countries with preparedness activities. The IFRC at global, country and regional level is coordinating with other agencies including WHO, UNICEF and CDC in information sharing and guidance.</narrative>
-  </description>
-  <participating-org ref="XM-DAC-47066" role="4" type="40">
-   <narrative xml:lang="EN">Organisation internationale des migrations</narrative>
-  </participating-org>
-  <participating-org ref="CH-4" role="1" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </participating-org>
-  <other-identifier ref="7F-10305.01.06" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-01-01" type="1"></activity-date>
-  <activity-date iso-date="2020-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-03-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
-   </organisation>
-   <department>
-    <narrative xml:lang="EN">Statistics Unit</narrative>
-   </department>
-   <telephone>+41 58 464 92 35</telephone>
-   <email>stats.sdc@eda.admin.ch</email>
-   <website>http://www.sdc.admin.ch</website>
-   <mailing-address>
-    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-region code="998" percentage="100" vocabulary="1">
-   <narrative xml:lang="EN">Pays en d&#xE9;veloppement, non sp&#xE9;cifi&#xE9;</narrative>
-  </recipient-region>
-  <sector code="15190" percentage="70" vocabulary="1"></sector>
-  <sector code="24050" percentage="30" vocabulary="1"></sector>
-  <policy-marker code="5" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
-  </policy-marker>
-  <policy-marker code="8" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
-  </policy-marker>
-  <policy-marker code="7" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
-  </policy-marker>
-  <policy-marker code="6" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
-  </policy-marker>
-  <policy-marker code="2" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid to Environment</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="1" vocabulary="1">
-   <narrative xml:lang="EN">Gender Equality</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
-  </policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="10"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <transaction ref="7F-10305.01.06">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">400000</value>
-   <description>
-    <narrative xml:lang="EN">Disbursement</narrative>
-   </description>
-  </transaction>
-  <transaction ref="7F-10305.01.06">
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">0</value>
-   <description>
-    <narrative xml:lang="EN">Outgoing Commitment</narrative>
-   </description>
-  </transaction>
-  <conditions attached="0"></conditions>
- </iati-activity>
- <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="2654" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
-  <iati-identifier>CH-4-2019000584</iati-identifier>
-  <reporting-org ref="CH-4" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </reporting-org>
-  <title>
-   <narrative xml:lang="EN">Contribution to IFRC Emergency Appeal: Novel coronavirus (2019-nCoV) outbreak</narrative>
-  </title>
-  <description type="1">
-   <narrative xml:lang="EN">As of 06. February 2020 a total of 28&#x2019;292 infections and 565 deaths have been reported with the majority of the cases occurring in China. The preliminary Emergency Appeal from the IFRC is seeking Swiss Francs 3 Million to support Red Cross Red Crescent Societies globally, to contribute to stopping transmission of the virus, and helping to ensure the health and dignity of communities affected by the outbreak. IFRC will work closely with National Societies in countries where transmission has taken place, and on preparedness measures for all countries. The main area of focus for this response is Health and WASH, which will include risk communication and community engagement, psychosocial support, capacity building of NS on epidemic response and support. Other areas of focus are protection, gender and inclusion and migration. While at the moment the response is largely in the Asia Pacific region, the IFRC is supporting National Societies in at risk countries with preparedness activities. The IFRC at global, country and regional level is coordinating with other agencies including WHO, UNICEF and CDC in information sharing and guidance.</narrative>
-  </description>
-  <participating-org ref="XM-DAC-22000" role="4" type="22">
-   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
-  </participating-org>
-  <participating-org ref="CH-4" role="1" type="10">
-   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
-  </participating-org>
-  <other-identifier ref="7F-10305.01.08" type="A1"></other-identifier>
-  <activity-status code="2"></activity-status>
-  <activity-date iso-date="2020-01-01" type="1"></activity-date>
-  <activity-date iso-date="2020-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-03-31" type="3"></activity-date>
-  <contact-info type="1">
-   <organisation>
-    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
-   </organisation>
-   <department>
-    <narrative xml:lang="EN">Statistics Unit</narrative>
-   </department>
-   <telephone>+41 58 464 92 35</telephone>
-   <email>stats.sdc@eda.admin.ch</email>
-   <website>http://www.sdc.admin.ch</website>
-   <mailing-address>
-    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
-   </mailing-address>
-  </contact-info>
-  <recipient-region code="998" percentage="100" vocabulary="1">
-   <narrative xml:lang="EN">Pays en d&#xE9;veloppement, non sp&#xE9;cifi&#xE9;</narrative>
-  </recipient-region>
-  <sector code="15190" percentage="100" vocabulary="1"></sector>
-  <policy-marker code="5" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
-  </policy-marker>
-  <policy-marker code="8" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
-  </policy-marker>
-  <policy-marker code="7" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
-  </policy-marker>
-  <policy-marker code="6" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
-  </policy-marker>
-  <policy-marker code="2" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Aid to Environment</narrative>
-  </policy-marker>
-  <policy-marker code="1" significance="1" vocabulary="1">
-   <narrative xml:lang="EN">Gender Equality</narrative>
-  </policy-marker>
-  <policy-marker code="9" significance="0" vocabulary="1">
-   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
-  </policy-marker>
-  <collaboration-type code="1"></collaboration-type>
-  <default-flow-type code="10"></default-flow-type>
-  <default-finance-type code="110"></default-finance-type>
-  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
-  <default-tied-status code="5"></default-tied-status>
-  <transaction ref="7F-10305.01.08">
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">73000</value>
-   <description>
-    <narrative xml:lang="EN">Disbursement</narrative>
-   </description>
-  </transaction>
-  <transaction ref="7F-10305.01.08">
-   <transaction-type code="2"></transaction-type>
-   <transaction-date iso-date="2020-12-31"></transaction-date>
-   <value currency="CHF" value-date="2020-12-31">0</value>
-   <description>
-    <narrative xml:lang="EN">Outgoing Commitment</narrative>
-   </description>
-  </transaction>
-  <conditions attached="0"></conditions>
  </iati-activity>
  <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="2850" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>CH-4-2020000956</iati-identifier>
@@ -6240,6 +5610,944 @@ Work with local governments and national media on pre-empting stigmatization and
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2020-12-31"></transaction-date>
    <value currency="CHF" value-date="2020-12-31">500000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3178" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001285</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">ML Projet EHA dans MRR riposte COVID 19</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-22000" role="4" type="22">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10593.01.02" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-01" type="1"></activity-date>
+  <activity-date iso-date="2020-08-01" type="2"></activity-date>
+  <activity-date iso-date="2021-04-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="ML" percentage="100">
+   <narrative xml:lang="EN">Mali</narrative>
+  </recipient-country>
+  <sector code="72040" percentage="30" vocabulary="1"></sector>
+  <sector code="72050" percentage="20" vocabulary="1"></sector>
+  <sector code="72050" percentage="50" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10593.01.02">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">0</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10593.01.02">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">125000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3179" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001286</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">NI: COVID-19 Escuelas y centros salud</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-23000" role="4" type="23">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays en d&#xE9;veloppement</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10594.01.01" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-01" type="1"></activity-date>
+  <activity-date iso-date="2020-08-01" type="2"></activity-date>
+  <activity-date iso-date="2021-02-28" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="NI" percentage="100">
+   <narrative xml:lang="EN">Nicaragua</narrative>
+  </recipient-country>
+  <sector code="14031" percentage="70" vocabulary="1"></sector>
+  <sector code="14032" percentage="30" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10594.01.01">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">265400</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10594.01.01">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">290000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3180" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001287</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">NI: COVID-19 Escuelas y centros salud</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-23000" role="4" type="23">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays en d&#xE9;veloppement</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10594.01.02" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-01" type="1"></activity-date>
+  <activity-date iso-date="2020-08-01" type="2"></activity-date>
+  <activity-date iso-date="2021-02-28" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="NI" percentage="100">
+   <narrative xml:lang="EN">Nicaragua</narrative>
+  </recipient-country>
+  <sector code="14031" percentage="70" vocabulary="1"></sector>
+  <sector code="14032" percentage="30" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10594.01.02">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">0</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10594.01.02">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">10000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3185" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001292</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Libya ACF Preventing COVID 19</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21000" role="4" type="21">
+   <narrative xml:lang="EN">ONG INTERNATIONALE</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10598.01.01" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-11-01" type="1"></activity-date>
+  <activity-date iso-date="2020-11-01" type="2"></activity-date>
+  <activity-date iso-date="2021-03-31" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="LY" percentage="100">
+   <narrative xml:lang="EN">Libye</narrative>
+  </recipient-country>
+  <sector code="15180" percentage="30" vocabulary="1"></sector>
+  <sector code="72050" percentage="70" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10598.01.01">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">213999</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10598.01.01">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">214000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3186" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001293</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Libya ACF Preventing COVID 19</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21000" role="4" type="21">
+   <narrative xml:lang="EN">ONG INTERNATIONALE</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10598.01.02" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-11-01" type="1"></activity-date>
+  <activity-date iso-date="2020-11-01" type="2"></activity-date>
+  <activity-date iso-date="2021-03-31" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="LY" percentage="100">
+   <narrative xml:lang="EN">Libye</narrative>
+  </recipient-country>
+  <sector code="72050" percentage="30" vocabulary="1"></sector>
+  <sector code="72050" percentage="70" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10598.01.02">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">0</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10598.01.02">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">47685</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3187" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001294</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">LIB GVC Protection COVID 19 South Libya</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-22000" role="4" type="22">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10599.01.01" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-10-01" type="1"></activity-date>
+  <activity-date iso-date="2020-10-01" type="2"></activity-date>
+  <activity-date iso-date="2021-02-28" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="LY" percentage="100">
+   <narrative xml:lang="EN">Libye</narrative>
+  </recipient-country>
+  <sector code="72050" percentage="30" vocabulary="1"></sector>
+  <sector code="72050" percentage="70" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10599.01.01">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">280000</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10599.01.01">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">280000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3188" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001295</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">LIB GVC Protection COVID 19 South Libya</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-22000" role="4" type="22">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10599.01.02" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-10-01" type="1"></activity-date>
+  <activity-date iso-date="2020-10-01" type="2"></activity-date>
+  <activity-date iso-date="2021-02-28" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="LY" percentage="100">
+   <narrative xml:lang="EN">Libye</narrative>
+  </recipient-country>
+  <sector code="72050" percentage="30" vocabulary="1"></sector>
+  <sector code="72050" percentage="70" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10599.01.02">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">0</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10599.01.02">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">111848</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3189" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001296</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">TCD-ACF-R&#xE9;ponse Covid-19:pr&#xE9;. sauv. vies</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21000" role="4" type="21">
+   <narrative xml:lang="EN">ONG INTERNATIONALE</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10600.01.01" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-05-10" type="1"></activity-date>
+  <activity-date iso-date="2020-05-10" type="2"></activity-date>
+  <activity-date iso-date="2020-08-09" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="TD" percentage="100">
+   <narrative xml:lang="EN">Tchad</narrative>
+  </recipient-country>
+  <sector code="12110" percentage="30" vocabulary="1"></sector>
+  <sector code="12250" percentage="50" vocabulary="1"></sector>
+  <sector code="12310" percentage="20" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10600.01.01">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">69000</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10600.01.01">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">87000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3190" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001297</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Libyen NRC NTK COVID-19</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-22000" role="4" type="22">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10601.01.01" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-09-01" type="1"></activity-date>
+  <activity-date iso-date="2020-09-01" type="2"></activity-date>
+  <activity-date iso-date="2021-02-28" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="LY" percentage="100">
+   <narrative xml:lang="EN">Libye</narrative>
+  </recipient-country>
+  <sector code="72050" percentage="30" vocabulary="1"></sector>
+  <sector code="72050" percentage="70" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10601.01.01">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">214000</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10601.01.01">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">214000</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3191" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001298</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Libyen NRC NTK COVID-19</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-22000" role="4" type="22">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10601.01.02" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-09-01" type="1"></activity-date>
+  <activity-date iso-date="2020-09-01" type="2"></activity-date>
+  <activity-date iso-date="2021-02-28" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="LY" percentage="100">
+   <narrative xml:lang="EN">Libye</narrative>
+  </recipient-country>
+  <sector code="72050" percentage="30" vocabulary="1"></sector>
+  <sector code="72050" percentage="70" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10601.01.02">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">0</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10601.01.02">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">28500</value>
+   <description>
+    <narrative xml:lang="EN">Outgoing Commitment</narrative>
+   </description>
+  </transaction>
+  <conditions attached="0"></conditions>
+ </iati-activity>
+ <iati-activity default-currency="CHF" dstore:dataset="sdc_ch-210426" dstore:index="3196" hierarchy="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>CH-4-2020001303</iati-identifier>
+  <reporting-org ref="CH-4" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">BOL Helvetas:Sustainability of COVID P&amp;R</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">No description for this activity available at this point. Description indisponible pour cette activit&#xE9;.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-22000" role="4" type="22">
+   <narrative xml:lang="EN">ONG bas&#xE9;e dans un pays donneur</narrative>
+  </participating-org>
+  <participating-org ref="CH-4" role="1" type="10">
+   <narrative xml:lang="EN">Swiss Agency for Development and Cooperation (SDC)</narrative>
+  </participating-org>
+  <other-identifier ref="7F-10607.01.01" type="A1"></other-identifier>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-08-17" type="1"></activity-date>
+  <activity-date iso-date="2020-08-17" type="2"></activity-date>
+  <activity-date iso-date="2021-03-31" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">Swiss Agency for Development and Cooperation SDC</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">Statistics Unit</narrative>
+   </department>
+   <telephone>+41 58 464 92 35</telephone>
+   <email>stats.sdc@eda.admin.ch</email>
+   <website>http://www.sdc.admin.ch</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Freiburgstrasse 130, 3003 Berne</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="BO" percentage="100">
+   <narrative xml:lang="EN">Bolivie (&#xC9;tat plurinational de)</narrative>
+  </recipient-country>
+  <sector code="12261" percentage="50" vocabulary="1"></sector>
+  <sector code="14032" percentage="30" vocabulary="1"></sector>
+  <sector code="72040" percentage="20" vocabulary="1"></sector>
+  <policy-marker code="5" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+  </policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+  </policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Mitigation</narrative>
+  </policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Aid to Environment</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1">
+   <narrative xml:lang="EN">Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <transaction ref="7F-10607.01.01">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">146048</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+  </transaction>
+  <transaction ref="7F-10607.01.01">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2020-12-31"></transaction-date>
+   <value currency="CHF" value-date="2020-12-31">160000</value>
    <description>
     <narrative xml:lang="EN">Outgoing Commitment</narrative>
    </description>
