@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2021-07-08T02:17:35.692378","#meta+flows+num":1280},"data":[
+{"metadata":{"#date+run":"2021-07-12T20:35:53.376051","#meta+flows+num":1280},"data":[
 {"#org+id+reporting":"fr-3","#org+reporting+type":"10","#org+name+provider":"","#org+name+receiver":"Alliance for Int Med Action","#indicator+bool+humanitarian":0,"#indicator+bool+strict":0,"#x_transaction_direction":"outgoing","#value+total":2323700},
 {"#org+id+reporting":"fr-3","#org+reporting+type":"10","#org+name+provider":"","#org+name+receiver":"REPUBLIQUE DE COTE D'IVOIRE","#indicator+bool+humanitarian":0,"#indicator+bool+strict":1,"#x_transaction_direction":"outgoing","#value+total":7447733},
 {"#org+id+reporting":"xm-dac-6-4","#org+reporting+type":"10","#org+name+provider":"","#org+name+receiver":"AICS","#indicator+bool+humanitarian":0,"#indicator+bool+strict":0,"#x_transaction_direction":"outgoing","#value+total":16492},

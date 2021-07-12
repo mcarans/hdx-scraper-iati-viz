@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2021-07-08T04:38:35.484461","#meta+flows+num":5618},"data":[
+{"metadata":{"#date+run":"2021-07-12T20:54:54.100387","#meta+flows+num":5618},"data":[
 {"#org+id+reporting":"lb-moi-497","#org+reporting+type":"22","#org+name+provider":"","#org+name+receiver":"(Direct expenditure)","#indicator+bool+humanitarian":1,"#indicator+bool+strict":0,"#x_transaction_direction":"outgoing","#value+total":1112742},
 {"#org+id+reporting":"gb-coh-294860","#org+reporting+type":"21","#org+name+provider":"","#org+name+receiver":"(Direct expenditure)","#indicator+bool+humanitarian":0,"#indicator+bool+strict":0,"#x_transaction_direction":"outgoing","#value+total":2178},
 {"#org+id+reporting":"gb-coh-294860","#org+reporting+type":"21","#org+name+provider":"","#org+name+receiver":"(Direct expenditure)","#indicator+bool+humanitarian":0,"#indicator+bool+strict":1,"#x_transaction_direction":"outgoing","#value+total":165845},
