@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-activities version="2.03">
+ <iati-activity default-currency="USD" dstore:dataset="ksrelief291-ye" dstore:index="276" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-OCHAS-HPC6770-5394</iati-identifier>
+  <reporting-org ref="XM-OCHAS-HPC6770" secondary-reporter="0" type="10">
+   <narrative xml:lang="AR">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">The Joint Executive Program to Support the Humanitarian Response Plan in Yemen 2020 Mal Emergency Response to the Novel Coronavirus (COVID-19) pandemic in the targeted health facilities in the southern governorates (Aden, Lahj, Abyan, Al Dhale&apos;e, Shabwah, Mahra, Hadramawt Al Sahel, Hadramout Al Wadi, Taiz, Socotra).</narrative>
+  </title>
+  <description type="2">
+   <narrative xml:lang="EN">1- Training of medical personnel to deal with the pandemic
+2- Increase the hospital bed capacity to receive infected cases
+3. Increase the clinical capacity in the intensive care departments
+4. Providing ventilators, intensive care devices and emergency departments
+5. Establishing 60 respiratory screening points in hospitals and health centers
+6- Providing the laboratory department with the equipment and consumables required to detect the disease
+7. Providing personal protection equipment for medical personnel
+8. Equipping the isolation centers and supplying them with the required equipment, medicines and consumables
+9. Coordination of efforts between partners in the health sector</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Supporting the health sector in the Republic of Yemen to deal with the emerging corona virus, Covid-19.</narrative>
+  </description>
+  <participating-org activity-id="5394" crs-channel-code="11000" ref="XM-OCHA-HPC6770" role="1" type="10">
+   <narrative xml:lang="EN">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="40000" ref="XM-DAC-41122" role="4" type="40">
+   <narrative xml:lang="EN">United Nations Children&apos;s Fund (UNICEF)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-09-17" type="2"></activity-date>
+  <activity-date iso-date="2021-04-30" type="3"></activity-date>
+  <recipient-country code="YE" percentage="100"></recipient-country>
+  <sector code="12250" percentage="100" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-09-17"></period-start>
+   <period-end iso-date="2021-04-30"></period-end>
+   <value currency="USD" value-date="2020-09-17">4000000</value>
+  </budget>
+  <transaction humanitarian="1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-17"></transaction-date>
+   <value currency="USD" value-date="2020-09-17">4000000</value>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="ksrelief291-ye" dstore:index="277" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-OCHAS-HPC6770-5395</iati-identifier>
+  <reporting-org ref="XM-OCHAS-HPC6770" secondary-reporter="0" type="10">
+   <narrative xml:lang="AR">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Integrated Emergency Health Response Program to ensure continuity and expansion of services through integrated prevention of COVID-19.</narrative>
+  </title>
+  <description type="2">
+   <narrative xml:lang="EN">1- Training of medical personnel to deal with the pandemic
+2- Increase the hospital bed capacity to receive infected cases
+3. Increase the clinical capacity in the intensive care departments
+4. Providing ventilators, intensive care devices and emergency departments
+5. Establishing 60 respiratory screening points in hospitals and health centers
+6- Providing the laboratory department with the equipment and consumables required to detect the disease
+7. Providing personal protection equipment for medical personnel
+8. Equipping the isolation centers and supplying them with the required equipment, medicines and consumables
+9. Coordination of efforts between partners in the health sector</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Supporting the health sector in the Republic of Yemen to deal with the emerging corona virus, Covid -19</narrative>
+  </description>
+  <participating-org activity-id="5395" crs-channel-code="11000" ref="XM-OCHA-HPC6770" role="1" type="10">
+   <narrative xml:lang="EN">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="40000" ref="XM-DAC-41122" role="4" type="40">
+   <narrative xml:lang="EN">United Nations Children&apos;s Fund (UNICEF)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-09-17" type="2"></activity-date>
+  <activity-date iso-date="2021-04-30" type="3"></activity-date>
+  <recipient-country code="YE" percentage="100"></recipient-country>
+  <sector code="12250" percentage="100" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-09-17"></period-start>
+   <period-end iso-date="2021-04-30"></period-end>
+   <value currency="USD" value-date="2020-09-17">11200000</value>
+  </budget>
+  <transaction humanitarian="1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-09-17"></transaction-date>
+   <value currency="USD" value-date="2020-09-17">11200000</value>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="ksrelief291-ye" dstore:index="279" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-OCHAS-HPC6770-5398</iati-identifier>
+  <reporting-org ref="XM-OCHAS-HPC6770" secondary-reporter="0" type="10">
+   <narrative xml:lang="AR">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Supporting the international response to internally displaced persons and refugees during the COVID-19 pandemic.</narrative>
+  </title>
+  <description type="2">
+   <narrative xml:lang="EN">Preventing the spread of the epidemic among refugees and displaced persons by providing preventive means and equipping isolation centers to limit the spread of the epidemic in addition to treating positive cases and providing devices and equipment to treat critical cases in the intensive care departments</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Supporting hospitals and medical centers and equipping isolation centers to receive patients from refugees and displaced people in the Republic of Yemen</narrative>
+  </description>
+  <participating-org activity-id="5398" crs-channel-code="11000" ref="XM-OCHA-HPC6770" role="1" type="10">
+   <narrative xml:lang="EN">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="40000" ref="XM-DAC-41121" role="4" type="40">
+   <narrative xml:lang="EN">United Nations High Commissioner for Refugees (UNHCR)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-10-01" type="2"></activity-date>
+  <activity-date iso-date="2021-04-01" type="3"></activity-date>
+  <recipient-country code="YE" percentage="100"></recipient-country>
+  <sector code="12250" percentage="100" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-10-01"></period-start>
+   <period-end iso-date="2021-04-01"></period-end>
+   <value currency="USD" value-date="2020-10-01">3000000</value>
+  </budget>
+  <transaction humanitarian="1">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-10-01"></transaction-date>
+   <value currency="USD" value-date="2020-10-01">3000000</value>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="ksrelief291-bd" dstore:index="18" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-OCHAS-HPC6770-5549</iati-identifier>
+  <reporting-org ref="XM-OCHAS-HPC6770" secondary-reporter="0" type="10">
+   <narrative xml:lang="AR">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Supporting the Republic of Bangladesh with medical devices, equipment and medicines to confront COVID-19 .</narrative>
+  </title>
+  <description type="2">
+   <narrative xml:lang="EN">1- Contribute to global efforts to confront Covid -19 pandemic and protect societies and the most dangerous of them.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Supplying medical supplies to confront the Corona pandemic to Bangladesh, including personal protective equipment such as masks, protective clothing and sterilizers.</narrative>
+  </description>
+  <participating-org crs-channel-code="12000" role="4" type="10">
+   <narrative xml:lang="EN">Bangladesh government</narrative>
+  </participating-org>
+  <participating-org activity-id="5549" crs-channel-code="11000" ref="XM-OCHA-HPC6770" role="1" type="10">
+   <narrative xml:lang="EN">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </participating-org>
+  <activity-status code="4"></activity-status>
+  <activity-date iso-date="2020-07-19" type="2"></activity-date>
+  <activity-date iso-date="2020-09-20" type="4"></activity-date>
+  <recipient-country code="BD" percentage="100"></recipient-country>
+  <sector code="12250" percentage="100" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-07-19"></period-start>
+   <period-end iso-date="2020-09-30"></period-end>
+   <value currency="USD" value-date="2020-07-19">1115000</value>
+  </budget>
+  <transaction humanitarian="0">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-07-19"></transaction-date>
+   <value currency="USD" value-date="2020-09-30">1115000</value>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="ksrelief291-sd" dstore:index="13" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-OCHAS-HPC6770-5570</iati-identifier>
+  <reporting-org ref="XM-OCHAS-HPC6770" secondary-reporter="0" type="10">
+   <narrative xml:lang="AR">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Supporting the Republic of Sudan with preventive medical supplies to confront the Corona Virus Covid-19</narrative>
+  </title>
+  <description type="2">
+   <narrative xml:lang="EN">Providing capabilities, raising the readiness of health facilities and their steadfastness in receiving patients, reducing complications of injuries and deaths, and enhancing the capabilities of health workers</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Purchasing and providing preventive medical supplies to confront the emerging Covid-19, providing capabilities and raising the readiness of health facilities</narrative>
+  </description>
+  <description type="4">
+   <narrative xml:lang="EN">The complete readiness of health facilities and the reduction of complications of injuries and deaths for a number of (700) thousand beneficiaries.</narrative>
+  </description>
+  <participating-org activity-id="5570" crs-channel-code="11000" ref="XM-OCHA-HPC6770" role="1" type="10">
+   <narrative xml:lang="EN">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="12000" role="4" type="10">
+   <narrative xml:lang="EN">Sudan Federal Ministry of Health</narrative>
+  </participating-org>
+  <activity-status code="4"></activity-status>
+  <activity-date iso-date="2020-08-01" type="2"></activity-date>
+  <activity-date iso-date="2021-01-17" type="4"></activity-date>
+  <recipient-country code="SD" percentage="100"></recipient-country>
+  <sector code="12250" percentage="100" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-08-01"></period-start>
+   <period-end iso-date="2021-01-17"></period-end>
+   <value currency="USD" value-date="2020-08-01">1066667</value>
+  </budget>
+  <transaction humanitarian="0">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2020-08-01"></transaction-date>
+   <value currency="USD" value-date="2020-08-01">1066667</value>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="ksrelief291-so" dstore:index="18" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-OCHAS-HPC6770-5577</iati-identifier>
+  <reporting-org ref="XM-OCHAS-HPC6770" secondary-reporter="0" type="10">
+   <narrative xml:lang="AR">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Providing educational and protection services for children to face the Corona pandemic in Somalia Covid-19</narrative>
+  </title>
+  <description type="2">
+   <narrative xml:lang="EN">1- Disinfect school infrastructure, furniture and teaching and learning supplies to ensure the safe return to schools.
+Ensure that children affected by the COVID-19 pandemic have access to appropriate alternative care arrangements and provide them with psychosocial support.
+2- Training and capacity building of child protection professionals on the effects of the COVID-19 pandemic on children in preparation for isolated or therapeutic cases, including psychosocial impacts.
+3-Supporting the Ministry of Education in Somalia by providing educational supplies to continue the educational process online.</narrative>
+  </description>
+  <description type="4">
+   <narrative xml:lang="EN">At least 18,250 direct beneficiaries (3250 beneficiaries from the education sector - 15,000 beneficiaries from the protection sector).</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Providing education and protection services for children and educational cadres in the Republic of Somalia to ensure continuity of life in light of the current conditions to confront the Corona virus COVID-19</narrative>
+  </description>
+  <participating-org activity-id="5577" crs-channel-code="11000" ref="XM-OCHA-HPC6770" role="1" type="10">
+   <narrative xml:lang="EN">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="40000" ref="XM-DAC-41122" role="4" type="40">
+   <narrative xml:lang="EN">United Nations Children&apos;s Fund (UNICEF)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2021-02-02" type="2"></activity-date>
+  <activity-date iso-date="2022-02-01" type="3"></activity-date>
+  <recipient-country code="SO" percentage="100"></recipient-country>
+  <sector code="43010" percentage="100" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2021-02-02"></period-start>
+   <period-end iso-date="2022-02-01"></period-end>
+   <value currency="USD" value-date="2021-02-02">619980</value>
+  </budget>
+  <transaction humanitarian="0">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-02-02"></transaction-date>
+   <value currency="USD" value-date="2021-02-02">619980</value>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="ksrelief291-ps" dstore:index="6" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-OCHAS-HPC6770-5619</iati-identifier>
+  <reporting-org ref="XM-OCHAS-HPC6770" secondary-reporter="0" type="10">
+   <narrative xml:lang="AR">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Providing and distributing food baskets in Palestine</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Providing (16,550) food baskets and distributing them during the month of Ramadan to the poorest and most vulnerable families in the targeted areas</narrative>
+  </description>
+  <description type="2">
+   <narrative xml:lang="EN">Supporting chaste and needy Palestinian families with basic foodstuffs during the month of Ramadan in areas that suffer from food insecurity after the spread of the (COVID-19) crisis, which led to an increase in the deterioration of economic conditions, poverty and unemployment among the Palestinian community and helping them to provide food requirements.</narrative>
+  </description>
+  <participating-org activity-id="5619" crs-channel-code="11000" ref="XM-OCHA-HPC6770" role="1" type="10">
+   <narrative xml:lang="EN">King Salman Humanitarian Aid and Relief Centre</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="12000" role="4" type="10">
+   <narrative xml:lang="EN">The Jordan Hashemite Charity Organization for Relief &amp; Development (JHCO)</narrative>
+  </participating-org>
+  <activity-status code="4"></activity-status>
+  <activity-date iso-date="2021-03-15" type="2"></activity-date>
+  <activity-date iso-date="2021-06-15" type="4"></activity-date>
+  <recipient-country code="PS" percentage="100"></recipient-country>
+  <sector code="52010" percentage="100" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2021-03-15"></period-start>
+   <period-end iso-date="2021-06-15"></period-end>
+   <value currency="USD" value-date="2021-03-15">1000000</value>
+  </budget>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2021-03-15"></transaction-date>
+   <value currency="USD" value-date="2021-03-15">1000000</value>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <tied-status code="5"></tied-status>
+  </transaction>
+ </iati-activity>
+ <iati-activity default-currency="USD" dstore:dataset="yai-hub-activities" dstore:index="2" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>ZW-ROD-MA0000405/2015-IATI-DAC-7-PPR-4000003884</iati-identifier>
+  <reporting-org ref="ZW-ROD-MA0000405/2015" secondary-reporter="1" type="21">
+   <narrative xml:lang="EN">Young Africa International HUB</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">COVID-19 EMERGENCY RESPONSE</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">The Activity has been designed to respond to the effects that have been brought about by COVID-19 in Sofala district, Beira  Mozambique. The project has 5 thematic interventions which are COVID-19 and Health, Food Security, Psycho-social Support, Continued Education and Livelihoods. The duration of the project is 6 months (June- December 2020) and is targeting 5000 young people in 6 districts which are Beira, Dondo, Chibabava, Buzi, Nhamatanda and Gorongosa.</narrative>
+  </description>
+  <participating-org activity-id="400003884" crs-channel-code="11000" ref="XM-DAC-7" role="1" type="10">
+   <narrative xml:lang="EN">Netherlands - Ministry of Foreign Affairs</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="20000" role="4" type="23">
+   <narrative xml:lang="EN">REPSSI</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="20000" role="4" type="22">
+   <narrative xml:lang="EN">Young Africa Mozambique</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2020-06-01" type="1">
+   <narrative xml:lang="EN">The project effective started in June 2020</narrative>
+  </activity-date>
+  <recipient-country code="MZ" percentage="100">
+   <narrative xml:lang="EN">The project is being implemented in Sofala , Mozambique. The districts being targeted include Beira, Dondo, Chibabava, Buzi, Nhamatanda and Gorongosa.</narrative>
+  </recipient-country>
+  <sector code="72040" percentage="70" vocabulary="1">
+   <narrative xml:lang="EN">Food parcels and Soup Kitchens</narrative>
+  </sector>
+  <sector code="12220" percentage="5" vocabulary="1">
+   <narrative xml:lang="EN">Provision of COVID-19 Personal Protective Equipment (PPE) and awareness</narrative>
+  </sector>
+  <sector code="12340" percentage="5" vocabulary="1">
+   <narrative xml:lang="EN">Psycho-social support</narrative>
+  </sector>
+  <sector code="11330" percentage="10" vocabulary="1">
+   <narrative xml:lang="EN">Set-up for a vocational training virtual learning platform.</narrative>
+  </sector>
+  <sector code="43072" percentage="10" vocabulary="1"></sector>
+  <budget status="2" type="1">
+   <period-start iso-date="2020-06-01"></period-start>
+   <period-end iso-date="2020-12-31"></period-end>
+   <value currency="EUR" value-date="2020-06-01">1200000</value>
+  </budget>
+  <transaction humanitarian="1">
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2020-06-30"></transaction-date>
+   <value currency="USD" value-date="2020-06-30">1200000</value>
+   <description>
+    <narrative xml:lang="EN">Support the set-up of soup kitchens, procurement of food parcels and provision for Protective Equipment.</narrative>
+   </description>
+   <provider-org ref="IATI-DAC-7-PPR" type="10">
+    <narrative xml:lang="EN">Support for the project is being received from the Netherlands  Ministry of foreign Affairs through the Embassy of the Kingdom of the Netherlands.</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="4000003884" ref="IATI-DAC-7-PPR" type="21">
+    <narrative xml:lang="EN">YA International receiving organisation and sub granting to YA Mozambique and REPSSI.</narrative>
+   </receiver-org>
+   <disbursement-channel code="2"></disbursement-channel>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="A01" vocabulary="1"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/1D-INTERLEAVED-PARITYFEC" url="https://aidstream.org/files/documents/YA_COVID-19_emergency-response_Mozambique-20210707080750.pdf">
+   <title>
+    <narrative xml:lang="EN">Concept Note for the Activity</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Gives details of the thematic interventions for the project</narrative>
+   </description>
+   <category code="A02"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2020-06-01"></document-date>
+  </document-link>
+  <document-link format="APPLICATION/1D-INTERLEAVED-PARITYFEC" url="https://aidstream.org/files/documents/S2L-M&amp;E-Framework-20200724100729.pdf">
+   <title>
+    <narrative xml:lang="EN">Monitoring and Evaluation framework</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Gives a guide on the indicators which the project is tracking.</narrative>
+   </description>
+   <category code="A08"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2020-06-01"></document-date>
+  </document-link>
+  <document-link format="APPLICATION/1D-INTERLEAVED-PARITYFEC" url="https://aidstream.org/files/documents/COVID-EMERGENCY-RESPONSE-NARRATIVE-REPORT-FINAL-20210706100710.pdf">
+   <title>
+    <narrative xml:lang="EN">Annual narrative report</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">The report gives detail account of activities done from June -December 2020</narrative>
+   </description>
+   <category code="B01"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2020-12-31"></document-date>
+  </document-link>
+  <result aggregation-status="1" type="2">
+   <title>
+    <narrative xml:lang="EN">% of beneficiaries reporting increase in crop production</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Beneficiaries capacitated with skills in organic farming and in production and realizing increase in crop production.</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">results framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">The indicator is tracking beneficiaries in production and have realized improvement as a result of the skills gained and seedlings provided</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="50%"></target>
+     <actual value="51%"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="2">
+   <title>
+    <narrative xml:lang="EN">Improvement in nutritional well-being as a result of food assistance</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Due to the food assistance, the project anticipates beneficiaries and their household to improve in their nutritional well being</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results framework for the project</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">A sample of beneficiaries receiving food parcel and or accessing food at soup kitchens, undergo nutritional assessments.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="80%"></target>
+     <actual value="83%"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Mask production and distribution</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Masks were produced by YA Mozambique and distributed to beneficiaries of food parcels.</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Document contains indicators , targets and how the data has been collected</narrative>
+    </title>
+    <category code="A08"></category>
+    <language code="EN"></language>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">measures the number of masks produced and distributed to beneficiaries</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="22500"></target>
+     <actual value="30000"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="2">
+   <title>
+    <narrative xml:lang="EN">% of completed referrals</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Of the referred, the indicator measures the percentage of concluded cases</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">Percentage of completed referrals</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="50%"></target>
+     <actual value="67%"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Young people supported by clinical psychologist</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">The indicators looks at the number of young people with mental health and psycho-social problems and requiring specialist support.</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+    <language code="EN"></language>
+    <document-date iso-date="2020-06-01"></document-date>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">number of cases attended by clinical psychologist.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="220"></target>
+     <actual value="533"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Young people accessing online lessons</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">The online learning is live online and students accessing lessons</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">students accessing lessons online</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="60%"></target>
+     <actual value="0%"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">COVID-19 Health talks and Information dissemination</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">These talks are to sensitize communities on what COVID-19, how to prevent it, symptoms and what to do if one identifies such symptoms</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPP-IMS+XML" url="https://aidstream.org/files/documents/S2L-M&amp;E-Framework-20200724100729.pdf">
+    <title>
+     <narrative xml:lang="EN">Health and COVID-19 Response</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">using attendance registers, the indicator measures the number of people reached with COVID-19 information.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="22500"></target>
+     <actual value="22175"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Bus fare or user fees given to target beneficiaries</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">This support is to be given to beneficiaries intending to visit a health facility but are constrained due to lack of bus fare or user fees required at the clinic</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">COVID-19 Emergency Response Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">individual count of beneficiaries receiving busfares or user fees</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="500"></target>
+     <actual value="263"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">young people accessing meals at soup kitchens</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">Under the project, soup kitchens have been set-up to provide meals for beneficiaries</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">COVID-19 Emergency Response Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">number of young people on registers showing those who have accessed meals at the soup kitchen</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="5000"></target>
+     <actual value="2500"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Food parcels distribution</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">beneficiaries received food parcels containing basic necessities for a household of 6</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results Framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Indicator measures the number of primary beneficiaries and their household benefitting from the food parcels.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="25000"></target>
+     <actual value="31410"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Course content uploaded online</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">courses have been digitalized and are being uploaded on the virtual learning platform</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Courses visibly and can be accessed online.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="30"></target>
+     <actual value="27"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">beneficiaries capacitated in organic farming</narrative>
+   </title>
+   <description>
+    <narrative xml:lang="EN">for sustainability, beneficiaries are capacitated with skills in organic farming</narrative>
+   </description>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+    <language code="EN"></language>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">number of beneficiaries receiving training.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="500"></target>
+     <actual value="471"></actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">cases of young people referred for further management.</narrative>
+   </title>
+   <document-link format="APPLICATION/3GPDASH-QOE-REPORT+XML" url="https://aidstream.org/files/documents/Final-M&amp;E-Framework-20210707050740.xlsx">
+    <title>
+     <narrative xml:lang="EN">Results framework</narrative>
+    </title>
+    <category code="A08"></category>
+   </document-link>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Individual count of cases referred</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2020-06-01"></period-start>
+     <period-end iso-date="2020-12-31"></period-end>
+     <target value="250"></target>
+     <actual value="364"></actual>
+    </period>
+   </indicator>
+  </result>
+ </iati-activity>
+</iati-activities>
